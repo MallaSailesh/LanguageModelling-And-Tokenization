@@ -44,4 +44,3 @@ Predict the next word for trained models of good turing , linear interpolation a
 
 Note :- Here k can be any natural number . It gives the most probable k words. \
 Note :- First train the models (run language_model.py) then generate(generator.py) because then onle models.py is full 
-
