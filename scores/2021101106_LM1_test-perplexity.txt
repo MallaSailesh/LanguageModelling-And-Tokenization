@@ -1,0 +1,3306 @@
+Avg Perplexity Score on test corpus : 462.14688839988395
+<start> <start> She could 
+ think of nothing but of Mr . Wickham , and of what he had told her , all 
+ the way home ; but there was not time for her even to mention his name as 
+ they went , for neither Lydia nor Mr . Collins were once silent . <end>   415.1124593532051
+<start> <start> there is not a bit of fish to be got to - day . <end>   388.7790692274307
+<start> <start> He takes them now for people of 
+ fashion . " 
+ 
+ The introduction , however , was immediately made ; and as she named their 
+ relationship to herself , she stole a sly look at him , to see how he bore 
+ it ; and was not without the expectation of his decamping as fast as he 
+ could from such disgraceful companions . <end>   340.4761216337053
+<start> <start> Oh , no . " 
+ 
+ " But you blame me for having spoken so warmly of Wickham . " 
+ 
+ " No - - I do not know that you were wrong in saying what you did . " 
+ 
+ " But you _will_ know it , when I have told you what happened the very 
+ next day . " 
+ 
+ She then spoke of the letter , repeating the whole of its contents as far 
+ as they concerned George Wickham . <end>   98.58859150065204
+<start> <start> Her ease and good 
+ spirits increased . <end>   1173.4099642873414
+<start> <start> Mrs . <end>   3.8458585008904347
+<start> <start> " I am sorry to hear _that_ ; but why did not you tell me so before ? <end>   268.88069611113525
+<start> <start> In an hurried manner he immediately began an enquiry after her 
+ health , imputing his visit to a wish of hearing that she were better . <end>   734.6870334436948
+<start> <start> She is quite a little 
+ creature . <end>   224.46279180250502
+<start> <start> They talked of his sister , his friends , his house , his fruit , of every 
+ thing but himself ; yet Elizabeth was longing to know what Mrs . <end>   347.1861178793498
+<start> <start> He 
+ certainly looked at her friend a great deal , but the expression of that 
+ look was disputable . <end>   391.79435679470527
+<start> <start> Wickham ! <end>   197.546551288656
+<start> <start> Philips were now productive of the most interesting 
+ intelligence . <end>   466.57763872690674
+<start> <start> Having said thus much , I feel no 
+ doubt of your secrecy . <end>   567.8777473593565
+<start> <start> Jane had been a week in town , without either seeing or 
+ hearing from Caroline . <end>   705.8971845848046
+<start> <start> Her mother stepped forwards , embraced her , and 
+ welcomed her with rapture ; gave her hand with an affectionate smile to 
+ Wickham , who followed his lady , and wished them both joy , with an 
+ alacrity which shewed no doubt of their happiness . <end>   467.01254350842214
+<start> <start> <NUM> . B . " Project Gutenberg " is a registered trademark . <end>   63.885094176824936
+<start> <start> " I see your design , Bingley , " said his friend . - - " You dislike an 
+ argument , and want to silence this . " 
+ 
+ " Perhaps I do . <end>   238.88145462395858
+<start> <start> " My dearest Lizzy will , I am sure , be incapable of triumphing in 
+ her better judgment , at my expence , when I confess myself to have 
+ been entirely deceived in Miss Bingley 's regard for me . <end>   274.6118935319135
+<start> <start> " I am , dear Sir , & c . <end>   25.760651071040357
+<start> <start> I wonder who first 
+ discovered the efficacy of poetry in driving away love ! " 
+ 
+ " I have been used to consider poetry as the _food_ of love , " said Darcy . <end>   385.4270970615387
+<start> <start> But in what proportions it should be divided amongst the 
+ latter , depended on the will of the parents . <end>   515.6502379211512
+<start> <start> If there is no 
+ other objection to my marrying your nephew , I shall certainly not be 
+ kept from it , by knowing that his mother and aunt wished him to marry 
+ Miss De Bourgh . <end>   94.88521963164635
+<start> <start> But with such 
+ a father and mother , and such low connections , I am afraid there is no 
+ chance of it . " 
+ 
+ " I think I have heard you say , that their uncle is an attorney in 
+ Meryton . " 
+ 
+ " Yes ; and they have another , who lives somewhere near Cheapside . " 
+ 
+ " That is capital , " added her sister , and they both laughed heartily . <end>   96.34087532437266
+<start> <start> Heaven forbid ! <end>   552.5401991676875
+<start> <start> To Caroline 's 
+ assertion of her brother 's being partial to Miss Darcy she paid no 
+ credit . <end>   153.34523833766693
+<start> <start> and having to relate such a thing of 
+ his sister ! <end>   476.78009506222156
+<start> <start> " Books - - Oh ! <end>   88.63937264461386
+<start> <start> She declared her resolution . <end>   1291.336721274055
+<start> <start> She is a handsome girl , about 
+ fifteen or sixteen , and I understand highly accomplished . <end>   529.9366745080056
+<start> <start> Mrs . <end>   3.8458585008904347
+<start> <start> You know it is not 
+ sound , and that you would never act in this way yourself . " 
+ 
+ Occupied in observing Mr . Bingley 's attentions to her sister , Elizabeth 
+ was far from suspecting that she was herself becoming an object of some 
+ interest in the eyes of his friend . <end>   154.75649771130702
+<start> <start> But in spite of all this 
+ fine talking , my dear Lizzy , you may rest perfectly assured , that 
+ your uncle would never have yielded , if we had not given him credit 
+ for _another interest_ in the affair . <end>   310.47160140110446
+<start> <start> Gardiner , whose curiosity 
+ as to the mode of her intelligence was all alive . <end>   366.92333092082896
+<start> <start> But to live in ignorance on such a point was impossible ; or at least it 
+ was impossible not to try for information . <end>   225.62499930610562
+<start> <start> His behaviour to myself has been 
+ scandalous ; but I verily believe I could forgive him any thing and every 
+ thing , rather than his disappointing the hopes and disgracing the memory 
+ of his father . " 
+ 
+ Elizabeth found the interest of the subject increase , and listened with 
+ all her heart ; but the delicacy of it prevented farther inquiry . <end>   528.0100000952627
+<start> <start> He was 
+ angry . <end>   207.7252482857078
+<start> <start> She was ashamed to think how 
+ much . <end>   95.87453153609913
+<start> <start> She wished , she 
+ feared that the master of the house might be amongst them ; and whether 
+ she wished or feared it most , she could scarcely determine . <end>   844.2397345852129
+<start> <start> I wish you very happy and very rich , and by 
+ refusing your hand , do all in my power to prevent your being otherwise . <end>   287.69657273433603
+<start> <start> " She is so fond of Mrs . <end>   81.0578709853134
+<start> <start> He studies too much for 
+ words of four syllables . - - Do not you , Darcy ? " 
+ 
+ " My style of writing is very different from yours . " 
+ 
+ " Oh ! " cried Miss Bingley , " Charles writes in the most careless way 
+ imaginable . <end>   150.72948913657353
+<start> <start> He has a very satirical eye , and if I do not begin by 
+ being impertinent myself , I shall soon grow afraid of him . " 
+ 
+ On his approaching them soon afterwards , though without seeming to have 
+ any intention of speaking , Miss Lucas defied her friend to mention such 
+ a subject to him , which immediately provoking Elizabeth to do it , she 
+ turned to him and said , 
+ 
+ " Did not you think , Mr . Darcy , that I expressed myself uncommonly well 
+ just now , when I was teazing Colonel Forster to give us a ball at 
+ Meryton ? " 
+ 
+ " With great energy ; - - but it is a subject which always makes a lady 
+ energetic . " 
+ 
+ " You are severe on us . " 
+ 
+ " It will be _her_ turn soon to be teazed , " said Miss Lucas . <end>   186.7422041905684
+<start> <start> But , Lizzy ! <end>   7.972960098689335
+<start> <start> When the engagement was for home , some of the officers always 
+ made part of it , of which officers Mr . Wickham was sure to be one ; and 
+ on these occasions , Mrs . <end>   258.1707793168862
+<start> <start> Bennet , with more perseverance than 
+ politeness , protested he must be entirely mistaken , and Lydia , always 
+ unguarded and often uncivil , boisterously exclaimed , 
+ 
+ " Good Lord ! <end>   444.3080045172289
+<start> <start> <NUM> . C . The Project Gutenberg Literary Archive Foundation ( " the Foundation " 
+ or PGLAF ) , owns a compilation copyright in the collection of Project 
+ Gutenberg - tm electronic works . <end>   262.3907666557297
+<start> <start> It was many months since she had mentioned his name to 
+ Elizabeth ; but now , as soon as they were alone together , she said , 
+ 
+ " I saw you look at me to - day , Lizzy , when my aunt told us of the present 
+ report ; and I know I appeared distressed . <end>   181.6048177436547
+<start> <start> My temper I dare not vouch 
+ for . - - It is I believe too little yielding - - certainly too little for the 
+ convenience of the world . <end>   360.1627910163865
+<start> <start> Bennet found , with amazement and horror , 
+ that her husband would not advance a guinea to buy clothes for his 
+ daughter . <end>   643.7297030446623
+<start> <start> " Does that young lady know Mr . Darcy ? " 
+ 
+ Elizabeth coloured , and said - - " A little . " 
+ 
+ " And do not you think him a very handsome gentleman , Ma 'am ? " 
+ 
+ " Yes , very handsome . " 
+ 
+ " I am sure _I_ know none so handsome ; but in the gallery up stairs you 
+ will see a finer , larger picture of him than this . <end>   211.15854035018882
+<start> <start> Philips 's supper party , but his manners recommended him to every 
+ body . <end>   66.58199509448137
+<start> <start> " Indeed , Mr . Bennet , " said she , " it is very hard to think that Charlotte 
+ Lucas should ever be mistress of this house , that I should be forced to 
+ make way for _her_ , and live to see her take my place in it ! " 
+ 
+ " My dear , do not give way to such gloomy thoughts . <end>   50.80605123822893
+<start> <start> But I knew not - - I was afraid of doing too 
+ much . <end>   236.65669841048006
+<start> <start> how heartily did she grieve over every ungracious sensation 
+ she had ever encouraged , every saucy speech she had ever directed 
+ towards him . <end>   756.0217051515684
+<start> <start> They would doubtless be congenial with 
+ the generality of female minds . <end>   863.0594141999143
+<start> <start> Elizabeth again , and more 
+ seriously assured her of its truth . <end>   180.65651596140236
+<start> <start> & c . ; and if she would 
+ give him leave , would take an early opportunity of waiting on them . <end>   306.08000434670674
+<start> <start> Your character was unfolded in the recital which I received 
+ many months ago from Mr . Wickham . <end>   690.8506947785392
+<start> <start> The chief of every day was spent by 
+ him at Lucas Lodge , and he sometimes returned to Longbourn only in time 
+ to make an apology for his absence before the family went to bed . <end>   1229.7815326239322
+<start> <start> " What , is he coming home , and without poor Lydia ! " she cried . <end>   123.70288213094206
+<start> <start> My dear Charles , what do you mean ? " 
+ 
+ " Yes , all of them , I think . <end>   16.05496476209002
+<start> <start> " I have an excessive regard for Jane Bennet , she is really a very sweet 
+ girl , and I wish with all my heart she were well settled . <end>   305.8038998431365
+<start> <start> Bennet , " you 
+ will wait on him of course . " 
+ 
+ " No , no . <end>   56.713078557275416
+<start> <start> Georgiana 's reception of them was very civil ; but attended with 
+ all that embarrassment which , though proceeding from shyness and the 
+ fear of doing wrong , would easily give to those who felt themselves 
+ inferior , the belief of her being proud and reserved . <end>   1575.413905145964
+<start> <start> " We have not quite determined how far it shall carry us , " said Mrs . <end>   141.96884823303915
+<start> <start> When first Mr . Bennet had married , economy was held to be perfectly 
+ useless ; for , of course , they were to have a son . <end>   361.1661636552887
+<start> <start> Elizabeth 
+ noticed every sentence conveying the idea of uneasiness , with an 
+ attention which it had hardly received on the first perusal . <end>   1006.1151202135969
+<start> <start> She turned from sister to sister , demanding their 
+ congratulations , and when at length they all sat down , looked eagerly 
+ round the room , took notice of some little alteration in it , and 
+ observed , with a laugh , that it was a great while since she had been 
+ there . <end>   235.16348321384268
+<start> <start> he is the handsomest young man that 
+ ever was seen ! " 
+ 
+ Wickham , Lydia , were all forgotten . <end>   328.18114865904033
+<start> <start> Her manners were 
+ pronounced to be very bad indeed , a mixture of pride and impertinence ; 
+ she had no conversation , no style , no taste , no beauty . <end>   802.7809201965647
+<start> <start> " I am perfectly ready , I assure you , to keep my engagement ; and when 
+ your sister is recovered , you shall if you please name the very day of 
+ the ball . <end>   269.0677142335248
+<start> <start> The only pain was in leaving her father , who would certainly miss her , 
+ and who , when it came to the point , so little liked her going , that he 
+ told her to write to him , and almost promised to answer her letter . <end>   388.0669763538886
+<start> <start> About ten or a dozen years ago , 
+ before her marriage , she had spent a considerable time in that very part 
+ of Derbyshire , to which he belonged . <end>   768.8276294990233
+<start> <start> Perhaps I am not doing her justice . <end>   281.249423559266
+<start> <start> This must be the grossest falsehood ! " - - and when she had 
+ gone through the whole letter , though scarcely knowing any thing of the 
+ last page or two , put it hastily away , protesting that she would not 
+ regard it , that she would never look in it again . <end>   170.71193517674695
+<start> <start> the 
+ happiest , wisest , most reasonable end ! " 
+ 
+ In a few minutes she was joined by Bingley , whose conference with her 
+ father had been short and to the purpose . <end>   429.4783618697482
+<start> <start> we talked and laughed so 
+ loud , that any body might have heard us ten miles off ! " 
+ 
+ To this , Mary very gravely replied , " Far be it from me , my dear sister , 
+ to depreciate such pleasures . <end>   362.6587163413399
+<start> <start> It distressed her a little , and she was 
+ quite glad to find herself at the gate in the pales opposite the 
+ Parsonage . <end>   244.54187593505145
+<start> <start> My conduct may I fear be objectionable in having accepted my dismission 
+ from your daughter 's lips instead of your own . <end>   1218.519154498532
+<start> <start> Bennet , alarmed . <end>   299.3939729909492
+<start> <start> In the first place , she persisted in disbelieving 
+ the whole of the matter ; secondly , she was very sure that Mr . Collins 
+ had been taken in ; thirdly , she trusted that they would never be happy 
+ together ; and fourthly , that the match might be broken off . <end>   230.8148864372691
+<start> <start> Bennet was most pressingly 
+ civil in her hope of seeing the whole family soon at Longbourn ; and 
+ addressed herself particularly to Mr . Bingley , to assure him how happy 
+ he would make them , by eating a family dinner with them at any time , 
+ without the ceremony of a formal invitation . <end>   491.3823690731134
+<start> <start> Astonishment , apprehension , and even horror , oppressed her . <end>   1249.1572043116134
+<start> <start> If _she_ does not object to it , 
+ why should _we_ ? " 
+ 
+ " _Her_ not objecting , does not justify _him_ . <end>   259.0655112235261
+<start> <start> The invalidity or unenforceability of any 
+ provision of this agreement shall not void the remaining provisions . <end>   1231.4363120321063
+<start> <start> Their manner of living , even when the 
+ restoration of peace dismissed them to a home , was unsettled in the 
+ extreme . <end>   355.5746154773549
+<start> <start> I appeal to Mr . Darcy : - - but let me not interrupt you , 
+ Sir . - - You will not thank me for detaining you from the bewitching 
+ converse of that young lady , whose bright eyes are also upbraiding me . " 
+ 
+ The latter part of this address was scarcely heard by Darcy ; but Sir 
+ William 's allusion to his friend seemed to strike him forcibly , and his 
+ eyes were directed with a very serious expression towards Bingley and 
+ Jane , who were dancing together . <end>   533.2424910755276
+<start> <start> Charlotte did not stay much 
+ longer , and Elizabeth was then left to reflect on what she had heard . <end>   368.43651044695264
+<start> <start> When the first 
+ transports of rage which had produced his activity in seeking her were 
+ over , he naturally returned to all his former indolence . <end>   1274.9699230733759
+<start> <start> As all 
+ conversation was thereby at an end , Elizabeth soon afterwards left the 
+ room . <end>   708.2441360780819
+<start> <start> Elizabeth had now but little time for conversation with her sister ; for 
+ while he was present , Jane had no attention to bestow on any one else ; 
+ but she found herself considerably useful to both of them , in those 
+ hours of separation that must sometimes occur . <end>   515.9155632909852
+<start> <start> In 
+ confirmation of this , she related the particulars of all the pecuniary 
+ transactions in which they had been connected , without actually naming 
+ her authority , but stating it to be such as might be relied on . <end>   669.1667592941784
+<start> <start> I never heard of her existence till the day before 
+ yesterday . " 
+ 
+ " Her daughter , Miss de Bourgh , will have a very large fortune , and it is 
+ believed that she and her cousin will unite the two estates . " 
+ 
+ This information made Elizabeth smile , as she thought of poor Miss 
+ Bingley . <end>   204.3668528790026
+<start> <start> That will make thirteen with ourselves , so there will be just room at 
+ table for him . " 
+ 
+ Consoled by this resolution , she was the better able to bear her 
+ husband 's incivility ; though it was very mortifying to know that her 
+ neighbours might all see Mr . Bingley in consequence of it , before _they_ 
+ did . <end>   394.92920748379305
+<start> <start> But who was your mother ? <end>   1097.3882454678117
+<start> <start> He wisely resolved to be particularly careful that no sign of admiration 
+ should _now_ escape him , nothing that could elevate her with the hope of 
+ influencing his felicity ; sensible that if such an idea had been 
+ suggested , his behaviour during the last day must have material weight 
+ in confirming or crushing it . <end>   1135.9132369817662
+<start> <start> My excellent father 
+ died about five years ago ; and his attachment to Mr . Wickham was to 
+ the last so steady , that in his will he particularly recommended it 
+ to me , to promote his advancement in the best manner that his 
+ profession might allow , and if he took orders , desired that a 
+ valuable family living might be his as soon as soon as it became 
+ vacant . <end>   614.1842196359571
+<start> <start> Is this to be endured ! <end>   423.01856909270776
+<start> <start> He was declared to be in debt 
+ to every tradesman in the place , and his intrigues , all honoured with 
+ the title of seduction , had been extended into every tradesman 's family . <end>   711.6723699234644
+<start> <start> Bennet , " looking as unconcerned 
+ as may be , and caring no more for us than if we were at York , provided 
+ she can have her own way . - - But I tell you what , Miss Lizzy , if you take 
+ it into your head to go on refusing every offer of marriage in this way , 
+ you will never get a husband at all - - and I am sure I do not know who is 
+ to maintain you when your father is dead . - - _I_ shall not be able to keep 
+ you - - and so I warn you . - - I have done with you from this very day . - - I 
+ told you in the library , you know , that I should never speak to you 
+ again , and you will find me as good as my word . <end>   187.6825547899174
+<start> <start> The two girls had been whispering to 
+ each other during the whole visit , and the result of it was , that the 
+ youngest should tax Mr . Bingley with having promised on his first coming 
+ into the country to give a ball at Netherfield . <end>   277.2465675041384
+<start> <start> " She did not choose it , " said her daughter , " she would go . " 
+ 
+ " She is a very fine - looking woman ! <end>   79.1944978097885
+<start> <start> Mr . Collins was eloquent in her praise . <end>   120.04106121616641
+<start> <start> Mr . Wickham 's chief object was unquestionably my 
+ sister 's fortune , which is thirty thousand pounds ; but I cannot 
+ help supposing that the hope of revenging himself on me , was a 
+ strong inducement . <end>   309.51823416669697
+<start> <start> Gardiner expressed an 
+ inclination to see the place again . <end>   414.83916925847626
+<start> <start> Bennet to find comfort in staying at home at any period of her life . <end>   377.64000286299046
+<start> <start> When Denny , 
+ and Wickham , and Pratt , and two or three more of the men came in , they 
+ did not know him in the least . <end>   163.47850412574053
+<start> <start> You 
+ would have been less amiable in my eyes had there _not_ been this little 
+ unwillingness ; but allow me to assure you that I have your respected 
+ mother 's permission for this address . <end>   496.02717532016766
+<start> <start> Bennet perhaps surpassing the rest ; though when the first tumult of joy 
+ was over , she began to declare that it was what she had expected all the 
+ while . <end>   407.94970326580807
+<start> <start> Elizabeth blushed 
+ and blushed again with shame and vexation . <end>   588.9679080549347
+<start> <start> Ten 
+ thousand a year , and very likely more ! <end>   297.279129758151
+<start> <start> Mrs . <end>   3.8458585008904347
+<start> <start> " I did not think Caroline in spirits , " were her words , " but she was very 
+ glad to see me , and reproached me for giving her no notice of my coming 
+ to London . <end>   157.57528273429966
+<start> <start> The party did not supply much conversation . <end>   735.5670112504985
+<start> <start> certainly , " said Elizabeth , though burning with curiosity ; " we will 
+ ask you no questions . " 
+ 
+ " Thank you , " said Lydia , " for if you did , I should certainly tell you 
+ all , and then Wickham would be angry . " 
+ 
+ On such encouragement to ask , Elizabeth was forced to put it out of her 
+ power , by running away . <end>   145.0152177222401
+<start> <start> With no expectation of pleasure , but with the strongest curiosity , 
+ Elizabeth opened the letter , and to her still increasing wonder , 
+ perceived an envelope containing two sheets of letter paper , written 
+ quite through , in a very close hand . - - The envelope itself was likewise 
+ full . - - Pursuing her way along the lane , she then began it . <end>   669.612186035307
+<start> <start> Hurst , principally occupied in playing with her bracelets and 
+ rings , joined now and then in her brother 's conversation with Miss 
+ Bennet . <end>   659.0526465400159
+<start> <start> I need not explain myself farther ; and 
+ though _we_ know this anxiety to be quite needless , yet if she 
+ feels it , it will easily account for her behaviour to me ; and so 
+ deservedly dear as he is to his sister , whatever anxiety she may 
+ feel on his behalf , is natural and amiable . <end>   936.274664828493
+<start> <start> What a pity it is , mamma , we did not all go . " 
+ 
+ " Very true ; and if I had my will , we should . <end>   300.82201852245146
+<start> <start> Those to her mother , contained little else , than that 
+ they were just returned from the library , where such and such officers 
+ had attended them , and where she had seen such beautiful ornaments as 
+ made her quite wild ; that she had a new gown , or a new parasol , which 
+ she would have described more fully , but was obliged to leave off in a 
+ violent hurry , as Mrs . <end>   385.6831445439708
+<start> <start> This was 
+ very amiable , but Charlotte 's kindness extended farther than Elizabeth 
+ had any conception of ; - - its object was nothing less , than to secure her 
+ from any return of Mr . Collins 's addresses , by engaging them towards 
+ herself . <end>   760.5947095450613
+<start> <start> The walk being here less 
+ sheltered than on the other side , allowed them to see him before they 
+ met . <end>   1023.4127788901014
+<start> <start> " He is the best landlord , and the best master , " said she , " that ever 
+ lived . <end>   120.53459415964362
+<start> <start> But so they always are . <end>   551.4984276986597
+<start> <start> Bennet invited him to dine with them ; but , with many 
+ expressions of concern , he confessed himself engaged elsewhere . <end>   354.19857671517417
+<start> <start> Their other engagements were few ; as the style of living of 
+ the neighbourhood in general , was beyond the Collinses 'reach . <end>   788.0913501154151
+<start> <start> Bennet 's best 
+ comfort was , that Mr . Bingley must be down again in the summer . <end>   161.4526807669384
+<start> <start> " We may as well leave them by themselves you know ; " said her mother as 
+ soon as she was in the hall . <end>   120.74326885700302
+<start> <start> They entered the woods , and bidding adieu to the river for a while , 
+ ascended some of the higher grounds ; whence , in spots where the opening 
+ of the trees gave the eye power to wander , were many charming views of 
+ the valley , the opposite hills , with the long range of woods 
+ overspreading many , and occasionally part of the stream . <end>   1310.7783122558744
+<start> <start> " But to expose 
+ the former faults of any person , without knowing what their present 
+ feelings were , seemed unjustifiable . <end>   1010.0577687400217
+<start> <start> Do you not know that such a 
+ report is spread abroad ? " 
+ 
+ " I never heard that it was . " 
+ 
+ " And can you likewise declare , that there is no _foundation_ for it ? " 
+ 
+ " I do not pretend to possess equal frankness with your ladyship . <end>   112.91966720465486
+<start> <start> " About a month ago I received this letter , and about a fortnight ago I 
+ answered it , for I thought it a case of some delicacy , and requiring 
+ early attention . <end>   656.7175779544252
+<start> <start> She longed to see Mrs . <end>   94.55575573263427
+<start> <start> Let me recommend you , however , as a friend , 
+ not to give implicit confidence to all his assertions ; for as to Mr . 
+ Darcy 's using him ill , it is perfectly false ; for , on the contrary , he 
+ has been always remarkably kind to him , though George Wickham has 
+ treated Mr . Darcy in a most infamous manner . <end>   303.95697173783196
+<start> <start> Elizabeth , however astonished , was at least more prepared for an 
+ interview than before , and resolved to appear and to speak with 
+ calmness , if he really intended to meet them . <end>   619.8300141246544
+<start> <start> I will take care of 
+ myself , and of Mr . Wickham too . <end>   43.89425496150318
+<start> <start> Elizabeth soon observed , and instantly understood it . <end>   600.9224714153859
+<start> <start> Till the next 
+ morning , however , she was not aware of all the felicity of her 
+ contrivance . <end>   74.8201829549356
+<start> <start> Your 
+ father was gone , your uncle at home , and , as I said before , they 
+ had a great deal of talk together . <end>   130.45512543490446
+<start> <start> Were it known to the rest 
+ of my family , I should not have merely my own gratitude to express . " 
+ 
+ " I am sorry , exceedingly sorry , " replied Darcy , in a tone of surprise 
+ and emotion , " that you have ever been informed of what may , in a 
+ mistaken light , have given you uneasiness . <end>   168.78790034756383
+<start> <start> There was no arguing upon such a project . <end>   633.6860774637648
+<start> <start> Charlotte herself was tolerably composed . <end>   2853.9815871318515
+<start> <start> You are not going to be _Missish_ , I 
+ hope , and pretend to be affronted at an idle report . <end>   211.4338486341951
+<start> <start> <NUM> . E . <NUM> . <end>   3.0779641332402443
+<start> <start> " Pray let me hear what you have to accuse him of , " cried Colonel 
+ Fitzwilliam . <end>   139.66479816653631
+<start> <start> The easy assurance of the young couple , indeed , was 
+ enough to provoke him . <end>   179.26165125461887
+<start> <start> I cannot 
+ understand it . <end>   133.8248119627467
+<start> <start> She had 
+ spent six weeks with great enjoyment ; and the pleasure of being with 
+ Charlotte , and the kind attentions she had received , must make _her_ 
+ feel the obliged . <end>   496.0044166702823
+<start> <start> CHAPTER XXII . 
+ 
+ 
+ The Bennets were engaged to dine with the Lucases , and again during the 
+ chief of the day , was Miss Lucas so kind as to listen to Mr . Collins . <end>   70.30306532566792
+<start> <start> They will then join his regiment , 
+ unless they are first invited to Longbourn ; and I understand from 
+ Mrs . <end>   379.2696441327159
+<start> <start> and so extremely 
+ accomplished for her age ! <end>   1451.1691620036675
+<start> <start> He resigned all 
+ claim to assistance in the church , were it possible that he could 
+ ever be in a situation to receive it , and accepted in return three 
+ thousand pounds . <end>   328.45395505706995
+<start> <start> Elizabeth however did not chuse to 
+ take the hint , being well aware that a serious dispute must be the 
+ consequence of any reply . <end>   721.5716780387215
+<start> <start> " And are they upon such terms as for her to disclose the real 
+ truth ! <end>   599.221155230467
+<start> <start> The advice 
+ was followed readily , for the feverish symptoms increased , and her head 
+ ached acutely . <end>   1243.8166156064542
+<start> <start> And is 
+ _such_ a girl to be my nephew 's sister ? <end>   994.3057300984697
+<start> <start> I wonder he does not marry , to secure a 
+ lasting convenience of that kind . <end>   355.0132917818226
+<start> <start> If therefore she 
+ actually persists in rejecting my suit , perhaps it were better not to 
+ force her into accepting me , because if liable to such defects of 
+ temper , she could not contribute much to my felicity . " 
+ 
+ " Sir , you quite misunderstand me , " said Mrs . <end>   560.4985661030727
+<start> <start> We _will_ know where 
+ we have gone - - we _will_ recollect what we have seen . <end>   890.8948791269871
+<start> <start> The day passed most pleasantly away ; the morning in bustle and 
+ shopping , and the evening at one of the theatres . <end>   772.3715442177689
+<start> <start> You were 
+ not by , when I told mamma , and the others , all about it . <end>   181.60264374817754
+<start> <start> From his garden , Mr . Collins would have led them round his two meadows , 
+ but the ladies not having shoes to encounter the remains of a white 
+ frost , turned back ; and while Sir William accompanied him , Charlotte 
+ took her sister and friend over the house , extremely well pleased , 
+ probably , to have the opportunity of shewing it without her husband 's 
+ help . <end>   786.076522957713
+<start> <start> But when they see , 
+ as I trust they will , that their brother is happy with me , they will 
+ learn to be contented , and we shall be on good terms again ; though we 
+ can never be what we once were to each other . " 
+ 
+ " That is the most unforgiving speech , " said Elizabeth , " that I ever 
+ heard you utter . <end>   211.06666685810936
+<start> <start> The 
+ quiet , the retirement of such a life , would have answered all my ideas 
+ of happiness ! <end>   585.8147531589252
+<start> <start> Miss Bennet , I insist on being satisfied . <end>   270.2783938648197
+<start> <start> Mr . Wickham began the subject himself . <end>   121.84851092582161
+<start> <start> It was in the Times and the Courier , I know ; 
+ though it was not put in as it ought to be . <end>   187.5065758479611
+<start> <start> and 
+ yet you can treat the mention of his misfortunes with contempt and 
+ ridicule . " 
+ 
+ " And this , " cried Darcy , as he walked with quick steps across the room , 
+ " is your opinion of me ! <end>   209.482470606315
+<start> <start> This gallantry was not much to the taste of some of his hearers , but 
+ Mrs . <end>   239.48232032427248
+<start> <start> As for 
+ their mother , Mr . Collins 's letter had done away much of her ill - will , 
+ and she was preparing to see him with a degree of composure , which 
+ astonished her husband and daughters . <end>   212.59223283128523
+<start> <start> They contained no actual complaint , nor was there any 
+ revival of past occurrences , or any communication of present suffering . <end>   1638.71147285707
+<start> <start> " But , " he added , " you will of course wish to have your humble respects 
+ delivered to them , with your grateful thanks for their kindness to you 
+ while you have been here . " 
+ 
+ Elizabeth made no objection ; - - the door was then allowed to be shut , and 
+ the carriage drove off . <end>   181.20520796665326
+<start> <start> I knew enough of your disposition to be certain , that , 
+ had you been absolutely , irrevocably decided against me , you would have 
+ acknowledged it to Lady Catherine , frankly and openly . " 
+ 
+ Elizabeth coloured and laughed as she replied , " Yes , you know enough of 
+ my _frankness_ to believe me capable of _that_ . <end>   442.6815065727218
+<start> <start> Besides , it will not much signify what 
+ one wears this summer , after the - - - - shire have left Meryton , and they 
+ are going in a fortnight . " 
+ 
+ " Are they indeed ? " cried Elizabeth , with the greatest satisfaction . <end>   181.44343925878147
+<start> <start> Have you not heard me say , that from his 
+ earliest hours he was destined for his cousin ? " 
+ 
+ " Yes , and I had heard it before . <end>   255.49782543967694
+<start> <start> The hill , crowned with wood , from 
+ which they had descended , receiving increased abruptness from the 
+ distance , was a beautiful object . <end>   1039.1873133431277
+<start> <start> " It must make you better satisfied that your other four are 
+ single . " 
+ 
+ " It is no such thing . <end>   171.76074528146745
+<start> <start> There was no one therefore who could be pointed out , 
+ as likely to give any news of him . <end>   152.43774506626465
+<start> <start> But I believe your opinion of him would in general 
+ astonish - - and perhaps you would not express it quite so strongly 
+ anywhere else . - - Here you are in your own family . " 
+ 
+ " Upon my word I say no more _here_ than I might say in any house in the 
+ neighbourhood , except Netherfield . <end>   249.27107039076267
+<start> <start> Elizabeth took an opportunity of thanking her . <end>   239.43606317213857
+<start> <start> She expressed her gratitude again , but it was too painful a subject to 
+ each , to be dwelt on farther . <end>   814.4719455297497
+<start> <start> If he had not had a family of his own , I and my children 
+ must have had all his money you know , and it is the first time we have 
+ ever had any thing from him , except a few presents . <end>   238.14941742380253
+<start> <start> Her air 
+ was not conciliating , nor was her manner of receiving them , such as to 
+ make her visitors forget their inferior rank . <end>   660.4361289142295
+<start> <start> Though suspicion was very far 
+ from Miss Bennet 's general habits , she was absolutely incredulous here . <end>   917.1432237266747
+<start> <start> From that moment I 
+ observed my friend 's behaviour attentively ; and I could then 
+ perceive that his partiality for Miss Bennet was beyond what I had 
+ ever witnessed in him . <end>   551.9003870724491
+<start> <start> " It was the prospect of constant society , and good society , " he added , 
+ " which was my chief inducement to enter the - - - - shire . <end>   167.27404547104575
+<start> <start> How could I 
+ be so silly as to wish it ! <end>   202.08317101631422
+<start> <start> " I must go instantly to my mother ; " she cried . <end>   145.1718018916169
+<start> <start> Collins you 
+ have been a daily witness of ; and altogether I trust it does not appear 
+ that your friend has drawn an unfortunate - - but on this point it will be 
+ as well to be silent . <end>   338.8002910349474
+<start> <start> His coming into the country at all , is a 
+ most insolent thing indeed , and I wonder how he could presume to do it . <end>   192.97806166184128
+<start> <start> Elizabeth was delighted . <end>   395.73208500940063
+<start> <start> Gardiner was so little to be trusted . " 
+ 
+ " You must not blame my aunt . <end>   79.89417305631976
+<start> <start> She owed 
+ her greatest relief to her friend Miss Lucas , who often joined them , and 
+ good - naturedly engaged Mr . Collins 's conversation to herself . <end>   234.16371827851347
+<start> <start> " My dear Mr . Bennet , " said his lady to him one day , " have you heard that 
+ Netherfield Park is let at last ? " 
+ 
+ Mr . Bennet replied that he had not . <end>   105.66919784396677
+<start> <start> The envelope contained a 
+ sheet of elegant , little , hot pressed paper , well covered with a lady 's 
+ fair , flowing hand ; and Elizabeth saw her sister 's countenance change as 
+ she read it , and saw her dwelling intently on some particular passages . <end>   1042.3578397072476
+<start> <start> Elizabeth was the least dear to her of all her children ; and though the 
+ man and the match were quite good enough for _her_ , the worth of each 
+ was eclipsed by Mr . Bingley and Netherfield . <end>   497.0881270209577
+<start> <start> Gardiner , which at once delayed its commencement and 
+ curtailed its extent . <end>   873.44947391744
+<start> <start> She tried , however , to compose herself to 
+ answer him with patience , when he should have done . <end>   368.2404052783693
+<start> <start> And you saw the 
+ old housekeeper , I suppose ? <end>   607.4229648815433
+<start> <start> She had never perceived , while the regiment was in Hertfordshire , that 
+ Lydia had any partiality for him , but she was convinced that Lydia had 
+ wanted only encouragement to attach herself to any body . <end>   304.8020572979062
+<start> <start> Good bye . <end>   62.43838330972441
+<start> <start> She dared not 
+ even mention that gentleman . <end>   203.07658189020074
+<start> <start> " I hope , " added Mrs . <end>   30.323193011167845
+<start> <start> Mrs . <end>   3.8458585008904347
+<start> <start> Jane confessed herself a little surprised at the match ; but she said 
+ less of her astonishment than of her earnest desire for their happiness ; 
+ nor could Elizabeth persuade her to consider it as improbable . <end>   824.1237368067522
+<start> <start> Five thousand pounds was settled by marriage articles on Mrs . <end>   525.5132583997131
+<start> <start> " Who that knows what his misfortunes have been , can help feeling an 
+ interest in him ? " 
+ 
+ " His misfortunes ! " repeated Darcy contemptuously ; " yes , his misfortunes 
+ have been great indeed . " 
+ 
+ " And of your infliction , " cried Elizabeth with energy . <end>   423.66634532468294
+<start> <start> He 
+ had always intended to visit him , though to the last always assuring his 
+ wife that he should not go ; and till the evening after the visit was 
+ paid , she had no knowledge of it . <end>   295.2304849976144
+<start> <start> Perhaps he thought her too young . <end>   1181.776552700838
+<start> <start> A house in town ! <end>   696.2833789955561
+<start> <start> Had Colonel Forster seen Denny himself ? " 
+ 
+ " Yes ; but when questioned by _him_ Denny denied knowing any thing of 
+ their plan , and would not give his real opinion about it . <end>   202.62512844521677
+<start> <start> It had always been evident to her that such an 
+ income as theirs , under the direction of two persons so extravagant in 
+ their wants , and heedless of the future , must be very insufficient to 
+ their support ; and whenever they changed their quarters , either Jane or 
+ herself were sure of being applied to , for some little assistance 
+ towards discharging their bills . <end>   1476.6608355064695
+<start> <start> I have therefore made up my mind to tell 
+ you , that I do not want to dance a reel at all - - and now despise me if 
+ you dare . " 
+ 
+ " Indeed I do not dare . " 
+ 
+ Elizabeth , having rather expected to affront him , was amazed at his 
+ gallantry ; but there was a mixture of sweetness and archness in her 
+ manner which made it difficult for her to affront anybody ; and Darcy had 
+ never been so bewitched by any woman as he was by her . <end>   357.40253781844496
+<start> <start> His attachment excited gratitude , his general character respect ; but she 
+ could not approve him ; nor could she for a moment repent her refusal , or 
+ feel the slightest inclination ever to see him again . <end>   512.7155217504754
+<start> <start> - You provide , in accordance with paragraph <NUM> . F . <NUM> , a full refund of any 
+ money paid for a work or a replacement copy , if a defect in the 
+ electronic work is discovered and reported to you within <NUM> days 
+ of receipt of the work . <end>   259.6913462843641
+<start> <start> There is so much of gratitude or vanity in almost every 
+ attachment , that it is not safe to leave any to itself . <end>   470.37969853196427
+<start> <start> His doing so 
+ drew her notice . <end>   339.7968684863129
+<start> <start> Such a 
+ change in a man of so much pride , excited not only astonishment but 
+ gratitude - - for to love , ardent love , it must be attributed ; and as such 
+ its impression on her was of a sort to be encouraged , as by no means 
+ unpleasing , though it could not be exactly defined . <end>   643.30577998591
+<start> <start> You know pretty well , I suppose , 
+ what has been done for the young people . <end>   161.3536006822078
+<start> <start> Lydia , my love , though you _are_ 
+ the youngest , I dare say Mr . Bingley will dance with you at the next 
+ ball . " 
+ 
+ " Oh ! " said Lydia stoutly , " I am not afraid ; for though I _am_ the 
+ youngest , I 'm the tallest . " 
+ 
+ The rest of the evening was spent in conjecturing how soon he would 
+ return Mr . Bennet 's visit , and determining when they should ask him to 
+ dinner . <end>   157.45163551328375
+<start> <start> nonsense , how can you talk so ! <end>   62.490456928253444
+<start> <start> He had ruined for a 
+ while every hope of happiness for the most affectionate , generous heart 
+ in the world ; and no one could say how lasting an evil he might have 
+ inflicted . <end>   468.7648464198086
+<start> <start> The congratulatory letter which Elizabeth received 
+ from Lydia on her marriage , explained to her that , by his wife at least , 
+ if not by himself , such a hope was cherished . <end>   814.4500023808635
+<start> <start> If 
+ he no longer cares for me , why silent ? <end>   765.2845767578954
+<start> <start> Bennet , and which she never failed to contradict as a most scandalous 
+ falsehood . <end>   971.4344904285148
+<start> <start> The kindness of my uncle and aunt can never be 
+ requited . <end>   183.01576773778652
+<start> <start> how ardently did she long to know , whether any of his were directed in a 
+ like manner . <end>   183.45656227092095
+<start> <start> Accordingly , when she retired at night , she asked the chambermaid 
+ whether Pemberley were not a very fine place , what was the name of its 
+ proprietor , and with no little alarm , whether the family were down for 
+ the summer . <end>   607.1796801518726
+<start> <start> But , my 
+ dear sister , though the event has proved you right , do not think me 
+ obstinate if I still assert , that , considering what her behaviour 
+ was , my confidence was as natural as your suspicion . <end>   617.9784499168524
+<start> <start> They were more disturbed , 
+ more unequal , than she had often seen them . <end>   299.664920361481
+<start> <start> Sometimes one 
+ officer , sometimes another had been her favourite , as their attentions 
+ raised them in her opinion . <end>   1875.4416301801516
+<start> <start> At such a moment , the arrival of her friend 
+ was a sincere pleasure to Elizabeth , though in the course of their 
+ meetings she must sometimes think the pleasure dearly bought , when she 
+ saw Mr . Darcy exposed to all the parading and obsequious civility of her 
+ husband . <end>   194.54811902352304
+<start> <start> This 
+ unfortunate affair will , I fear , prevent my sister 's having the pleasure 
+ of seeing you at Pemberley to - day . " 
+ 
+ " Oh , yes . <end>   152.70551833708453
+<start> <start> Most people start at our Web site which has the main PG search facility : 
+ 
+ www . gutenberg . org 
+ 
+ This Web site includes information about Project Gutenberg - tm , 
+ including how to make donations to the Project Gutenberg Literary 
+ Archive Foundation , how to help produce our new eBooks , and how to 
+ subscribe to our email newsletter to hear about new eBooks . <end>   654.6279671825305
+<start> <start> I could not 
+ allow myself to conceal that your sister had been in town three months 
+ last winter , that I had known it , and purposely kept it from him . <end>   212.66633719686473
+<start> <start> Elizabeth honestly and heartily expressed her 
+ delight in the prospect of their relationship . <end>   662.9003619572457
+<start> <start> " There 
+ is nothing the matter with me . <end>   40.79611665104867
+<start> <start> Yet , indeed , I am 
+ in earnest . <end>   317.0571665026151
+<start> <start> You have liked many a 
+ stupider person . " 
+ 
+ " Dear Lizzy ! " 
+ 
+ " Oh ! <end>   73.61798733147756
+<start> <start> Who would have thought she could be so thin and small ! " 
+ 
+ " She is abominably rude to keep Charlotte out of doors in all this wind . <end>   292.14797242320395
+<start> <start> She was confident of having performed her duty , and to fret over 
+ unavoidable evils , or augment them by anxiety , was no part of her 
+ disposition . <end>   563.5314153094442
+<start> <start> She was met in the vestibule by Lydia , who , flying to 
+ her , cried in a half whisper , " I am glad you are come , for there is such 
+ fun here ! - - What do you think has happened this morning ? - - Mr . Collins has 
+ made an offer to Lizzy , and she will not have him . " 
+ 
+ Charlotte had hardly time to answer , before they were joined by Kitty , 
+ who came to tell the same news , and no sooner had they entered the 
+ breakfast - room , where Mrs . <end>   153.38760061177666
+<start> <start> How Wickham and Lydia were to be supported in tolerable independence , 
+ she could not imagine . <end>   292.41238274885103
+<start> <start> Brighton , and a whole 
+ campful of soldiers , to us , who have been overset already by one poor 
+ regiment of militia , and the monthly balls of Meryton . " 
+ 
+ " Now I have got some news for you , " said Lydia , as they sat down to 
+ table . <end>   273.88858140387833
+<start> <start> Elizabeth , though she did not credit above 
+ half of what was said , believed enough to make her former assurance of 
+ her sister 's ruin still more certain ; and even Jane , who believed still 
+ less of it , became almost hopeless , more especially as the time was now 
+ come , when if they had gone to Scotland , which she had never before 
+ entirely despaired of , they must in all probability have gained some 
+ news of them . <end>   436.286565612117
+<start> <start> " _You_ were Mr . Bingley 's first choice . " 
+ 
+ " Yes ; - - but he seemed to like his second better . " 
+ 
+ " Oh ! - - you mean Jane , I suppose - - because he danced with her twice . <end>   83.65492226747268
+<start> <start> When coffee was over , Colonel Fitzwilliam reminded Elizabeth of having 
+ promised to play to him ; and she sat down directly to the instrument . <end>   263.336235508815
+<start> <start> I am prodigiously proud of him . <end>   113.99925655251218
+<start> <start> " Where is your sister ? " said he hastily , as he opened the door . <end>   101.88465569741587
+<start> <start> The garden sloping to the road , 
+ the house standing in it , the green pales and the laurel hedge , every 
+ thing declared they were arriving . <end>   744.8086002952954
+<start> <start> I hate to see you 
+ standing about by yourself in this stupid manner . <end>   575.9879976966213
+<start> <start> Mr . Collins 
+ received and returned these felicitations with equal pleasure , and then 
+ proceeded to relate the particulars of their interview , with the result 
+ of which he trusted he had every reason to be satisfied , since the 
+ refusal which his cousin had steadfastly given him would naturally flow 
+ from her bashful modesty and the genuine delicacy of her character . <end>   600.748446357595
+<start> <start> How Mr . Darcy looked , therefore , she could 
+ not tell . <end>   89.57991968812364
+<start> <start> How he lived I know not . <end>   352.3025596486824
+<start> <start> Not , however , from any fear of 
+ disadvantage from it , individually to herself ; for at any rate , there 
+ seemed a gulf impassable between them . <end>   491.1802899258579
+<start> <start> The Miss 
+ Webbs all play , and their father has not so good an income as 
+ your 's . - - Do you draw ? " 
+ 
+ " No , not at all . " 
+ 
+ " What , none of you ? " 
+ 
+ " Not one . " 
+ 
+ " That is very strange . <end>   93.30045284881572
+<start> <start> With his notions of dignity , he would 
+ probably feel that the arguments , which to Elizabeth had appeared weak 
+ and ridiculous , contained much good sense and solid reasoning . <end>   1650.6126718401254
+<start> <start> Elizabeth soon perceived that though this great lady was not in the 
+ commission of the peace for the county , she was a most active magistrate 
+ in her own parish , the minutest concerns of which were carried to her by 
+ Mr . Collins ; and whenever any of the cottagers were disposed to be 
+ quarrelsome , discontented or too poor , she sallied forth into the 
+ village to settle their differences , silence their complaints , and scold 
+ them into harmony and plenty . <end>   1027.3425661817244
+<start> <start> Her curiosity however was unexpectedly 
+ relieved . <end>   2042.2614953855445
+<start> <start> Mr . Philips 
+ visited them all , and this opened to his nieces a source of felicity 
+ unknown before . <end>   455.16820942095086
+<start> <start> And so , is it quite certain he is coming ? " 
+ 
+ " You may depend on it , " replied the other , " for Mrs . <end>   77.23200697922361
+<start> <start> To work in his garden was one of his most respectable pleasures ; and 
+ Elizabeth admired the command of countenance with which Charlotte talked 
+ of the healthfulness of the exercise , and owned she encouraged it as 
+ much as possible . <end>   739.7286520043416
+<start> <start> I shall write again as soon as any 
+ thing more is determined on . <end>   301.58684788785393
+<start> <start> Her enquiries after her sister were not very favourably answered . <end>   665.7577290252956
+<start> <start> How strange must it appear to him ! <end>   945.1979754534527
+<start> <start> Secondly , that I am convinced it will add 
+ very greatly to my happiness ; and thirdly - - which perhaps I ought to have 
+ mentioned earlier , that it is the particular advice and recommendation 
+ of the very noble lady whom I have the honour of calling patroness . <end>   468.0596378687149
+<start> <start> I am sorry to pain you - - but so it was . <end>   59.502470248640954
+<start> <start> I could hardly keep my countenance . <end>   229.16824223796954
+<start> <start> Was it merely to ride to Longbourn and be embarrassed ? <end>   3392.1896958846637
+<start> <start> She is 
+ not such a simpleton . <end>   127.63302852867812
+<start> <start> It was a journey of only twenty - four miles , and they began it so early 
+ as to be in Gracechurch - street by noon . <end>   265.4570454697585
+<start> <start> " Do you prefer reading to cards ? " said he ; " that is rather singular . " 
+ 
+ " Miss Eliza Bennet , " said Miss Bingley , " despises cards . <end>   88.24264553123086
+<start> <start> No , Lizzy , let me once in my life feel how much I have 
+ been to blame . <end>   214.31034886409185
+<start> <start> Younge was , he knew , intimately acquainted with Wickham ; and he 
+ went to her for intelligence of him , as soon as he got to town . <end>   201.13256607553868
+<start> <start> He began to wish to know more of her , and as a step towards conversing 
+ with her himself , attended to her conversation with others . <end>   96.70218441331517
+<start> <start> If he had been so very 
+ agreeable he would have talked to Mrs . <end>   28.12205033492487
+<start> <start> " How near it may be to _mine_ , I cannot pretend to say . - - _You_ 
+ think it a faithful portrait undoubtedly . " 
+ 
+ " I must not decide on my own performance . " 
+ 
+ He made no answer , and they were again silent till they had gone down 
+ the dance , when he asked her if she and her sisters did not very often 
+ walk to Meryton . <end>   249.85059098388402
+<start> <start> Had his first appearance , or his resemblance to the picture 
+ they had just been examining , been insufficient to assure the other two 
+ that they now saw Mr . Darcy , the gardener 's expression of surprise , on 
+ beholding his master , must immediately have told it . <end>   603.5876875780207
+<start> <start> But I am very 
+ far from agreeing with you in your estimation of ladies in general . <end>   258.26957011467385
+<start> <start> Creating the works from public domain print editions means that no 
+ one owns a United States copyright in these works , so the Foundation 
+ ( and you ! ) can copy and distribute it in the United States without 
+ permission and without paying copyright royalties . <end>   1682.1331658037445
+<start> <start> CHAPTER XIX . 
+ 
+ 
+ Happy for all her maternal feelings was the day on which Mrs . <end>   168.13034987838924
+<start> <start> Hill and the two housemaids . <end>   1706.3318171962053
+<start> <start> My dear Jane , I am in 
+ such a flutter , that I am sure I can 't write ; so I will dictate , and you 
+ write for me . <end>   240.48046848699616
+<start> <start> By supposing such an 
+ affection , you make every body acting unnaturally and wrong , and me most 
+ unhappy . <end>   1126.5120737710458
+<start> <start> only think ! <end>   3079.487529516763
+<start> <start> It had come 
+ with a fare from London ; and as he thought the circumstance of a 
+ gentleman and lady 's removing from one carriage into another , might be 
+ remarked , he meant to make enquiries at Clapham . <end>   354.2101108016521
+<start> <start> " Could I expect it to be otherwise ! " said she . <end>   115.06019599781045
+<start> <start> The subject elevated him 
+ to more than usual solemnity of manner , and with a most important aspect 
+ he protested that he had never in his life witnessed such behaviour in a 
+ person of rank - - such affability and condescension , as he had himself 
+ experienced from Lady Catherine . <end>   513.4244195292121
+<start> <start> With such rivals for the notice of the fair , as Mr . Wickham and the 
+ officers , Mr . Collins seemed likely to sink into insignificance ; to the 
+ young ladies he certainly was nothing ; but he had still at intervals a 
+ kind listener in Mrs . <end>   385.2625796657324
+<start> <start> Had Lydia and her mother known the substance of her conference with her 
+ father , their indignation would hardly have found expression in their 
+ united volubility . <end>   563.9022192173402
+<start> <start> " You forget that I have made no 
+ answer . <end>   82.40293838756669
+<start> <start> Bennet was quite in the fidgets . <end>   434.48133138870276
+<start> <start> She is all affability and condescension , and I 
+ doubt not but you will be honoured with some portion of her notice when 
+ service is over . <end>   480.69053396172666
+<start> <start> And you may be certain that when I have the honour of 
+ seeing her again I shall speak in the highest terms of your modesty , 
+ economy , and other amiable qualifications . " 
+ 
+ " Indeed , Mr . Collins , all praise of me will be unnecessary . <end>   266.3763737668084
+<start> <start> A lively imagination soon settled it all . <end>   443.96768324690737
+<start> <start> The mischief of neglect and 
+ mistaken indulgence towards such a girl . - - Oh ! <end>   510.72250466003095
+<start> <start> My aunt told me so 
+ herself on Saturday . <end>   372.86439805514505
+<start> <start> I suppose she had 
+ nothing particular to say to you , Lizzy ? " 
+ 
+ Elizabeth was forced to give into a little falsehood here ; for to 
+ acknowledge the substance of their conversation was impossible . <end>   271.54485399055466
+<start> <start> He looked serious as usual ; and 
+ she thought , more as he had been used to look in Hertfordshire , than as 
+ she had seen him at Pemberley . <end>   62.54230899806695
+<start> <start> And so , you like this man 's sisters too , 
+ do you ? <end>   482.52539101183237
+<start> <start> When she came to that part of the letter in which her family were 
+ mentioned , in terms of such mortifying , yet merited reproach , her sense 
+ of shame was severe . <end>   428.471860880202
+<start> <start> Bennet give up the point . <end>   89.64597426238481
+<start> <start> And 
+ will you give yourself the trouble of carrying similar assurances 
+ to his creditors in Meryton , of whom I shall subjoin a list , 
+ according to his information . <end>   414.9697343031316
+<start> <start> Collins will be very glad of your 
+ company , I am sure . " 
+ 
+ " I am much obliged to your ladyship for your kind invitation , " replied 
+ Elizabeth , " but it is not in my power to accept it . - - I must be in town 
+ next Saturday . " 
+ 
+ " Why , at that rate , you will have been here only six weeks . <end>   119.04414951934098
+<start> <start> But the person who advanced , was now 
+ near enough to see her , and stepping forward with eagerness , pronounced 
+ her name . <end>   329.2664551864739
+<start> <start> One day 's delay she observed , 
+ would be of small importance ; and her mother was too happy , to be quite 
+ so obstinate as usual . <end>   195.90512367120337
+<start> <start> Bennet with civil 
+ self - command to Miss Lucas . <end>   287.72268851926697
+<start> <start> " I cannot make him 
+ out . - - There is something very pompous in his style . - - And what can he 
+ mean by apologizing for being next in the entail ? - - We cannot suppose he 
+ would help it , if he could . - - Can he be a sensible man , sir ? " 
+ 
+ " No , my dear ; I think not . <end>   236.95664886155865
+<start> <start> She found it difficult to obtain even a word from 
+ her beyond a monosyllable . <end>   1558.9543977450269
+<start> <start> Bennet had time to 
+ tell him of their having seen his aunt , of which her daughter sat in 
+ momentary dread , Bingley , who wanted to be alone with Jane , proposed 
+ their all walking out . <end>   858.820287501454
+<start> <start> Her sisters were uneasy for her , but her mother was 
+ delighted . <end>   680.5204889634584
+<start> <start> Her answer was warmly in his favour . <end>   317.30728210227267
+<start> <start> " I am 
+ sorry it went off . <end>   24.430911997190144
+<start> <start> " Lizzy , " said he , " I was going to look for you ; come into my room . " 
+ 
+ She followed him thither ; and her curiosity to know what he had to tell 
+ her , was heightened by the supposition of its being in some manner 
+ connected with the letter he held . <end>   272.1322457694254
+<start> <start> The apothecary came , and having 
+ examined his patient , said , as might be supposed , that she had caught a 
+ violent cold , and that they must endeavour to get the better of it ; 
+ advised her to return to bed , and promised her some draughts . <end>   306.3887491674966
+<start> <start> Though her brother and sister were persuaded that there was no real 
+ occasion for such a seclusion from the family , they did not attempt to 
+ oppose it , for they knew that she had not prudence enough to hold her 
+ tongue before the servants , while they waited at table , and judged it 
+ better that _one_ only of the household , and the one whom they could 
+ most trust , should comprehend all her fears and solicitude on the 
+ subject . <end>   494.9229767188274
+<start> <start> I thought 
+ we never should have got into the coach . <end>   172.81568132835798
+<start> <start> This is my advice . <end>   165.0957872413977
+<start> <start> she was dying to know what could 
+ be his meaning " - - and asked Elizabeth whether she could at all understand 
+ him ? <end>   777.3078950421144
+<start> <start> " His being so sure of succeeding , was wrong , " said she ; " and certainly 
+ ought not to have appeared ; but consider how much it must increase his 
+ disappointment . " 
+ 
+ " Indeed , " replied Elizabeth , " I am heartily sorry for him ; but he has 
+ other feelings which will probably soon drive away his regard for me . <end>   344.7006839617048
+<start> <start> Mr . Collins was also in the same state of angry pride . <end>   233.0983229882341
+<start> <start> It was a rational scheme to be sure ! <end>   321.54954689555547
+<start> <start> With _your_ 
+ good sense , to be so honestly blind to the follies and nonsense of 
+ others ! <end>   491.80696745298644
+<start> <start> The invitation was accepted of course , and at a proper hour they joined 
+ the party in Lady Catherine 's drawing - room . <end>   242.66681852092822
+<start> <start> After amusing himself some time with their curiosity , he thus explained . <end>   1037.8890779486042
+<start> <start> I am almost the nearest relation he has in the world , 
+ and am entitled to know all his dearest concerns . " 
+ 
+ " But you are not entitled to know _mine_ ; nor will such behaviour as 
+ this , ever induce me to be explicit . " 
+ 
+ " Let me be rightly understood . <end>   349.73994481195626
+<start> <start> It was not 
+ in her nature , however , to increase her vexations , by dwelling on them . <end>   102.56248344600476
+<start> <start> Teaze calmness of temper and presence of mind ! <end>   1779.2567452606797
+<start> <start> You have done all this ! <end>   85.85160350777852
+<start> <start> I cannot be 
+ otherwise than concerned at being the means of injuring your 
+ amiable daughters , and beg leave to apologise for it , as well as to 
+ assure you of my readiness to make them every possible amends , - - but 
+ of this hereafter . <end>   304.69096793548664
+<start> <start> Jenkinson was 
+ arranging Miss de Bourgh 's foot - stool , that she said , 'Mr . Collins , you 
+ must marry . <end>   215.21920581930084
+<start> <start> How are you all ? " 
+ 
+ " My mother is tolerably well , I trust ; though her spirits are greatly 
+ shaken . <end>   388.8799312592642
+<start> <start> I often 
+ tell young ladies , that no excellence in music is to be acquired , 
+ without constant practice . <end>   1038.8399951446315
+<start> <start> She was afraid of talking longer of his 
+ friend ; and , having nothing else to say , was now determined to leave the 
+ trouble of finding a subject to him . <end>   200.7712450594786
+<start> <start> Bennet was mindful of her 
+ intended civility , and they were invited and engaged to dine at 
+ Longbourn in a few days time . <end>   202.19759235070518
+<start> <start> Wickham passed all his youth there , you 
+ know . " 
+ 
+ Elizabeth was distressed . <end>   135.75187520528348
+<start> <start> Bennet 's being quite 
+ unable to sit alone . <end>   287.05339674623946
+<start> <start> Bennet had not found Miss Bennet worse than she expected . <end>   157.63179237184923
+<start> <start> & c . " 
+ 
+ Mr . Gardiner did not write again , till he had received an answer from 
+ Colonel Forster ; and then he had nothing of a pleasant nature to send . <end>   446.42002304115823
+<start> <start> From these instructions they were summoned by the 
+ arrival of the coach , and with many speeches of thankfulness on Mr . 
+ Collins 's side , and as many bows on Sir William 's , they departed . <end>   559.8436805568434
+<start> <start> Hurst , " in running away 
+ without telling us that you were coming out . " 
+ 
+ Then taking the disengaged arm of Mr . Darcy , she left Elizabeth to walk 
+ by herself . <end>   353.47210023668947
+<start> <start> Elizabeth was determined ; nor did Sir William at all 
+ shake her purpose by his attempt at persuasion . <end>   1247.5464788719935
+<start> <start> _You_ cannot have 
+ been always at Longbourn . " 
+ 
+ Elizabeth looked surprised . <end>   129.66201480053093
+<start> <start> She wanted to talk , but 
+ there seemed an embargo on every subject . <end>   313.75147104176546
+<start> <start> The Gardiners staid only one night at Longbourn , and set off the next 
+ morning with Elizabeth in pursuit of novelty and amusement . <end>   251.01517164215886
+<start> <start> The idea of the olive branch perhaps is not wholly new , yet I 
+ think it is well expressed . " 
+ 
+ To Catherine and Lydia , neither the letter nor its writer were in any 
+ degree interesting . <end>   367.25755605190216
+<start> <start> when I went away , I am sure 
+ I had no more idea of being married till I came back again ! <end>   306.0305516744716
+<start> <start> " Can you come to - morrow ? " 
+ 
+ Yes , he had no engagement at all for to - morrow ; and her invitation was 
+ accepted with alacrity . <end>   287.2011877524111
+<start> <start> Elizabeth , who was left by herself , now smiled at the rapidity and ease 
+ with which an affair was finally settled , that had given them so many 
+ previous months of suspense and vexation . <end>   398.6800562228995
+<start> <start> Collins did not think it right to press the subject , from the danger of 
+ raising expectations which might only end in disappointment ; for in her 
+ opinion it admitted not of a doubt , that all her friend 's dislike would 
+ vanish , if she could suppose him to be in her power . <end>   294.3745340765488
+<start> <start> my dear , " continued Mrs . <end>   5.636115697260445
+<start> <start> " Yet it is hard , " she sometimes thought , " that this poor man cannot come 
+ to a house , which he has legally hired , without raising all this 
+ speculation ! <end>   974.5111646385016
+<start> <start> Hurst and Miss Bingley ; and though the mother was 
+ found to be intolerable and the younger sisters not worth speaking to , a 
+ wish of being better acquainted with _them_ , was expressed towards the 
+ two eldest . <end>   433.72347309617965
+<start> <start> " As soon as ever Mr . Bingley comes , my dear , " said Mrs . <end>   24.7092965882047
+<start> <start> Forster , " said she , " it will be quite shocking 
+ to send her away ! <end>   99.70371978121176
+<start> <start> Who should suffer but myself ? <end>   2513.648392781257
+<start> <start> First , that you will allow me the free use of my understanding on the 
+ present occasion ; and secondly , of my room . <end>   918.846124244857
+<start> <start> Elizabeth immediately recognising the 
+ livery , guessed what it meant , and imparted no small degree of surprise 
+ to her relations , by acquainting them with the honour which she 
+ expected . <end>   1294.2751471795873
+<start> <start> I am confident that she would have performed 
+ delightfully . <end>   425.8868726215312
+<start> <start> He cannot know what Mr . 
+ Darcy is . " 
+ 
+ " Probably not ; - - but Mr . Darcy can please where he chuses . <end>   154.25938030793247
+<start> <start> She blushed again and 
+ again over the perverseness of the meeting . <end>   293.30704690212275
+<start> <start> " How nicely we are crammed in ! " cried Lydia . <end>   193.0901077893519
+<start> <start> Your profusion 
+ makes me saving ; and if you lament over him much longer , my heart will 
+ be as light as a feather . " 
+ 
+ " Poor Wickham ; there is such an expression of goodness in his 
+ countenance ! <end>   593.3217976952989
+<start> <start> single , my dear , to be sure ! <end>   245.22450684379905
+<start> <start> " Can you deny that you have done it ? " she repeated . <end>   384.7898171322975
+<start> <start> Forgive me for having taken up so much of your time , and accept my best 
+ wishes for your health and happiness . " 
+ 
+ And with these words he hastily left the room , and Elizabeth heard him 
+ the next moment open the front door and quit the house . <end>   611.3901088059353
+<start> <start> To persuade him against 
+ returning into Hertfordshire , when that conviction had been given , 
+ was scarcely the work of a moment . - - I cannot blame myself for 
+ having done thus much . <end>   629.6709023179636
+<start> <start> All were struck with the stranger 's air , 
+ all wondered who he could be , and Kitty and Lydia , determined if 
+ possible to find out , led the way across the street , under pretence of 
+ wanting something in an opposite shop , and fortunately had just gained 
+ the pavement when the two gentlemen turning back had reached the same 
+ spot . <end>   705.3937881152513
+<start> <start> Thoughtless and indiscreet I 
+ can easily believe him , but this step ( and let us rejoice over it ) 
+ marks nothing bad at heart . <end>   1080.267032385664
+<start> <start> Bennet began repeating her thanks to Mr . Bingley for his kindness to 
+ Jane , with an apology for troubling him also with Lizzy . <end>   556.9401339405065
+<start> <start> Jane 's is nothing to it - - nothing at all . <end>   99.90771263342323
+<start> <start> CHAPTER III . 
+ 
+ 
+ Not all that Mrs . <end>   34.552688875826924
+<start> <start> A great many changes have happened in the neighbourhood , 
+ since you went away . <end>   34.922825402052915
+<start> <start> Oh ! <end>   7.296773763321134
+<start> <start> She had even 
+ learnt to detect , in the very gentleness which had first delighted her , 
+ an affectation and a sameness to disgust and weary . <end>   1010.0419114498875
+<start> <start> Tell him I hope he will 
+ excuse me when he knows all , and tell him I will dance with him at 
+ the next ball we meet , with great pleasure . <end>   532.2414920276545
+<start> <start> CHAPTER XV . 
+ 
+ 
+ The discomposure of spirits , which this extraordinary visit threw 
+ Elizabeth into , could not be easily overcome ; nor could she for many 
+ hours , learn to think of it less than incessantly . <end>   350.46323355069103
+<start> <start> And her neighbours at 
+ Lucas lodge , therefore , ( for through their communication with the 
+ Collinses , the report she concluded had reached lady Catherine ) had only 
+ set _that_ down , as almost certain and immediate , which _she_ had looked 
+ forward to as possible , at some future time . <end>   1081.6606106683116
+<start> <start> " By this time , my dearest sister , you have received my hurried 
+ letter ; I wish this may be more intelligible , but though not 
+ confined for time , my head is so bewildered that I cannot answer 
+ for being coherent . <end>   580.1047652507517
+<start> <start> Let me hear what it is . " 
+ 
+ " We are speaking of music , Madam , " said he , when no longer able to avoid 
+ a reply . <end>   60.677244968728886
+<start> <start> Console Lady Catherine as well as 
+ you can . <end>   211.85404760837235
+<start> <start> A small sum could not do all this . " 
+ 
+ " No , " said her father , " Wickham 's a fool , if he takes her with a 
+ farthing less than ten thousand pounds . <end>   131.5322659968685
+<start> <start> " Next time you call , " said she , " I hope we shall be more lucky . " 
+ 
+ He should be particularly happy at any time , & c . <end>   151.2199601333027
+<start> <start> Surprise was the least 
+ of her feelings on this developement . <end>   211.09423032611406
+<start> <start> " I am sure , " she added , " if it was not for such good friends I do not 
+ know what would become of her , for she is very ill indeed , and suffers a 
+ vast deal , though with the greatest patience in the world , which is 
+ always the way with her , for she has , without exception , the sweetest 
+ temper I ever met with . <end>   223.65330057932815
+<start> <start> Supposing him to be attached to 
+ me , would _my_ refusing to accept his hand , make him wish to bestow it 
+ on his cousin ? <end>   1174.5221120093008
+<start> <start> It would have suited 
+ me in every respect . " 
+ 
+ " How should you have liked making sermons ? " 
+ 
+ " Exceedingly well . <end>   161.90745594451994
+<start> <start> For herself she was humbled ; but she was proud of him . <end>   389.30170775484885
+<start> <start> but from what the report of 
+ their engagement could originate , Elizabeth was at a loss to imagine ; 
+ till she recollected that _his_ being the intimate friend of Bingley , 
+ and _her_ being the sister of Jane , was enough , at a time when the 
+ expectation of one wedding , made every body eager for another , to supply 
+ the idea . <end>   495.9243395705288
+<start> <start> Lydia was Lydia still ; untamed , unabashed , wild , noisy , and 
+ fearless . <end>   1348.4338490443042
+<start> <start> It was borne in the latter with decent 
+ philosophy . <end>   634.7441423400192
+<start> <start> And then we were so merry all the way home ! <end>   1006.2327872035968
+<start> <start> A lady 's 
+ imagination is very rapid ; it jumps from admiration to love , from love 
+ to matrimony in a moment . <end>   1281.3272014276415
+<start> <start> " There is a gentleman with him , mamma , " said Kitty ; " who can it be ? " 
+ 
+ " Some acquaintance or other , my dear , I suppose ; I am sure I do not 
+ know . " 
+ 
+ " La ! " replied Kitty , " it looks just like that man that used to be with 
+ him before . <end>   129.4842235938981
+<start> <start> The comfort to _her_ , 
+ of the regiment 's approaching removal , was indeed beyond expression . <end>   383.54931786664366
+<start> <start> Lydia came to 
+ us ; and Wickham had constant admission to the house . <end>   313.9040739880013
+<start> <start> They were , therefore , to go . - - Elizabeth was pleased , though , 
+ when she asked herself the reason , she had very little to say in reply . <end>   133.32911035198592
+<start> <start> I knew you would be wishing me joy . " 
+ 
+ " Nay , if you are so serious about it , I shall consider the matter as 
+ absolutely settled . <end>   258.2010316224999
+<start> <start> I can hardly write for 
+ laughing . <end>   703.0027891745692
+<start> <start> As for Jane , _her_ anxiety under this suspence was , of course , more 
+ painful than Elizabeth 's ; but whatever she felt she was desirous of 
+ concealing , and between herself and Elizabeth , therefore , the subject 
+ was never alluded to . <end>   609.5416373355041
+<start> <start> Mr . Collins made his 
+ declaration in form . <end>   142.22375930635775
+<start> <start> If she is half as sharp as her mother , 
+ she is saving enough . <end>   631.5737749187041
+<start> <start> I am particularly unlucky 
+ in meeting with a person so well able to expose my real character , in a 
+ part of the world , where I had hoped to pass myself off with some degree 
+ of credit . <end>   276.4247509814079
+<start> <start> While the contents of the first 
+ letter remained on her mind , she was all surprise - - all astonishment that 
+ Wickham should marry a girl , whom it was impossible he could marry for 
+ money ; and how Lydia could ever have attached him , had appeared 
+ incomprehensible . <end>   713.2448632231456
+<start> <start> She was in hopes that the evening would afford some opportunity of 
+ bringing them together ; that the whole of the visit would not pass away 
+ without enabling them to enter into something more of conversation , than 
+ the mere ceremonious salutation attending his entrance . <end>   459.6907144816243
+<start> <start> I 
+ always had a value for him . <end>   173.2862941736873
+<start> <start> " The first wish of my heart , " said she to herself , " is never more to be 
+ in company with either of them . <end>   97.30439181005517
+<start> <start> Her 
+ heart did whisper , that he had done it for her . <end>   153.67566326247552
+<start> <start> Bennet , I am inclined to think that her own 
+ disposition must be naturally bad , or she could not be guilty of 
+ such an enormity , at so early an age . <end>   305.46058552916304
+<start> <start> why is not every body as happy ? " 
+ 
+ Elizabeth 's congratulations were given with a sincerity , a warmth , a 
+ delight , which words could but poorly express . <end>   636.1483349266881
+<start> <start> Gardiner . <end>   13.070694578734168
+<start> <start> They were able to love each 
+ other , even as well as they intended . <end>   266.75900813767953
+<start> <start> He 
+ must know that she was as amiable and unpretending as we have found 
+ her . " 
+ 
+ " But does Lydia know nothing of this ? <end>   127.06129155216759
+<start> <start> Bennet 
+ wondered at their coming , and thought them very wrong to give so much 
+ trouble , and was sure Jane would have caught cold again . - - But their 
+ father , though very laconic in his expressions of pleasure , was really 
+ glad to see them ; he had felt their importance in the family circle . <end>   643.2414078340807
+<start> <start> _I_ only 
+ want to think _you_ perfect , and you set yourself against it . <end>   1757.305407018961
+<start> <start> She has a very good notion 
+ of fingering , though her taste is not equal to Anne 's . <end>   701.6437492743237
+<start> <start> Elizabeth , construing all 
+ this into a wish of hearing her speak of her sister , was pleased ; and on 
+ this account , as well as some others , found herself , when their visitors 
+ left them , capable of considering the last half hour with some 
+ satisfaction , though while it was passing , the enjoyment of it had been 
+ little . <end>   321.75701344192163
+<start> <start> When Mr . Collins could be 
+ forgotten , there was really a great air of comfort throughout , and by 
+ Charlotte 's evident enjoyment of it , Elizabeth supposed he must be often 
+ forgotten . <end>   484.6102436865624
+<start> <start> I saw them the night before last . " 
+ 
+ Elizabeth now expected that she would produce a letter for her from 
+ Charlotte , as it seemed the only probable motive for her calling . <end>   800.6088516907323
+<start> <start> I am very , very sorry . <end>   150.09348567264104
+<start> <start> The more I see 
+ of the world , the more am I dissatisfied with it ; and every day confirms 
+ my belief of the inconsistency of all human characters , and of the 
+ little dependence that can be placed on the appearance of either merit 
+ or sense . <end>   580.1300542768382
+<start> <start> I ask only a comfortable home ; and considering Mr . Collins 's 
+ character , connections , and situation in life , I am convinced that my 
+ chance of happiness with him is as fair , as most people can boast on 
+ entering the marriage state . " 
+ 
+ Elizabeth quietly answered " Undoubtedly ; " - - and after an awkward pause , 
+ they returned to the rest of the family . <end>   168.82747054306296
+<start> <start> Gardiner had seen Pemberley , and known the late Mr . Darcy by 
+ character perfectly well . <end>   293.99710177349976
+<start> <start> Mr . Wickham , after a few moments , 
+ touched his hat - - a salutation which Mr . Darcy just deigned to return . <end>   153.36785317252279
+<start> <start> Wickham indeed had gone to her , on their first arrival in 
+ London , and had she been able to receive them into her house , they 
+ would have taken up their abode with her . <end>   267.50770902387603
+<start> <start> Let us hope for 
+ better things . <end>   241.94769010511058
+<start> <start> But of every other neglect 
+ I can believe him capable . <end>   1766.7864650605682
+<start> <start> CHAPTER XVIII . 
+ 
+ 
+ Till Elizabeth entered the drawing - room at Netherfield and looked in 
+ vain for Mr . Wickham among the cluster of red coats there assembled , a 
+ doubt of his being present had never occurred to her . <end>   204.5941440835224
+<start> <start> Do not involve 
+ yourself , or endeavour to involve him in an affection which the want of 
+ fortune would make so very imprudent . <end>   1103.4188999184425
+<start> <start> Her character 
+ will be fixed , and she will , at sixteen , be the most determined flirt 
+ that ever made herself and her family ridiculous . <end>   471.40117575661236
+<start> <start> He dined with us the next day , and was to leave town again 
+ on Wednesday or Thursday . <end>   594.3081926312929
+<start> <start> The particulars , I reserve till we meet . <end>   834.5899377969329
+<start> <start> They travelled as expeditiously as possible ; and sleeping one night on 
+ the road , reached Longbourn by dinner - time the next day . <end>   322.60807547181383
+<start> <start> His words 
+ seemed to imply it . <end>   380.3470130631757
+<start> <start> She lost all concern for him in 
+ finding herself thus selected as the object of such idle and frivolous 
+ gallantry ; and while she steadily repressed it , could not but feel the 
+ reproof contained in his believing , that however long , and for whatever 
+ cause , his attentions had been withdrawn , her vanity would be gratified 
+ and her preference secured at any time by their renewal . <end>   1226.8691005938074
+<start> <start> Miss Bingley warmly 
+ resented the indignity he had received , in an expostulation with her 
+ brother for talking such nonsense . <end>   1077.0965456370798
+<start> <start> I thought him very sly ; - - he hardly ever 
+ mentioned your name . <end>   628.7609557021099
+<start> <start> " I often think , " said she , " that there is nothing so bad as parting with 
+ one 's friends . <end>   89.34923303137995
+<start> <start> Younger sons cannot marry 
+ where they like . " 
+ 
+ " Unless where they like women of fortune , which I think they very often 
+ do . " 
+ 
+ " Our habits of expence make us too dependant , and there are not many in 
+ my rank of life who can afford to marry without some attention to 
+ money . " 
+ 
+ " Is this , " thought Elizabeth , " meant for me ? " and she coloured at the 
+ idea ; but , recovering herself , said in a lively tone , " And pray , what is 
+ the usual price of an Earl 's younger son ? <end>   362.75222636820354
+<start> <start> " That is all very proper and civil , I am sure , " said Mrs . <end>   32.311514413303875
+<start> <start> But the 
+ clothes , the wedding clothes ! <end>   1134.1352049923678
+<start> <start> Charlotte 's first letters 
+ were received with a good deal of eagerness ; there could not but be 
+ curiosity to know how she would speak of her new home , how she would 
+ like Lady Catherine , and how happy she would dare pronounce herself to 
+ be ; though , when the letters were read , Elizabeth felt that Charlotte 
+ expressed herself on every point exactly as she might have foreseen . <end>   668.0090487050919
+<start> <start> Mr . Gardiner would be prevented by business from 
+ setting out till a fortnight later in July , and must be in London again 
+ within a month ; and as that left too short a period for them to go so 
+ far , and see so much as they had proposed , or at least to see it with 
+ the leisure and comfort they had built on , they were obliged to give up 
+ the Lakes , and substitute a more contracted tour ; and , according to the 
+ present plan , were to go no farther northward than Derbyshire . <end>   568.3009489491557
+<start> <start> Colonel Forster is a sensible man , and will 
+ keep her out of any real mischief ; and she is luckily too poor to be an 
+ object of prey to any body . <end>   215.46672336189297
+<start> <start> You will only think I feel _more_ than I ought to do , when I 
+ tell you all . " 
+ 
+ " What do you mean ? " 
+ 
+ " Why , I must confess , that I love him better than I do Bingley . <end>   88.61786981974305
+<start> <start> " I do not blame Jane , " she continued , " for Jane would have got Mr . 
+ Bingley , if she could . <end>   67.9583917019433
+<start> <start> Miss Bingley was 
+ engrossed by Mr . Darcy , her sister scarcely less so ; and as for Mr . 
+ Hurst , by whom Elizabeth sat , he was an indolent man , who lived only to 
+ eat , drink , and play at cards , who when he found her prefer a plain dish 
+ to a ragout , had nothing to say to her . <end>   391.4162454945347
+<start> <start> After sitting a little while with Jane , on Miss 
+ Bingley 's appearance and invitation , the mother and three daughters all 
+ attended her into the breakfast parlour . <end>   284.65705108251854
+<start> <start> The dinner too in its turn was highly admired ; and 
+ he begged to know to which of his fair cousins , the excellence of its 
+ cookery was owing . <end>   724.8333876281828
+<start> <start> I should have considered it as part of my duty , and 
+ the exertion would soon have been nothing . <end>   320.4303436755
+<start> <start> " There has 
+ been many a one , I fancy , overcome in the same way . <end>   585.1115400929049
+<start> <start> I never saw such a long chin in my life . <end>   45.80669266070012
+<start> <start> yes . - - Do let the portraits of your uncle and aunt Philips be 
+ placed in the gallery at Pemberley . <end>   492.7301927182611
+<start> <start> Our 
+ importance , our respectability in the world , must be affected by the 
+ wild volatility , the assurance and disdain of all restraint which mark 
+ Lydia 's character . <end>   403.39832791430155
+<start> <start> With _them_ he is remarkably 
+ agreeable . " 
+ 
+ " I do not believe a word of it , my dear . <end>   39.503678657730006
+<start> <start> Bennet . <end>   10.318399796512947
+<start> <start> My good qualities are under your protection , and you are 
+ to exaggerate them as much as possible ; and , in return , it belongs to me 
+ to find occasions for teazing and quarrelling with you as often as may 
+ be ; and I shall begin directly by asking you what made you so unwilling 
+ to come to the point at last . <end>   446.3018617167862
+<start> <start> But why Mr . Darcy came so often to the Parsonage , it was more difficult 
+ to understand . <end>   664.9986624969706
+<start> <start> " Mr . Darcy is not so well worth listening to as his friend , 
+ is he ? - - Poor Eliza ! - - to be only just _tolerable_ . " 
+ 
+ " I beg you would not put it into Lizzy 's head to be vexed by his 
+ ill - treatment ; for he is such a disagreeable man that it would be quite 
+ a misfortune to be liked by him . <end>   259.2972820903448
+<start> <start> I have suspected it some time , but 
+ I am now convinced . " 
+ 
+ Catherine was disconcerted , and made no answer ; but Lydia , with perfect 
+ indifference , continued to express her admiration of Captain Carter , and 
+ her hope of seeing him in the course of the day , as he was going the 
+ next morning to London . <end>   125.40999012838016
+<start> <start> Her hair so untidy , so blowsy ! " 
+ 
+ " Yes , and her petticoat ; I hope you saw her petticoat , six inches deep 
+ in mud , I am absolutely certain ; and the gown which had been let down to 
+ hide it , not doing its office . " 
+ 
+ " Your picture may be very exact , Louisa , " said Bingley ; " but this was 
+ all lost upon me . <end>   359.602046670833
+<start> <start> Elizabeth could not help saying , " It is 
+ very much to his credit , I am sure , that you should think so . " 
+ 
+ " I say no more than the truth , and what every body will say that knows 
+ him , " replied the other . <end>   83.31239381307428
+<start> <start> " Do not give way to useless alarm , " added he , " though it is right to be 
+ prepared for the worst , there is no occasion to look on it as certain . <end>   159.69719239474557
+<start> <start> In a few minutes , Mrs . <end>   8.051594856767771
+<start> <start> Their lodgings were not long a secret , 
+ and at length they began to know the officers themselves . <end>   518.5294350557998
+<start> <start> Here consequently was an inexhaustible subject 
+ of discourse . <end>   2761.8253336059856
+<start> <start> I 
+ am sure my sisters must all envy me . <end>   431.9390670074791
+<start> <start> A regard for the requester would often make 
+ one readily yield to a request , without waiting for arguments to reason 
+ one into it . <end>   1438.234129561685
+<start> <start> She 
+ looked at Jane , and smiled , and shook her head by turns . <end>   54.696563781705656
+<start> <start> If his own vanity , however , did not mislead him , 
+ _he_ was the cause , his pride and caprice were the cause of all that 
+ Jane had suffered , and still continued to suffer . <end>   578.0224455262676
+<start> <start> But he had given a reason for his interference , which asked no 
+ extraordinary stretch of belief . <end>   609.0478050977077
+<start> <start> Towards _him_ I have been 
+ kinder than towards myself . " 
+ 
+ Elizabeth disdained the appearance of noticing this civil reflection , 
+ but its meaning did not escape , nor was it likely to conciliate her . <end>   480.43553260063135
+<start> <start> But , whatever may be their own wishes , it is very unlikely 
+ they should have opposed their brother 's . <end>   253.99745625759752
+<start> <start> I know no harm of her . " 
+ 
+ " But he paid her not the smallest attention , till her grandfather 's 
+ death made her mistress of this fortune . " 
+ 
+ " No - - why should he ? <end>   237.09705635759872
+<start> <start> In Three Volumes . <end>   4.533491998641342
+<start> <start> Miss Bingley offered her the carriage , and she only 
+ wanted a little pressing to accept it , when Jane testified such concern 
+ in parting with her , that Miss Bingley was obliged to convert the offer 
+ of the chaise into an invitation to remain at Netherfield for the 
+ present . <end>   280.0152403813936
+<start> <start> I could not bear to have her ten miles from me ; and as for 
+ Purvis Lodge , the attics are dreadful . " 
+ 
+ Her husband allowed her to talk on without interruption , while the 
+ servants remained . <end>   512.2928603465328
+<start> <start> " Implacable resentment 
+ _is_ a shade in a character . <end>   559.4212918696653
+<start> <start> You dare not , 
+ you cannot deny that you have been the principal , if not the only means 
+ of dividing them from each other , of exposing one to the censure of the 
+ world for caprice and instability , the other to its derision for 
+ disappointed hopes , and involving them both in misery of the acutest 
+ kind . " 
+ 
+ She paused , and saw with no slight indignation that he was listening 
+ with an air which proved him wholly unmoved by any feeling of remorse . <end>   730.2570026777414
+<start> <start> I am 
+ perfectly satisfied from what his manners now are , that he never had any 
+ design of engaging my affection . <end>   163.49239278633712
+<start> <start> But do not imagine 
+ that he is always here so often . <end>   169.5675951590719
+<start> <start> I must find Mr . Gardiner this moment , on business that cannot be 
+ delayed ; I have not an instant to lose . " 
+ 
+ " Good God ! <end>   389.96323790715786
+<start> <start> After playing some Italian songs , Miss Bingley varied the charm by a 
+ lively Scotch air ; and soon afterwards Mr . Darcy , drawing near 
+ Elizabeth , said to her - - 
+ 
+ " Do not you feel a great inclination , Miss Bennet , to seize such an 
+ opportunity of dancing a reel ? " 
+ 
+ She smiled , but made no answer . <end>   181.7398384646781
+<start> <start> I remember the time when I 
+ liked a red coat myself very well - - and indeed so I do still at my heart ; 
+ and if a smart young colonel , with five or six thousand a year , should 
+ want one of my girls , I shall not say nay to him ; and I thought Colonel 
+ Forster looked very becoming the other night at Sir William 's in his 
+ regimentals . " 
+ 
+ " Mama , " cried Lydia , " my aunt says that Colonel Forster and Captain 
+ Carter do not go so often to Miss Watson 's as they did when they first 
+ came ; she sees them now very often standing in Clarke 's library . " 
+ 
+ Mrs . <end>   621.532826087553
+<start> <start> His attentions to Miss King were now the consequence of views solely and 
+ hatefully mercenary ; and the mediocrity of her fortune proved no longer 
+ the moderation of his wishes , but his eagerness to grasp at any thing . <end>   990.9444161512093
+<start> <start> Their 
+ arrival was dreaded by the elder Miss Bennets ; and Jane more especially , 
+ who gave Lydia the feelings which would have attended herself , had _she_ 
+ been the culprit , was wretched in the thought of what her sister must 
+ endure . <end>   1033.2336851437374
+<start> <start> Bennet and Lydia are going in the carriage to 
+ Meryton . <end>   436.91100726941727
+<start> <start> Her aunt now called her to look at a picture . <end>   922.3863345233806
+<start> <start> I am not ashamed of having been 
+ mistaken - - or , at least , it is slight , it is nothing in comparison of 
+ what I should feel in thinking ill of him or his sisters . <end>   173.14242395212594
+<start> <start> Mr . 
+ Darcy may hug himself . " 
+ 
+ " Mr . Darcy is not to be laughed at ! " cried Elizabeth . <end>   29.426086295337168
+<start> <start> Though I 
+ _know_ it must be a scandalous falsehood ; though I would not injure him 
+ so much as to suppose the truth of it possible , I instantly resolved on 
+ setting off for this place , that I might make my sentiments known to 
+ you . " 
+ 
+ " If you believed it impossible to be true , " said Elizabeth , colouring 
+ with astonishment and disdain , " I wonder you took the trouble of coming 
+ so far . <end>   235.36537007782002
+<start> <start> Lord ! <end>   17.571260126690326
+<start> <start> He was on one side of her mother . <end>   43.260752185243476
+<start> <start> Happiness in marriage is entirely a matter of chance . <end>   1499.7300496344726
+<start> <start> Well ! <end>   1386.793920961716
+<start> <start> The letter which she wrote on this occasion to her sister , will 
+ prove what she felt . <end>   341.0269220076949
+<start> <start> But against this , there were objections ; and she finally 
+ resolved that it could be the last resource , if her private enquiries as 
+ to the absence of the family , were unfavourably answered . <end>   319.16407532421835
+<start> <start> I should never be happy without 
+ him , so think it no harm to be off . <end>   305.3977773056307
+<start> <start> A flirt too , in the 
+ worst and meanest degree of flirtation ; without any attraction beyond 
+ youth and a tolerable person ; and from the ignorance and emptiness of 
+ her mind , wholly unable to ward off any portion of that universal 
+ contempt which her rage for admiration will excite . <end>   1386.7894105608393
+<start> <start> I hope they will not meet at all . <end>   69.00418301906849
+<start> <start> As I must 
+ therefore conclude that you are not serious in your rejection of me , I 
+ shall chuse to attribute it to your wish of increasing my love by 
+ suspense , according to the usual practice of elegant females . " 
+ 
+ " I do assure you , Sir , that I have no pretension whatever to that kind 
+ of elegance which consists in tormenting a respectable man . <end>   383.09972812114887
+<start> <start> Miss Darcy was tall , and on a larger scale than Elizabeth ; and , though 
+ little more than sixteen , her figure was formed , and her appearance 
+ womanly and graceful . <end>   694.7793194335119
+<start> <start> The joy which Miss Darcy expressed on receiving similar information , was 
+ as sincere as her brother 's in sending it . <end>   886.0451385425217
+<start> <start> It was really a very 
+ handsome thought . <end>   230.26763043467858
+<start> <start> Bennet , to whose apartment they all repaired , after a few minutes 
+ conversation together , received them exactly as might be expected ; with 
+ tears and lamentations of regret , invectives against the villanous 
+ conduct of Wickham , and complaints of her own sufferings and ill usage ; 
+ blaming every body but the person to whose ill judging indulgence the 
+ errors of her daughter must be principally owing . <end>   1126.151066926193
+<start> <start> Your uncle is as much surprised as I am - - and nothing 
+ but the belief of your being a party concerned , would have allowed 
+ him to act as he has done . <end>   355.6439153818214
+<start> <start> In the afternoon , the two elder Miss Bennets were able to be for half an 
+ hour by themselves ; and Elizabeth instantly availed herself of the 
+ opportunity of making many enquiries , which Jane was equally eager to 
+ satisfy . <end>   455.5532131455281
+<start> <start> " Oh ! <end>   4.2396923682408225
+<start> <start> I cannot 
+ acquit him of that duty ; nor could I think well of the man who should 
+ omit an occasion of testifying his respect towards any body connected 
+ with the family . " And with a bow to Mr . Darcy , he concluded his speech , 
+ which had been spoken so loud as to be heard by half the room . - - Many 
+ stared . - - Many smiled ; but no one looked more amused than Mr . Bennet 
+ himself , while his wife seriously commended Mr . Collins for having 
+ spoken so sensibly , and observed in a half - whisper to Lady Lucas , that 
+ he was a remarkably clever , good kind of young man . <end>   409.4103238479208
+<start> <start> Bennet 's 
+ heart , but for the mortifying supposition of his viewing it all as his 
+ own future property . <end>   496.75134371429715
+<start> <start> After welcoming their sisters , they triumphantly displayed a table set 
+ out with such cold meat as an inn larder usually affords , exclaiming , 
+ " Is not this nice ? <end>   2286.593909245837
+<start> <start> We can all 
+ _begin_ freely - - a slight preference is natural enough ; but there are 
+ very few of us who have heart enough to be really in love without 
+ encouragement . <end>   1154.680452401083
+<start> <start> Her brother 's recommendation was enough to ensure her favour : his 
+ judgment could not err , and he had spoken in such terms of Elizabeth , as 
+ to leave Georgiana without the power of finding her otherwise than 
+ lovely and amiable . <end>   566.3836836744433
+<start> <start> It cannot be for _me_ , it cannot be for _my_ sake 
+ that his manners are thus softened . <end>   276.65423505033215
+<start> <start> Mr . Collins 's present 
+ circumstances made it a most eligible match for their daughter , to whom 
+ they could give little fortune ; and his prospects of future wealth were 
+ exceedingly fair . <end>   348.04204518382136
+<start> <start> She 
+ could think of nothing else , and yet whether Bingley 's regard had really 
+ died away , or were suppressed by his friends 'interference ; whether he 
+ had been aware of Jane 's attachment , or whether it had escaped his 
+ observation ; whichever were the case , though her opinion of him must be 
+ materially affected by the difference , her sister 's situation remained 
+ the same , her peace equally wounded . <end>   562.4421500651337
+<start> <start> Such a countenance , such manners ! <end>   977.7531783334512
+<start> <start> The darling wish of his 
+ sisters was then gratified ; he bought an estate in a neighbouring county 
+ to Derbyshire , and Jane and Elizabeth , in addition to every other source 
+ of happiness , were within thirty miles of each other . <end>   445.3598674500177
+<start> <start> Though our kind 
+ uncle has done something towards clearing him , I cannot believe that ten 
+ thousand pounds , or any thing like it , has been advanced . <end>   552.4603140053638
+<start> <start> I have great hopes of finding him quite the 
+ reverse . <end>   1066.981979151268
+<start> <start> It has been most unconsciously done , however , and I hope will be of 
+ short duration . <end>   190.07809937436863
+<start> <start> Had he done his duty in that 
+ respect , Lydia need not have been indebted to her uncle , for whatever of 
+ honour or credit could now be purchased for her . <end>   860.0919340100202
+<start> <start> I never heard any harm of her ; and I dare 
+ say she is one of the most tractable creatures in the world . <end>   114.14719430529509
+<start> <start> But every body is to 
+ judge for themselves , and the Lucases are very good sort of girls , I 
+ assure you . <end>   159.94603367567856
+<start> <start> Almost as 
+ soon as I entered the house I singled you out as the companion of my 
+ future life . <end>   392.87239571569506
+<start> <start> " I never heard any thing so 
+ abominable . <end>   418.4355343072469
+<start> <start> If I had ever learnt , I 
+ should have been a great proficient . <end>   208.00728426202377
+<start> <start> By nature inoffensive , 
+ friendly and obliging , his presentation at St . James 's had made him 
+ courteous . <end>   189.65162322400994
+<start> <start> His sense of her inferiority - - of 
+ its being a degradation - - of the family obstacles which judgment had 
+ always opposed to inclination , were dwelt on with a warmth which seemed 
+ due to the consequence he was wounding , but was very unlikely to 
+ recommend his suit . <end>   1422.9355812990823
+<start> <start> She performed her part 
+ indeed without much graciousness , but Mrs . <end>   673.5422386781089
+<start> <start> Lady Lucas could not be insensible of triumph on being able to retort on 
+ Mrs . <end>   280.9748626420403
+<start> <start> Their first subject was her 
+ sister ; and she was more grieved than astonished to hear , in reply to 
+ her minute enquiries , that though Jane always struggled to support her 
+ spirits , there were periods of dejection . <end>   347.6461095696206
+<start> <start> He placed himself by her . <end>   100.49165979839387
+<start> <start> Mr . Collins and Charlotte appeared at 
+ the door , and the carriage stopped at the small gate , which led by a 
+ short gravel walk to the house , amidst the nods and smiles of the whole 
+ party . <end>   108.037025646461
+<start> <start> It was a fortnight since Mrs . <end>   114.97493576026974
+<start> <start> It is every way horrible ! " 
+ 
+ Darcy shook his head in silent acquiesence . <end>   372.54360668774956
+<start> <start> No 
+ arguments shall be wanting on my part , that can alleviate so severe 
+ a misfortune ; or that may comfort you , under a circumstance that 
+ must be of all others most afflicting to a parent 's mind . <end>   668.5170890584639
+<start> <start> Her uncle and aunt were all amazement ; and the embarrassment 
+ of her manner as she spoke , joined to the circumstance itself , and many 
+ of the circumstances of the preceding day , opened to them a new idea on 
+ the business . <end>   498.889841954185
+<start> <start> I am not so 
+ selfish , however , as to press for it , if inconvenient . <end>   209.38654126542215
+<start> <start> But , Lizzy , you 
+ look as if you did not enjoy it . <end>   49.26234480117516
+<start> <start> The dejection was almost 
+ universal . <end>   1643.5450935806953
+<start> <start> The master of the house heard with real sorrow that they were to go so 
+ soon , and repeatedly tried to persuade Miss Bennet that it would not be 
+ safe for her - - that she was not enough recovered ; but Jane was firm where 
+ she felt herself to be right . <end>   327.95436734840274
+<start> <start> <NUM> . F . 
+ 
+ <NUM> . F . <NUM> . <end>   7.462571014089267
+<start> <start> She was more alive to the disgrace , which the want of new 
+ clothes must reflect on her daughter 's nuptials , than to any sense of 
+ shame at her eloping and living with Wickham , a fortnight before they 
+ took place . <end>   546.9093932612203
+<start> <start> There was no want of discourse . <end>   156.37354731136506
+<start> <start> After watching her a little , Fitzwilliam asked her why she 
+ was so thoughtful . <end>   495.6449648871488
+<start> <start> " If , therefore , an excuse for not keeping his promise , should come to 
+ his friend within a few days , " she added , " I shall know how to 
+ understand it . <end>   170.17995045230205
+<start> <start> Such were the kind of lamentations resounding perpetually through 
+ Longbourn - house . <end>   391.69147161679
+<start> <start> Bennet to her daughter 's room , in her dressing 
+ gown , and with her hair half finished , crying out , 
+ 
+ " My dear Jane , make haste and hurry down . <end>   108.03297401404204
+<start> <start> my dear Charlotte , - - impossible ! " 
+ 
+ The steady countenance which Miss Lucas had commanded in telling her 
+ story , gave way to a momentary confusion here on receiving so direct a 
+ reproach ; though , as it was no more than she expected , she soon 
+ regained her composure , and calmly replied , 
+ 
+ " Why should you be surprised , my dear Eliza ? - - Do you think it incredible 
+ that Mr . Collins should be able to procure any woman 's good opinion , 
+ because he was not so happy as to succeed with you ? " 
+ 
+ But Elizabeth had now recollected herself , and making a strong effort 
+ for it , was able to assure her with tolerable firmness that the prospect 
+ of their relationship was highly grateful to her , and that she wished 
+ her all imaginable happiness . <end>   360.2745748216616
+<start> <start> Nothing could 
+ console and nothing appease her . - - Nor did that day wear out her 
+ resentment . <end>   1045.9754617399815
+<start> <start> I have written to Colonel Forster , to inform him of 
+ our present arrangements , and to request that he will satisfy the 
+ various creditors of Mr . Wickham in and near Brighton , with 
+ assurances of speedy payment , for which I have pledged myself . <end>   401.96306299881235
+<start> <start> And even Mary could assure her family 
+ that she had no disinclination for it . <end>   304.69040590490414
+<start> <start> General Information About Project Gutenberg - tm electronic 
+ works . <end>   45.94674368493261
+<start> <start> That among his own connections he was 
+ esteemed and valued - - that even Wickham had allowed him merit as a 
+ brother , and that she had often heard him speak so affectionately of 
+ his sister as to prove him capable of _some_ amiable feeling . <end>   838.0578725412536
+<start> <start> He is nothing to us , you know , and I am sure 
+ _I_ never want to see him again . <end>   64.01132092065812
+<start> <start> More thoughtfulness , and less anxiety to please 
+ than when they last met , were plainly expressed . <end>   2310.8041608403028
+<start> <start> It appears to me so very unlikely , that any young man should 
+ form such a design against a girl who is by no means unprotected or 
+ friendless , and who was actually staying in his colonel 's family , that I 
+ am strongly inclined to hope the best . <end>   412.24032437009487
+<start> <start> Its effect was most 
+ extraordinary ; for on first hearing it , Mrs . <end>   546.3269254914702
+<start> <start> Elizabeth was surprised , but said 
+ not a word . <end>   9.742039083587574
+<start> <start> we had such a good piece 
+ of fun the other day at Colonel Forster 's . <end>   824.078942795656
+<start> <start> Lizzy is not a bit better than the 
+ others ; and I am sure she is not half so handsome as Jane , nor half so 
+ good humoured as Lydia . <end>   484.7648238751626
+<start> <start> Never mind Miss 
+ Lizzy 's hair . " 
+ 
+ " We will be down as soon as we can , " said Jane ; " but I dare say Kitty is 
+ forwarder than either of us , for she went up stairs half an hour ago . " 
+ 
+ " Oh ! <end>   138.2908314164789
+<start> <start> Bennet all amazement , though flattered by having a guest of such 
+ high importance , received her with the utmost politeness . <end>   627.4584872810963
+<start> <start> That he has neither integrity nor honour . <end>   1035.160279718628
+<start> <start> I cannot but wonder , 
+ however , at her having any such fears now , because , if he had at 
+ all cared about me , we must have met long , long ago . <end>   457.03096196171356
+<start> <start> Mary was the only daughter who remained at home ; and she was necessarily 
+ drawn from the pursuit of accomplishments by Mrs . <end>   424.18961627765424
+<start> <start> On that head , 
+ therefore , I shall be uniformly silent ; and you may assure yourself that 
+ no ungenerous reproach shall ever pass my lips when we are married . " 
+ 
+ It was absolutely necessary to interrupt him now . <end>   237.91108630028774
+<start> <start> They owed the restoration of Lydia , her character , every thing 
+ to him . <end>   205.0762422611611
+<start> <start> Till I 
+ can forget his father , I can never defy or expose _him_ . " 
+ 
+ Elizabeth honoured him for such feelings , and thought him handsomer than 
+ ever as he expressed them . <end>   459.0420619002995
+<start> <start> This matter may be 
+ considered , therefore , as finally settled . " And rising as she thus 
+ spoke , she would have quitted the room , had not Mr . Collins thus 
+ addressed her , 
+ 
+ " When I do myself the honour of speaking to you next on this subject I 
+ shall hope to receive a more favourable answer than you have now given 
+ me ; though I am far from accusing you of cruelty at present , because I 
+ know it to be the established custom of your sex to reject a man on the 
+ first application , and perhaps you have even now said as much to 
+ encourage my suit as would be consistent with the true delicacy of the 
+ female character . " 
+ 
+ " Really , Mr . Collins , " cried Elizabeth with some warmth , " you puzzle me 
+ exceedingly . <end>   366.60446929654563
+<start> <start> You may charge a reasonable fee for copies of or providing 
+ access to or distributing Project Gutenberg - tm electronic works provided 
+ that 
+ 
+ - You pay a royalty fee of <NUM> % of the gross profits you derive from 
+ the use of Project Gutenberg - tm works calculated using the method 
+ you already use to calculate your applicable taxes . <end>   506.769349477433
+<start> <start> _They_ will 
+ take care not to outrun their income . <end>   380.8761799554193
+<start> <start> But I knew I should 
+ persuade you at last . <end>   155.50673440147452
+<start> <start> But if I go on , I shall displease you by saying what 
+ I think of persons you esteem . <end>   511.9551526423564
+<start> <start> Jane resolutely 
+ kept her place at the table ; but Elizabeth , to satisfy her mother , went 
+ to the window - - she looked , - - she saw Mr . Darcy with him , and sat down 
+ again by her sister . <end>   167.67700909874088
+<start> <start> Allow me to say , however , that your fair partner does not 
+ disgrace you , and that I must hope to have this pleasure often repeated , 
+ especially when a certain desirable event , my dear Miss Eliza , ( glancing 
+ at her sister and Bingley , ) shall take place . <end>   242.63603666086937
+<start> <start> There are a few 
+ things that you can do with most Project Gutenberg - tm electronic works 
+ even without complying with the full terms of this agreement . <end>   71.09639562521049
+<start> <start> Yet he is _such_ a man ! " 
+ 
+ " Yes , yes , they must marry . <end>   106.73020997468355
+<start> <start> I thought I 
+ understood from the Gardiners that you had . " 
+ 
+ " Yes ; he introduced us to his sister . " 
+ 
+ " And do you like her ? " 
+ 
+ " Very much . " 
+ 
+ " I have heard , indeed , that she is uncommonly improved within this year 
+ or two . <end>   89.37940908531569
+<start> <start> Bennet 's eyes sparkled . - - " A gentleman and a stranger ! <end>   136.0526894540697
+<start> <start> It may only be 
+ used on or associated in any way with an electronic work by people who 
+ agree to be bound by the terms of this agreement . <end>   253.62928753222792
+<start> <start> I am therefore by no means discouraged by what you have just 
+ said , and shall hope to lead you to the altar ere long . " 
+ 
+ " Upon my word , Sir , " cried Elizabeth , " your hope is rather an 
+ extraordinary one after my declaration . <end>   190.35598300194485
+<start> <start> I am not particularly speaking of such a case as you have 
+ supposed about Mr . Bingley . <end>   147.97762918773932
+<start> <start> You need not send them word at 
+ Longbourn of my going , if you do not like it , for it will make the 
+ surprise the greater , when I write to them , and sign my name Lydia 
+ Wickham . <end>   394.69690621101375
+<start> <start> Elizabeth looked 
+ expressively at Lydia ; but she , who never heard nor saw any thing of 
+ which she chose to be insensible , gaily continued , " Oh ! <end>   263.3523231128291
+<start> <start> I shall send this by 
+ express , that no time may be lost in bringing me your answer . <end>   485.40142049020324
+<start> <start> Bennet with a degree of civility , which made her two daughters ashamed , 
+ especially when contrasted with the cold and ceremonious politeness of 
+ her curtsey and address to his friend . <end>   597.0263372631279
+<start> <start> " If he wants our society , let 
+ him seek it . <end>   571.6375294584044
+<start> <start> Bingley likes your sister undoubtedly ; but he 
+ may never do more than like her , if she does not help him on . " 
+ 
+ " But she does help him on , as much as her nature will allow . <end>   505.2419487112993
+<start> <start> Bennet sat looking and winking at 
+ Elizabeth and Catherine for a considerable time , without making any 
+ impression on them . <end>   797.2215413889252
+<start> <start> Jane should 
+ therefore make the most of every half hour in which she can command his 
+ attention . <end>   541.6897129522641
+<start> <start> But to be sure , 
+ the good lady who shewed us the house , did give him a most flaming 
+ character ! <end>   409.46474265838486
+<start> <start> The day of his and Lydia 's departure soon came , and Mrs . <end>   260.58445955415124
+<start> <start> If you love Mr . Darcy half as well as I do my dear 
+ Wickham , you must be very happy . <end>   108.68848229307746
+<start> <start> Elizabeth went away with her head full of him . <end>   575.1957678032189
+<start> <start> Nor was Darcy 's vindication , though 
+ grateful to her feelings , capable of consoling her for such discovery . <end>   739.1266610773489
+<start> <start> But papa is so 
+ disagreeable . " 
+ 
+ " A little sea - bathing would set me up for ever . " 
+ 
+ " And my aunt Philips is sure it would do _me_ a great deal of good , " 
+ added Kitty . <end>   114.41232874875021
+<start> <start> She felt that she had no business at 
+ Pemberley , and was obliged to assume a disinclination for seeing it . <end>   181.0327770345699
+<start> <start> CHAPTER X . 
+ 
+ 
+ Elizabeth had the satisfaction of receiving an answer to her letter , as 
+ soon as she possibly could . <end>   35.943573045869584
+<start> <start> The 
+ liberty of communication cannot be mine till it has lost all its value ! " 
+ 
+ She was now , on being settled at home , at leisure to observe the real 
+ state of her sister 's spirits . <end>   301.43047451396274
+<start> <start> Bingley was quite uncomfortable ; his sisters 
+ declared that they were miserable . <end>   1024.181776767544
+<start> <start> Mr . Gardiner left Longbourn on Sunday ; on Tuesday , his wife received a 
+ letter from him ; it told them , that on his arrival , he had immediately 
+ found out his brother , and persuaded him to come to Gracechurch street . <end>   420.5061453103959
+<start> <start> But 
+ Lizzy , you have been very sly , very reserved with me . <end>   119.06019263140169
+<start> <start> The expression 
+ of his face changed gradually from indignant contempt to a composed and 
+ steady gravity . <end>   1200.0751899400902
+<start> <start> Our 
+ instrument is a capital one , probably superior to - - - - You shall try it 
+ some day . - - Do your sisters play and sing ? " 
+ 
+ " One of them does . " 
+ 
+ " Why did not you all learn ? - - You ought all to have learned . <end>   511.72555220974834
+<start> <start> This preservative she had now 
+ obtained ; and at the age of twenty - seven , without having ever been 
+ handsome , she felt all the good luck of it . <end>   314.9125752490971
+<start> <start> He and his sisters were well , I hope , when you left London . " 
+ 
+ " Perfectly so - - I thank you . " 
+ 
+ She found that she was to receive no other answer - - and , after a short 
+ pause , added , 
+ 
+ " I think I have understood that Mr . Bingley has not much idea of ever 
+ returning to Netherfield again ? " 
+ 
+ " I have never heard him say so ; but it is probable that he may spend 
+ very little of his time there in future . <end>   109.55715417670294
+<start> <start> Though Lydia 's short 
+ letter to Mrs . <end>   547.9895730443133
+<start> <start> You are lucky in 
+ having such a master . " 
+ 
+ " Yes , Sir , I know I am . <end>   70.96150119704942
+<start> <start> As it was certain , however , that 
+ somebody was coming , Bingley instantly prevailed on Miss Bennet to avoid 
+ the confinement of such an intrusion , and walk away with him into the 
+ shrubbery . <end>   736.0308604246202
+<start> <start> But Mr . Bennet was not of a 
+ disposition to seek comfort for the disappointment which his own 
+ imprudence had brought on , in any of those pleasures which too often 
+ console the unfortunate for their folly or their vice . <end>   642.3395689854676
+<start> <start> " You write uncommonly fast . " 
+ 
+ " You are mistaken . <end>   58.47109153946701
+<start> <start> Let me know every thing that I am to know , without delay . <end>   271.4568162375906
+<start> <start> Gardiner , though unknown . <end>   51.863053767474014
+<start> <start> Her father had been an attorney in Meryton , and 
+ had left her four thousand pounds . <end>   366.5536841008948
+<start> <start> A deeper shade of hauteur overspread his 
+ features , but he said not a word , and Elizabeth , though blaming herself 
+ for her own weakness , could not go on . <end>   179.8062898665676
+<start> <start> He has 
+ more to give . <end>   43.66692221819703
+<start> <start> What a contrast did it offer to his last address in Rosing 's Park , when 
+ he put his letter into her hand ! <end>   885.7458127572409
+<start> <start> Annesley , a 
+ genteel , agreeable - looking woman , whose endeavour to introduce some kind 
+ of discourse , proved her to be more truly well bred than either of the 
+ others ; and between her and Mrs . <end>   774.4462036724412
+<start> <start> " 'Tis an etiquette I despise , " said he . <end>   221.38702629955793
+<start> <start> Elizabeth , to whom Jane very soon communicated the chief of all this , 
+ heard it in silent indignation . <end>   268.8571726383991
+<start> <start> But think no more of the letter . <end>   33.339331078054215
+<start> <start> We are not on friendly terms , 
+ and it always gives me pain to meet him , but I have no reason for 
+ avoiding _him_ but what I might proclaim to all the world ; a sense of 
+ very great ill usage , and most painful regrets at his being what he is . <end>   492.1764180880049
+<start> <start> I thought I should have broke my heart . " 
+ 
+ " I am sure I shall break _mine_ , " said Lydia . <end>   46.567624909438344
+<start> <start> Well , any friend of 
+ Mr . Bingley 's will always be welcome here to be sure ; but else I must 
+ say that I hate the very sight of him . " 
+ 
+ Jane looked at Elizabeth with surprise and concern . <end>   280.7538932373185
+<start> <start> " It is a delightful thing , to be sure , to have a daughter well married , " 
+ continued her mother , " but at the same time , Mr . Bingley , it is very 
+ hard to have her taken such a way from me . <end>   73.27010277533154
+<start> <start> But his pride , his abominable pride , his 
+ shameless avowal of what he had done with respect to Jane , his 
+ unpardonable assurance in acknowledging , though he could not justify it , 
+ and the unfeeling manner in which he had mentioned Mr . Wickham , his 
+ cruelty towards whom he had not attempted to deny , soon overcame the 
+ pity which the consideration of his attachment had for a moment excited . <end>   563.1898632781136
+<start> <start> Jane was by no means better . <end>   45.387522777517326
+<start> <start> He did look at it and into it for half an 
+ hour , was pleased with the situation and the principal rooms , satisfied 
+ with what the owner said in its praise , and took it immediately . <end>   618.1052553440591
+<start> <start> Mr . Wickham 
+ had received his commission before he left London , and he was to join 
+ his regiment at the end of a fortnight . <end>   90.49792829002403
+<start> <start> Elizabeth reserved to herself the 
+ application for her mother 's . <end>   347.1580161322374
+<start> <start> He merely added , that he should not write 
+ again , till he had something of importance to mention . " 
+ 
+ " And my mother - - How is she ? <end>   231.79383311208267
+<start> <start> Mrs . <end>   3.8458585008904347
+<start> <start> But Mr . Gardiner 
+ could not be seen , and Mr . Darcy found , on further enquiry , that 
+ your father was still with him , but would quit town the next 
+ morning . <end>   171.66719513281527
+<start> <start> It had given him a 
+ disgust to his business and to his residence in a small market town ; and 
+ quitting them both , he had removed with his family to a house about a 
+ mile from Meryton , denominated from that period Lucas Lodge , where he 
+ could think with pleasure of his own importance , and unshackled by 
+ business , occupy himself solely in being civil to all the world . <end>   525.2369731913836
+<start> <start> That had 
+ his actions been what Wickham represented them , so gross a violation of 
+ every thing right could hardly have been concealed from the world ; and 
+ that friendship between a person capable of it , and such an amiable man 
+ as Mr . Bingley , was incomprehensible . <end>   535.6179758972057
+<start> <start> There was not much in the 
+ question , nor in the preceding remark , but there was a look and a manner 
+ which gave them meaning . <end>   212.57575443621943
+<start> <start> When they parted , Lady Catherine , with great condescension , wished them 
+ a good journey , and invited them to come to Hunsford again next year ; 
+ and Miss De Bourgh exerted herself so far as to curtsey and hold out her 
+ hand to both . <end>   349.8765358333503
+<start> <start> You supposed more than 
+ really existed . <end>   960.0014556764451
+<start> <start> There was also a legacy of one thousand pounds . <end>   68.31694434357647
+<start> <start> If it was not allowable for him to gain _my_ 
+ affections , because I had no money , what occasion could there be for 
+ making love to a girl whom he did not care about , and who was equally 
+ poor ? " 
+ 
+ " But there seems indelicacy in directing his attentions towards her , so 
+ soon after this event . " 
+ 
+ " A man in distressed circumstances has not time for all those elegant 
+ decorums which other people may observe . <end>   450.7152846993208
+<start> <start> " While Mary is adjusting her ideas , " he continued , " let us return to Mr . 
+ Bingley . " 
+ 
+ " I am sick of Mr . Bingley , " cried his wife . <end>   39.80325000607371
+<start> <start> Widely 
+ different was the effect of a second perusal . - - How could she deny that 
+ credit to his assertions , in one instance , which she had been obliged to 
+ give in the other ? - - He declared himself to have been totally 
+ unsuspicious of her sister 's attachment ; - - and she could not help 
+ remembering what Charlotte 's opinion had always been . - - Neither could she 
+ deny the justice of his description of Jane . - - She felt that Jane 's 
+ feelings , though fervent , were little displayed , and that there was a 
+ constant complacency in her air and manner , not often united with great 
+ sensibility . <end>   320.1428463350441
+<start> <start> In the hall they parted . <end>   740.6927340053365
+<start> <start> The subject which had been so warmly canvassed between their parents , 
+ about a twelvemonth ago , was now brought forward again . <end>   698.6746731383175
+<start> <start> I would go and see her , if I could have the 
+ carriage . " 
+ 
+ Elizabeth , feeling really anxious , was determined to go to her , though 
+ the carriage was not to be had ; and as she was no horse - woman , walking 
+ was her only alternative . <end>   164.63905869027664
+<start> <start> But the fact is , that we are very 
+ different sort of men , and that he hates me . " 
+ 
+ " This is quite shocking ! - - He deserves to be publicly disgraced . " 
+ 
+ " Some time or other he _will_ be - - but it shall not be by _me_ . <end>   166.83448665340603
+<start> <start> But 
+ these are not Jane 's feelings ; she is not acting by design . <end>   804.1371211262517
+<start> <start> Elizabeth , on her side , had much to do . <end>   56.28995193129363
+<start> <start> Gardiner ; and after relating the 
+ circumstances , she thus went on : - - " I am now convinced , my dear aunt , 
+ that I have never been much in love ; for had I really experienced that 
+ pure and elevating passion , I should at present detest his very name , 
+ and wish him all manner of evil . <end>   349.0863358131615
+<start> <start> Mr . Bingley and Jane remained at Netherfield only a twelvemonth . <end>   150.52403720866081
+<start> <start> She related the subject 
+ of the pictures , the dimensions of the rooms , and the price of the 
+ furniture , in vain . <end>   487.42087995962294
+<start> <start> " There is also one other person in the party , " he continued after a 
+ pause , " who more particularly wishes to be known to you , - - Will you allow 
+ me , or do I ask too much , to introduce my sister to your acquaintance 
+ during your stay at Lambton ? " 
+ 
+ The surprise of such an application was great indeed ; it was too great 
+ for her to know in what manner she acceded to it . <end>   234.5517156586279
+<start> <start> Elizabeth 
+ was surprised , however , that Wickham should consent to such a scheme , 
+ and , had she consulted only her own inclination , any meeting with him 
+ would have been the last object of her wishes . <end>   190.94968103385776
+<start> <start> His debts are to be paid , 
+ amounting , I believe , to considerably more than a thousand pounds , 
+ another thousand in addition to her own settled upon _her_ , and his 
+ commission purchased . <end>   329.8813235758674
+<start> <start> Her heart was divided between concern 
+ for her sister , and resentment against all the others . <end>   100.691067847002
+<start> <start> But _now_ suppose as much as you chuse ; give a 
+ loose to your fancy , indulge your imagination in every possible 
+ flight which the subject will afford , and unless you believe me 
+ actually married , you cannot greatly err . <end>   975.5304798436339
+<start> <start> But before she had been three minutes in her own room , 
+ her mother followed her . <end>   149.71758331377825
+<start> <start> Mr . Bingley was good looking and gentleman - like ; he had a pleasant 
+ countenance , and easy , unaffected manners . <end>   263.9926661794662
+<start> <start> Mrs . <end>   3.8458585008904347
+<start> <start> " If I , " said Mr . Collins , " were so fortunate as to be able to sing , I 
+ should have great pleasure , I am sure , in obliging the company with an 
+ air ; for I consider music as a very innocent diversion , and perfectly 
+ compatible with the profession of a clergyman . - - I do not mean however to 
+ assert that we can be justified in devoting too much of our time to 
+ music , for there are certainly other things to be attended to . <end>   345.76421983030923
+<start> <start> The whole of what Elizabeth had already 
+ heard , his claims on Mr . Darcy , and all that he had suffered from him , 
+ was now openly acknowledged and publicly canvassed ; and every body was 
+ pleased to think how much they had always disliked Mr . Darcy before they 
+ had known any thing of the matter . <end>   261.3206707020368
+<start> <start> The 
+ possibility of meeting Mr . Darcy , while viewing the place , instantly 
+ occurred . <end>   295.91610422239677
+<start> <start> Their visits to Mrs . <end>   135.72031604352352
+<start> <start> They must all go to Brighton . <end>   82.43637234150208
+<start> <start> On distinguishing the ladies of the group , 
+ the two gentlemen came directly towards them , and began the usual 
+ civilities . <end>   325.20051787105007
+<start> <start> I have been meditating on the very great pleasure 
+ which a pair of fine eyes in the face of a pretty woman can bestow . " 
+ 
+ Miss Bingley immediately fixed her eyes on his face , and desired he 
+ would tell her what lady had the credit of inspiring such reflections . <end>   531.7744563942151
+<start> <start> She was not the better pleased with his 
+ gallantry , from the idea it suggested of something more . - - It now first 
+ struck her , that _she_ was selected from among her sisters as worthy of 
+ being the mistress of Hunsford Parsonage , and of assisting to form a 
+ quadrille table at Rosings , in the absence of more eligible visitors . <end>   570.0403190215458
+<start> <start> Bennet could not give her consent , or 
+ speak her approbation in terms warm enough to satisfy her feelings , 
+ though she talked to Bingley of nothing else , for half an hour ; and when 
+ Mr . Bennet joined them at supper , his voice and manner plainly shewed 
+ how really happy he was . <end>   577.261759942783
+<start> <start> Pray make my excuses to Pratt , for not keeping my 
+ engagement , and dancing with him to - night . <end>   1087.3307417024919
+<start> <start> " Lizzy , " said he , " what are you doing ? <end>   27.064008903814887
+<start> <start> After a short silence , the lady first spoke . <end>   80.37247286976259
+<start> <start> How you must have hated me after _that_ evening ? " 
+ 
+ " Hate you ! <end>   216.16297965171213
+<start> <start> _I_ should be 
+ ashamed of having one that was only entailed on me . " 
+ 
+ 
+ 
+ 
+ CHAPTER XVIII . 
+ 
+ 
+ The first week of their return was soon gone . <end>   251.09361643341452
+<start> <start> Lady Catherine 's great attentions to Mrs . <end>   81.4540833186492
+<start> <start> Colonel Forster came yesterday , having left Brighton the day 
+ before , not many hours after the express . <end>   627.0986490087813
+<start> <start> Oh ! <end>   7.296773763321134
+<start> <start> The rest of the evening brought her little amusement . <end>   112.01862441668258
+<start> <start> We must trespass 
+ a little longer on your kindness . " 
+ 
+ " Removed ! " cried Bingley . <end>   175.32098351710147
+<start> <start> here comes Hill . <end>   617.7073369487734
+<start> <start> Had his own happiness , however , been 
+ the only sacrifice , he might have been allowed to sport with it in what 
+ ever manner he thought best ; but her sister 's was involved in it , as she 
+ thought he must be sensible himself . <end>   303.9007036405093
+<start> <start> Upon the whole , therefore , she found , what has been 
+ sometimes found before , that an event to which she had looked forward 
+ with impatient desire , did not in taking place , bring all the 
+ satisfaction she had promised herself . <end>   458.5170766567008
+<start> <start> Though Mr . Bennet was not imagined to be very rich , 
+ he would have been able to do something for him , and his situation 
+ must have been benefited by marriage . <end>   202.74468361620296
+<start> <start> Project Gutenberg - tm eBooks are often created from several printed 
+ editions , all of which are confirmed as Public Domain in the U . S . 
+ unless a copyright notice is included . <end>   687.0129974008064
+<start> <start> Charlotte says , she hardly ever does . <end>   2902.6225377405167
+<start> <start> Her report was highly favourable . <end>   1816.1399867176417
+<start> <start> First of all , he asked Miss Lucas . <end>   676.6685983087239
+<start> <start> But above all , above respect and esteem , 
+ there was a motive within her of good will which could not be 
+ overlooked . <end>   651.0253849213472
+<start> <start> She had known , it seems , 
+ of their being in love with each other , many weeks . " 
+ 
+ " But not before they went to Brighton ? " 
+ 
+ " No , I believe not . " 
+ 
+ " And did Colonel Forster appear to think ill of Wickham himself ? <end>   98.02483677582606
+<start> <start> There is no indignity so abhorrent to their feelings ! " 
+ 
+ She was a little revived , however , by his bringing back his coffee cup 
+ himself ; and she seized the opportunity of saying , 
+ 
+ " Is your sister at Pemberley still ? " 
+ 
+ " Yes , she will remain there till Christmas . " 
+ 
+ " And quite alone ? <end>   159.80257256806942
+<start> <start> While 
+ she spoke , an involuntary glance shewed her Darcy with an heightened 
+ complexion , earnestly looking at her , and his sister overcome with 
+ confusion , and unable to lift up her eyes . <end>   405.48649123109107
+<start> <start> She had not at first thought very seriously of 
+ going thither ; but Charlotte , she soon found , was depending on the plan , 
+ and she gradually learned to consider it herself with greater pleasure 
+ as well as greater certainty . <end>   667.2830227196428
+<start> <start> but the gentlemen will have Mr . Bingley 's chaise to go to Meryton ; 
+ and the Hursts have no horses to theirs . " 
+ 
+ " I had much rather go in the coach . " 
+ 
+ " But , my dear , your father cannot spare the horses , I am sure . <end>   160.0470057259384
+<start> <start> We must not be so ready to fancy 
+ ourselves intentionally injured . <end>   397.7483772731283
+<start> <start> Her fellow - travellers the next day , were not of a kind to make her think 
+ him less agreeable . <end>   262.8920232682349
+<start> <start> " 'Tis too much ! " she added , " by far too much . <end>   146.60050329989002
+<start> <start> Elizabeth was not surprised at it , as 
+ Jane had written the direction remarkably ill . <end>   595.8859649519592
+<start> <start> Jane met her with a smile of 
+ such sweet complacency , a glow of such happy expression , as sufficiently 
+ marked how well she was satisfied with the occurrences of the 
+ evening . - - Elizabeth instantly read her feelings , and at that moment 
+ solicitude for Wickham , resentment against his enemies , and every thing 
+ else gave way before the hope of Jane 's being in the fairest way for 
+ happiness . <end>   325.1500961494831
+<start> <start> In what a 
+ disgraceful light might it not strike so vain a man ! <end>   1195.3161438772106
+<start> <start> You take 
+ delight in vexing me . <end>   414.1178803904367
+<start> <start> Younge was of course removed from 
+ her charge . <end>   472.88209806479466
+<start> <start> Wickham 's affection for Lydia , was just what Elizabeth had expected to 
+ find it ; not equal to Lydia 's for him . <end>   362.89429289466847
+<start> <start> In his present 
+ behaviour to herself , moreover , she had a fresh source of displeasure , 
+ for the inclination he soon testified of renewing those attentions which 
+ had marked the early part of their acquaintance , could only serve , after 
+ what had since passed , to provoke her . <end>   621.5747212280928
+<start> <start> Bennet , in short , was in very great spirits ; she had seen enough of 
+ Bingley 's behaviour to Jane , to be convinced that she would get him at 
+ last ; and her expectations of advantage to her family , when in a happy 
+ humour , were so far beyond reason , that she was quite disappointed at 
+ not seeing him there again the next day , to make his proposals . <end>   367.0285078465739
+<start> <start> <NUM> . E . Unless you have removed all references to Project Gutenberg : 
+ 
+ <NUM> . E . <NUM> . <end>   32.43972657183018
+<start> <start> I am so 
+ grieved for him . <end>   22.840623604262742
+<start> <start> How is half such a sum to be 
+ repaid ? " 
+ 
+ Mr . Bennet made no answer , and each of them , deep in thought , continued 
+ silent till they reached the house . <end>   52.723271199889
+<start> <start> The party then gathered 
+ round the fire to hear Lady Catherine determine what weather they were 
+ to have on the morrow . <end>   1078.5247103929214
+<start> <start> Gardiner , with their four children , did at length appear at 
+ Longbourn . <end>   337.47895856574684
+<start> <start> You know not , you 
+ can scarcely conceive , how they have tortured me ; - - though it was some 
+ time , I confess , before I was reasonable enough to allow their justice . " 
+ 
+ " I was certainly very far from expecting them to make so strong an 
+ impression . <end>   335.5181140998807
+<start> <start> He was received by Mrs . <end>   61.552593157093206
+<start> <start> His acquaintance with Elizabeth was very trifling . " 
+ 
+ " To be sure , Lizzy , " said her aunt , " he is not so handsome as Wickham ; 
+ or rather he has not Wickham 's countenance , for his features are 
+ perfectly good . <end>   296.78260186696184
+<start> <start> Bingley expressed great pleasure in the certainty of seeing Elizabeth 
+ again , having still a great deal to say to her , and many enquiries to 
+ make after all their Hertfordshire friends . <end>   483.45521424135524
+<start> <start> How are they even to be discovered ? <end>   1842.3958970920532
+<start> <start> She had always felt that Charlotte 's opinion of matrimony 
+ was not exactly like her own , but she could not have supposed it 
+ possible that when called into action , she would have sacrificed every 
+ better feeling to worldly advantage . <end>   439.0227479581797
+<start> <start> But I hope you will not mind it : it is 
+ all for Jane 's sake , you know ; and there is no occasion for talking to 
+ him , except just now and then . <end>   79.45585506460374
+<start> <start> Gardiner 
+ thought of him , and Mrs . <end>   82.38579014482367
+<start> <start> Some people call him proud ; but I am sure I never 
+ saw any thing of it . <end>   123.88154603765808
+<start> <start> She had never heard of him before his 
+ entrance into the - - - - shire Militia , in which he had engaged at the 
+ persuasion of the young man , who , on meeting him accidentally in town , 
+ had there renewed a slight acquaintance . <end>   260.25050384786465
+<start> <start> Mr . Darcy took her place by her niece , and they walked on 
+ together . <end>   46.55228449116325
+<start> <start> My total 
+ ignorance of the connection must plead my apology . " 
+ 
+ " You are not going to introduce yourself to Mr . Darcy ? " 
+ 
+ " Indeed I am . <end>   134.7856627955384
+<start> <start> The coach , therefore , took them the first stage of their 
+ journey , and brought its master back to Longbourn . <end>   793.1089342691506
+<start> <start> " When you have killed all your own birds , Mr . Bingley , " said her mother , 
+ " I beg you will come here , and shoot as many as you please , on Mr . 
+ Bennet 's manor . <end>   185.9811862687333
+<start> <start> " Lizzy is 
+ only headstrong in such matters as these . <end>   452.3718804930862
+<start> <start> He could not help 
+ seeing that you were about five times as pretty as every other woman in 
+ the room . <end>   195.12751587163547
+<start> <start> Unfeeling , selfish girl ! <end>   846.4425772105975
+<start> <start> " Believe me , my dear Miss Elizabeth , that your modesty , so far from 
+ doing you any disservice , rather adds to your other perfections . <end>   253.35408310198693
+<start> <start> Neither could 
+ any thing be urged against my father , who , though with some 
+ peculiarities , has abilities which Mr . Darcy himself need not disdain , 
+ and respectability which he will probably never reach . " When she thought 
+ of her mother indeed , her confidence gave way a little , but she would 
+ not allow that any objections _there_ had material weight with Mr . 
+ Darcy , whose pride , she was convinced , would receive a deeper wound from 
+ the want of importance in his friend 's connections , than from their want 
+ of sense ; and she was quite decided at last , that he had been partly 
+ governed by this worst kind of pride , and partly by the wish of 
+ retaining Mr . Bingley for his sister . <end>   439.2601930316255
+<start> <start> " But now that my dear uncle is come , I hope 
+ every thing will be well . " 
+ 
+ " Is my father in town ? " 
+ 
+ " Yes , he went on Tuesday as I wrote you word . " 
+ 
+ " And have you heard from him often ? " 
+ 
+ " We have heard only once . <end>   142.07076956489382
+<start> <start> <NUM> . <end>   8.535568287506464
+<start> <start> Since her 
+ father 's death , her home has been London , where a lady lives with her , 
+ and superintends her education . " 
+ 
+ After many pauses and many trials of other subjects , Elizabeth could not 
+ help reverting once more to the first , and saying , 
+ 
+ " I am astonished at his intimacy with Mr . Bingley ! <end>   226.2215722495571
+<start> <start> This letter is from Mr . Collins . " 
+ 
+ " From Mr . Collins ! <end>   61.183480039933784
+<start> <start> Bennet instantly answered , 
+ 
+ " Oh dear ! - - Yes - - certainly . - - I am sure Lizzy will be very happy - - I am 
+ sure she can have no objection . - - Come , Kitty , I want you up stairs . " And 
+ gathering her work together , she was hastening away , when Elizabeth 
+ called out , 
+ 
+ " Dear Ma 'am , do not go . - - I beg you will not go . - - Mr . Collins must excuse 
+ me . - - He can have nothing to say to me that any body need not hear . <end>   196.52937549377097
+<start> <start> Pride relates more to our opinion of 
+ ourselves , vanity to what we would have others think of us . " 
+ 
+ " If I were as rich as Mr . Darcy , " cried a young Lucas who came with his 
+ sisters , " I should not care how proud I was . <end>   251.9229935289621
+<start> <start> She anticipated what would be felt in 
+ the family when her situation became known ; she was aware that no one 
+ liked him but Jane ; and even feared that with the others it was a 
+ _dislike_ which not all his fortune and consequence might do away . <end>   763.4856638834792
+<start> <start> Mrs . <end>   3.8458585008904347
+<start> <start> the ladies had crowded round the table , 
+ where Miss Bennet was making tea , and Elizabeth pouring out the coffee , 
+ in so close a confederacy , that there was not a single vacancy near her , 
+ which would admit of a chair . <end>   704.5381127850264
+<start> <start> He readily agreed to it . <end>   99.70070903885042
+<start> <start> He was well , but so much 
+ engaged with Mr . Darcy , that they scarcely ever saw him . <end>   134.20399610144906
+<start> <start> The reason of this sudden 
+ removal was soon evident . <end>   481.60601513103137
+<start> <start> Bennet , " to walk 
+ to Oakham Mount this morning . <end>   181.56235110510713
+<start> <start> In the intervals of her discourse with 
+ Mrs . <end>   288.67032120299484
+<start> <start> With a 
+ book he was regardless of time ; and on the present occasion he had a 
+ good deal of curiosity as to the event of an evening which had raised 
+ such splendid expectations . <end>   646.6302992476601
+<start> <start> why did she come ? <end>   906.2270905256847
+<start> <start> I am sorry for her , because , with her disposition , she may not get 
+ over it immediately . <end>   264.2448405067311
+<start> <start> your father of course may spare you , if your mother can . - - Daughters 
+ are never of so much consequence to a father . <end>   1395.36269700943
+<start> <start> Recovering himself , however , shortly , 
+ he turned to his partner , and said , 
+ 
+ " Sir William 's interruption has made me forget what we were talking of . " 
+ 
+ " I do not think we were speaking at all . <end>   123.36276224591957
+<start> <start> We 
+ dressed up Chamberlayne in woman 's clothes , on purpose to pass for a 
+ lady , - - only think what fun ! <end>   695.5946511673038
+<start> <start> Elizabeth 's collected behaviour , however , soon quieted his emotion ; and 
+ as Miss Bingley , vexed and disappointed , dared not approach nearer to 
+ Wickham , Georgiana also recovered in time , though not enough to be able 
+ to speak any more . <end>   537.2918190626734
+<start> <start> He is rich , to be 
+ sure , and you may have more fine clothes and fine carriages than Jane . <end>   222.33625250086877
+<start> <start> You are all to come to Pemberley at Christmas . <end>   273.5285261960338
+<start> <start> " My dearest child , " she cried , " I can think of nothing else ! <end>   63.37974059319087
+<start> <start> " Well girls , " said she , as soon as they were left to themselves , " What 
+ say you to the day ? <end>   141.28077173715417
+<start> <start> Resignation to 
+ inevitable evils is the duty of us all ; the peculiar duty of a young man 
+ who has been so fortunate as I have been in early preferment ; and I 
+ trust I am resigned . <end>   301.12801695447075
+<start> <start> You may copy it , give it away or 
+ re - use it under the terms of the Project Gutenberg License included 
+ with this eBook or online at www . gutenberg . org 
+ 
+ <NUM> . E . <NUM> . <end>   3.2242951984175714
+<start> <start> You must learn some 
+ of my philosophy . <end>   298.3970359723856
+<start> <start> All was acknowledged , 
+ and half the night spent in conversation . <end>   250.42104616428307
+<start> <start> Mr . Darcy 's letter , she was in a fair way of soon knowing by heart . <end>   89.52617519812043
+<start> <start> " What will be his surprise , " thought 
+ she , " when he knows who they are ! <end>   668.2085186809256
+<start> <start> You thought me then devoid of every proper 
+ feeling , I am sure you did . <end>   470.3280920427151
+<start> <start> my dear , " said Maria quite shocked at the mistake , " it is not Lady 
+ Catherine . <end>   146.95943855376632
+<start> <start> They were of course all intending to be surprised ; but their 
+ astonishment was beyond their expectation ; and on the part of Mrs . <end>   138.3348713346333
+<start> <start> For your 
+ sake , " turning to Charlotte , " I am glad of it ; but otherwise I see no 
+ occasion for entailing estates from the female line . - - It was not thought 
+ necessary in Sir Lewis de Bourgh 's family . - - Do you play and sing , Miss 
+ Bennet ? " 
+ 
+ " A little . " 
+ 
+ " Oh ! <end>   144.052911598009
+<start> <start> Now and then , they were honoured with a call from her Ladyship , 
+ and nothing escaped her observation that was passing in the room during 
+ these visits . <end>   592.1674362133089
+<start> <start> It was not without an effort meanwhile that she could wait even for 
+ Longbourn , before she told her sister of Mr . Darcy 's proposals . <end>   399.07522160521427
+<start> <start> Her performance on the piano - forte is 
+ exquisite . " 
+ 
+ " It is amazing to me , " said Bingley , " how young ladies can have patience 
+ to be so very accomplished , as they all are . " 
+ 
+ " All young ladies accomplished ! <end>   211.87951039246605
+<start> <start> Is not it so , Mrs . <end>   141.13869740002977
+<start> <start> Lydia 's voice was heard in the vestibule ; the door was thrown open , and 
+ she ran into the room . <end>   209.19815537660529
+<start> <start> Her own thoughts were employing her . <end>   722.4099938579935
+<start> <start> Promise me , therefore , to 
+ come to Hunsford . " 
+ 
+ Elizabeth could not refuse , though she foresaw little pleasure in the 
+ visit . <end>   77.76636645215743
+<start> <start> But every line proved more clearly that the affair , which she had 
+ believed it impossible that any contrivance could so represent , as to 
+ render Mr . Darcy 's conduct in it less than infamous , was capable of a 
+ turn which must make him entirely blameless throughout the whole . <end>   560.3730910216163
+<start> <start> She had even condescended to advise him to 
+ marry as soon as he could , provided he chose with discretion ; and had 
+ once paid him a visit in his humble parsonage ; where she had perfectly 
+ approved all the alterations he had been making , and had even vouchsafed 
+ to suggest some herself , - - some shelves in the closets up stairs . <end>   621.0151379712247
+<start> <start> " My aunt , " she continued , " is going to - morrow into that part of the 
+ town , and I shall take the opportunity of calling in Grosvenor - street . " 
+ 
+ She wrote again when the visit was paid , and she had seen Miss Bingley . <end>   169.00500918307583
+<start> <start> She could not help frequently 
+ glancing her eye at Mr . Darcy , though every glance convinced her of what 
+ she dreaded ; for though he was not always looking at her mother , she was 
+ convinced that his attention was invariably fixed by her . <end>   259.13515043187226
+<start> <start> Vanity and pride are different 
+ things , though the words are often used synonimously . <end>   3079.4875295167667
+<start> <start> " You begin to comprehend me , do you ? " cried he , turning towards her . <end>   143.3937865273732
+<start> <start> I do not know of any 
+ other designs that he had formed : but he was in such a hurry to be gone , 
+ and his spirits so greatly discomposed , that I had difficulty in finding 
+ out even so much as this . " 
+ 
+ 
+ 
+ 
+ CHAPTER VI . 
+ 
+ 
+ The whole party were in hopes of a letter from Mr . Bennet the next 
+ morning , but the post came in without bringing a single line from him . <end>   160.45781645013102
+<start> <start> " I am going 
+ to open the instrument , Eliza , and you know what follows . " 
+ 
+ " You are a very strange creature by way of a friend ! - - always wanting me 
+ to play and sing before any body and every body ! - - If my vanity had taken 
+ a musical turn , you would have been invaluable , but as it is , I would 
+ really rather not sit down before those who must be in the habit of 
+ hearing the very best performers . " On Miss Lucas 's persevering , however , 
+ she added , " Very well ; if it must be so , it must . " And gravely glancing 
+ at Mr . Darcy , " There is a fine old saying , which every body here is of 
+ course familiar with - - 'Keep your breath to cool your porridge ,' - - and I 
+ shall keep mine to swell my song . " 
+ 
+ Her performance was pleasing , though by no means capital . <end>   413.90356113819354
+<start> <start> You see how continually we are engaged there . <end>   698.7985468583565
+<start> <start> Philips , was an amiable , intelligent , elegant 
+ woman , and a great favourite with all her Longbourn nieces . <end>   627.0874300055084
+<start> <start> Mrs . <end>   3.8458585008904347
+<start> <start> It drew from her , 
+ however , the exertion of speaking , which nothing else had so effectually 
+ done before ; and she asked Bingley , whether he meant to make any stay in 
+ the country at present . <end>   375.5968362740413
+<start> <start> It is very often nothing but 
+ our own vanity that deceives us . <end>   414.1175485463921
+<start> <start> As they walked home , Elizabeth related to Jane what she had seen pass 
+ between the two gentlemen ; but though Jane would have defended either or 
+ both , had they appeared to be wrong , she could no more explain such 
+ behaviour than her sister . <end>   465.1127965087655
+<start> <start> I could hardly help laughing aloud sometimes . <end>   291.86186829235805
+<start> <start> To Rosings he then 
+ hastened to console Lady Catherine , and her daughter ; and on his return , 
+ brought back , with great satisfaction , a message from her Ladyship , 
+ importing that she felt herself so dull as to make her very desirous of 
+ having them all to dine with her . <end>   545.0138434957727
+<start> <start> Come be quick , be quick ! <end>   3560.2539015461457
+<start> <start> But she had never felt so 
+ strongly as now , the disadvantages which must attend the children of so 
+ unsuitable a marriage , nor ever been so fully aware of the evils 
+ arising from so ill - judged a direction of talents ; talents which rightly 
+ used , might at least have preserved the respectability of his daughters , 
+ even if incapable of enlarging the mind of his wife . <end>   904.0923687133699
+<start> <start> such an openness and gentleness in his manner . " 
+ 
+ " There certainly was some great mismanagement in the education of those 
+ two young men . <end>   442.7351145379684
+<start> <start> Mrs . <end>   3.8458585008904347
+<start> <start> thoughtless , thoughtless Lydia ! " cried Elizabeth when she had 
+ finished it . <end>   69.661844973865
+<start> <start> There 
+ is nothing he would not do for her . " 
+ 
+ The picture gallery , and two or three of the principal bed - rooms , were 
+ all that remained to be shewn . <end>   107.58035968984275
+<start> <start> At present I will 
+ say nothing about it . " 
+ 
+ " You are quite right . <end>   15.262122752216865
+<start> <start> She enquired after his sister , but could do no more . <end>   293.77563399788403
+<start> <start> He 
+ comes down on Thursday at the latest , very likely on Wednesday . <end>   969.4357450207402
+<start> <start> The same anxiety to get them by themselves , was visible again in the 
+ evening . <end>   296.24478635046324
+<start> <start> But I am particularly 
+ attached to these young men ; and know them to be so much attached to 
+ me ! - - They were excessively sorry to go ! <end>   452.37813479775394
+<start> <start> For , though your 
+ accusations were ill - founded , formed on mistaken premises , my behaviour 
+ to you at the time , had merited the severest reproof . <end>   869.0269291781835
+<start> <start> The extravagance and general profligacy which he scrupled not to lay to 
+ Mr . Wickham 's charge , exceedingly shocked her ; the more so , as she could 
+ bring no proof of its injustice . <end>   791.6505440759184
+<start> <start> To 
+ this discovery succeeded some others equally mortifying . <end>   2315.5782621653675
+<start> <start> He begged to know farther particulars of what he 
+ was indebted to his brother ; but was too angry with Lydia , to send any 
+ message to her . <end>   683.9298919870781
+<start> <start> Oh ! <end>   7.296773763321134
+<start> <start> Not that 
+ I care about it , though . <end>   213.88952637363383
+<start> <start> This is not 
+ the sort of happiness which a man would in general wish to owe to his 
+ wife ; but where other powers of entertainment are wanting , the true 
+ philosopher will derive benefit from such as are given . <end>   939.8791834453889
+<start> <start> To 
+ SEND DONATIONS or determine the status of compliance for any 
+ particular state visit www . gutenberg . org / donate 
+ 
+ While we cannot and do not solicit contributions from states where we 
+ have not met the solicitation requirements , we know of no prohibition 
+ against accepting unsolicited donations from donors in such states who 
+ approach us with offers to donate . <end>   846.3134286872099
+<start> <start> Thank Heaven ! <end>   552.5401991676875
+<start> <start> To my fancy , it is only because he does not rattle 
+ away like other young men . " 
+ 
+ " In what an amiable light does this place him ! " thought Elizabeth . <end>   314.20012631296237
+<start> <start> What sister would think 
+ herself at liberty to do it , unless there were something very 
+ objectionable ? <end>   1283.4237258027879
+<start> <start> Her resistance had not 
+ injured her with the gentleman , and he was thinking of her with some 
+ complacency , when thus accosted by Miss Bingley , 
+ 
+ " I can guess the subject of your reverie . " 
+ 
+ " I should imagine not . " 
+ 
+ " You are considering how insupportable it would be to pass many evenings 
+ in this manner - - in such society ; and indeed I am quite of your opinion . <end>   269.7417569325652
+<start> <start> Mrs . <end>   3.8458585008904347
+<start> <start> His countenance , voice , and manner , had 
+ established him at once in the possession of every virtue . <end>   905.4598420413156
+<start> <start> It would be dreadful ! <end>   240.44104756042233
+<start> <start> I know of nobody that is coming I am sure , 
+ unless Charlotte Lucas should happen to call in , and I hope _my_ dinners 
+ are good enough for her . <end>   315.6277700183929
+<start> <start> CHAPTER VII . 
+ 
+ 
+ Mr . Bennet 's property consisted almost entirely in an estate of two 
+ thousand a year , which , unfortunately for his daughters , was entailed in 
+ default of heirs male , on a distant relation ; and their mother 's 
+ fortune , though ample for her situation in life , could but ill supply 
+ the deficiency of his . <end>   349.0356314741372
+<start> <start> CHAPTER XV . 
+ 
+ 
+ On Saturday morning Elizabeth and Mr . Collins met for breakfast a few 
+ minutes before the others appeared ; and he took the opportunity of 
+ paying the parting civilities which he deemed indispensably necessary . <end>   334.73602925572226
+<start> <start> It is natural that obligation should be 
+ felt , and if I could _feel_ gratitude , I would now thank you . <end>   313.8604280723024
+<start> <start> Her keenest attention was awakened ; she longed to hear more , 
+ and was grateful to her uncle for saying , 
+ 
+ " There are very few people of whom so much can be said . <end>   396.4298388009805
+<start> <start> " My dear , dear Lizzy , I would - - I do congratulate you - - but are you 
+ certain ? <end>   106.97394232890927
+<start> <start> " Lizzy , you must not do so . <end>   18.813567978375062
+<start> <start> Mrs . <end>   3.8458585008904347
+<start> <start> It was , moreover , such a promising thing for her younger 
+ daughters , as Jane 's marrying so greatly must throw them in the way of 
+ other rich men ; and lastly , it was so pleasant at her time of life to be 
+ able to consign her single daughters to the care of their sister , that 
+ she might not be obliged to go into company more than she liked . <end>   295.95574468426065
+<start> <start> It 
+ was all pride and insolence . <end>   278.79745442946984
+<start> <start> Both changed colour , 
+ one looked white , the other red . <end>   3123.7552730060856
+<start> <start> U . S . laws alone swamp our small staff . <end>   807.3565532933817
+<start> <start> You must allow me to tell you how ardently I admire and love 
+ you . " 
+ 
+ Elizabeth 's astonishment was beyond expression . <end>   103.3706630313581
+<start> <start> Mr . Darcy handed the ladies 
+ into the carriage , and when it drove off , Elizabeth saw him walking 
+ slowly towards the house . <end>   213.315930541726
+<start> <start> Forster , and Kitty and me , except my aunt , for we were forced to borrow 
+ one of her gowns ; and you cannot imagine how well he looked ! <end>   809.207111649702
+<start> <start> Hill , in great astonishment , " don 't you know 
+ there is an express come for master from Mr . Gardiner ? <end>   1075.563827865313
+<start> <start> Her astonishment , however , was 
+ extreme ; and continually was she repeating , " Why is he so altered ? <end>   613.4861960174613
+<start> <start> Had she found Jane in any apparent danger , Mrs . <end>   374.90832478860807
+<start> <start> There - - I have saved you the trouble of accounting for it ; 
+ and really , all things considered , I begin to think it perfectly 
+ reasonable . <end>   309.2654538301755
+<start> <start> The united efforts of his two unfeeling sisters 
+ and of his overpowering friend , assisted by the attractions of Miss 
+ Darcy and the amusements of London , might be too much , she feared , for 
+ the strength of his attachment . <end>   424.7360939422152
+<start> <start> At first there 
+ seemed danger of Lydia 's engrossing him entirely , for she was a most 
+ determined talker ; but being likewise extremely fond of lottery tickets , 
+ she soon grew too much interested in the game , too eager in making bets 
+ and exclaiming after prizes , to have attention for any one in 
+ particular . <end>   441.9157581264485
+<start> <start> Her father , contented with laughing at 
+ them , would never exert himself to restrain the wild giddiness of his 
+ youngest daughters ; and her mother , with manners so far from right 
+ herself , was entirely insensible of the evil . <end>   801.3120607272073
+<start> <start> " You look pale . <end>   286.4761104667105
+<start> <start> They met again on Sunday , and 
+ then _I_ saw him too . <end>   658.5249481344764
+<start> <start> Forster , and the probability of her being yet more 
+ imprudent with such a companion at Brighton , where the temptations must 
+ be greater than at home . <end>   302.6941547469176
+<start> <start> They seemed each of them to have the happiest memories in the 
+ world . <end>   164.11871468812336
+<start> <start> Mr . Collins , awkward and solemn , 
+ apologising instead of attending , and often moving wrong without being 
+ aware of it , gave her all the shame and misery which a disagreeable 
+ partner for a couple of dances can give . <end>   539.9992179930914
+<start> <start> Her thoughts were all fixed on that 
+ one spot of Pemberley House , whichever it might be , where Mr . Darcy then 
+ was . <end>   233.6446355320135
+<start> <start> I 
+ shall now know how to act . <end>   436.78994376976
+<start> <start> Lizzy , why am I thus singled from my family , and blessed 
+ above them all ! <end>   617.466963209033
+<start> <start> I hope we 
+ may often meet again . " 
+ 
+ Elizabeth smiled . <end>   100.44566597255235
+<start> <start> " Come , Darcy , " said he , " I must have you dance . <end>   63.690167492120345
+<start> <start> Not a word passed 
+ between the sisters concerning Bingley ; but Elizabeth went to bed in 
+ the happy belief that all must speedily be concluded , unless Mr . Darcy 
+ returned within the stated time . <end>   689.3150806809689
+<start> <start> Other schemes too came into her head . <end>   529.7490533098436
+<start> <start> My faults , according to this 
+ calculation , are heavy indeed ! <end>   465.9099525553193
+<start> <start> They are not married , 
+ nor can I find there was any intention of being so ; but if you are 
+ willing to perform the engagements which I have ventured to make on 
+ your side , I hope it will not be long before they are . <end>   279.87225803573466
+<start> <start> But it is all , all too late now . " 
+ 
+ " I am grieved , indeed , " cried Darcy ; " grieved - - shocked . <end>   124.5504955158595
+<start> <start> CHAPTER V . 
+ 
+ 
+ " I have been thinking it over again , Elizabeth , " said her uncle , as they 
+ drove from the town ; " and really , upon serious consideration , I am much 
+ more inclined than I was to judge as your eldest sister does of the 
+ matter . <end>   161.0338501317505
+<start> <start> Bennet . <end>   10.318399796512947
+<start> <start> " Not yet , " replied Jane . <end>   140.45784816006596
+<start> <start> Bennet had seen her eldest daughter much admired by the Netherfield 
+ party . <end>   239.2304864201966
+<start> <start> She retreated from the window , fearful of being seen ; and as she walked 
+ up and down the room , endeavouring to compose herself , saw such looks 
+ of enquiring surprise in her uncle and aunt , as made every thing worse . <end>   301.83220733509745
+<start> <start> The housekeeper came forward , and told them it was the picture of a 
+ young gentleman , the son of her late master 's steward , who had been 
+ brought up by him at his own expence . - - " He is now gone into the army , " 
+ she added , " but I am afraid he has turned out very wild . " 
+ 
+ Mrs . <end>   166.03555949285604
+<start> <start> I speak 
+ feelingly . <end>   939.0009164884767
+<start> <start> It 
+ was spoken of again while they were at dinner , when Mr . Collins joining 
+ in , observed , 
+ 
+ " Yes , Miss Elizabeth , you will have the honour of seeing Lady Catherine 
+ de Bourgh on the ensuing Sunday at church , and I need not say you will 
+ be delighted with her . <end>   156.92306344923847
+<start> <start> Society , I own , is necessary to me . <end>   417.2633780784971
+<start> <start> And this consideration leads me moreover to 
+ reflect with augmented satisfaction on a certain event of last 
+ November , for had it been otherwise , I must have been involved in 
+ all your sorrow and disgrace . <end>   1188.843792946208
+<start> <start> I was very 
+ uncomfortable , I may say unhappy . <end>   119.38021179055833
+<start> <start> CHAPTER X . 
+ 
+ 
+ More than once did Elizabeth in her ramble within the Park , unexpectedly 
+ meet Mr . Darcy . - - She felt all the perverseness of the mischance that 
+ should bring him where no one else was brought ; and to prevent its ever 
+ happening again , took care to inform him at first , that it was a 
+ favourite haunt of hers . - - How it could occur a second time therefore was 
+ very odd ! - - Yet it did , and even a third . <end>   512.4164972345815
+<start> <start> I have not _that_ pain . <end>   79.73175770858082
+<start> <start> Bennet had no more to say ; and Lady Lucas , who 
+ had been long yawning at the repetition of delights which she saw no 
+ likelihood of sharing , was left to the comforts of cold ham and chicken . <end>   456.2886260088503
+<start> <start> Well , I was so frightened I did not 
+ know what to do , for my uncle was to give me away ; and if we were beyond 
+ the hour , we could not be married all day . <end>   251.4884576901762
+<start> <start> They descended the hill , crossed the bridge , and drove to the door ; and , 
+ while examining the nearer aspect of the house , all her apprehensions of 
+ meeting its owner returned . <end>   603.3249913389166
+<start> <start> Never in her life had she seen his manners so little dignified , 
+ never had he spoken with such gentleness as on this unexpected meeting . <end>   1854.8382180411552
+<start> <start> You had better return to your partner and enjoy her 
+ smiles , for you are wasting your time with me . " 
+ 
+ Mr . Bingley followed his advice . <end>   347.3526592870639
+<start> <start> But our visitor 
+ was very obstinate . <end>   1746.324286501505
+<start> <start> It is a nice long walk , and Mr . Darcy has 
+ never seen the view . " 
+ 
+ " It may do very well for the others , " replied Mr . Bingley ; " but I am 
+ sure it will be too much for Kitty . <end>   92.90313188874111
+<start> <start> He was then , he said , on his way to Longbourn on 
+ purpose to inquire after her . <end>   301.1277480248392
+<start> <start> I wish you had been there , my 
+ dear , to have given him one of your set downs . <end>   305.4957470904686
+<start> <start> One cannot wonder that so 
+ very fine a young man , with family , fortune , every thing in his favour , 
+ should think highly of himself . <end>   395.5340870708737
+<start> <start> Bennet and Kitty walked off , and as 
+ soon as they were gone Mr . Collins began . <end>   64.98650659191952
+<start> <start> His anxiety for Jane was evident , and his 
+ attentions to herself most pleasing , and they prevented her feeling 
+ herself so much an intruder as she believed she was considered by the 
+ others . <end>   908.0745801498933
+<start> <start> Gardiner was surprised and concerned ; but as they were now 
+ approaching the scene of her former pleasures , every idea gave way to 
+ the charm of recollection ; and she was too much engaged in pointing out 
+ to her husband all the interesting spots in its environs , to think of 
+ any thing else . <end>   423.6565901189561
+<start> <start> Mr . Collins returned most punctually on the Monday fortnight , but his 
+ reception at Longbourn was not quite so gracious as it had been on his 
+ first introduction . <end>   325.46126401596223
+<start> <start> Hurst and Miss Bingley ; and Elizabeth was convinced that they held her 
+ in contempt for it . <end>   84.64707184501663
+<start> <start> CHAPTER XIX . 
+ 
+ 
+ Had Elizabeth 's opinion been all drawn from her own family , she could 
+ not have formed a very pleasing picture of conjugal felicity or domestic 
+ comfort . <end>   369.3144458154115
+<start> <start> Mr . Darcy had been at her 
+ sister 's wedding . <end>   21.186436345020184
+<start> <start> A carat character is used to denote superscription . <end>   2287.3731441219365
+<start> <start> But pride - - where there is a real 
+ superiority of mind , pride will be always under good regulation . " 
+ 
+ Elizabeth turned away to hide a smile . <end>   581.97112023647
+<start> <start> Mrs . <end>   3.8458585008904347
+<start> <start> Mr . Darcy was eyeing him with unrestrained 
+ wonder , and when at last Mr . Collins allowed him time to speak , replied 
+ with an air of distant civility . <end>   201.12074832236905
+<start> <start> He even looked at her with a smile of affected incredulity . <end>   230.74443007595795
+<start> <start> Thank Heaven ! <end>   552.5401991676875
+<start> <start> what felicity ! <end>   2061.3711913986735
+<start> <start> She followed her father to the fire place , and they both sat down . <end>   396.818043693439
+<start> <start> His brother - in - law , Mr . Hurst , merely 
+ looked the gentleman ; but his friend Mr . Darcy soon drew the attention 
+ of the room by his fine , tall person , handsome features , noble mien ; and 
+ the report which was in general circulation within five minutes after 
+ his entrance , of his having ten thousand a year . <end>   481.03859625207343
+<start> <start> In short , 
+ I will do my best . " 
+ 
+ " Perhaps it will be as well , if you discourage his coming here so very 
+ often . <end>   294.9133107444112
+<start> <start> Whether he had felt more of pain or of pleasure in seeing 
+ her , she could not tell , but he certainly had not seen her with 
+ composure . <end>   444.58178817470866
+<start> <start> My object 
+ has been to secure an amiable companion for myself , with due 
+ consideration for the advantage of all your family , and if my _manner_ 
+ has been at all reprehensible , I here beg leave to apologise . " 
+ 
+ 
+ 
+ 
+ CHAPTER XXI . 
+ 
+ 
+ The discussion of Mr . Collins 's offer was now nearly at an end , and 
+ Elizabeth had only to suffer from the uncomfortable feelings necessarily 
+ attending it , and occasionally from some peevish allusion of her mother . <end>   366.22725415388055
+<start> <start> He addressed 
+ himself directly to Miss Bennet , with a polite congratulation ; Mr . Hurst 
+ also made her a slight bow , and said he was " very glad ; " but diffuseness 
+ and warmth remained for Bingley 's salutation . <end>   564.2350580999753
+<start> <start> You are safe from me . " 
+ 
+ " There is , I believe , in every disposition a tendency to some particular 
+ evil , a natural defect , which not even the best education can overcome . " 
+ 
+ " And _your_ defect is a propensity to hate every body . " 
+ 
+ " And yours , " he replied with a smile , " is wilfully to misunderstand 
+ them . " 
+ 
+ " Do let us have a little music , " - - cried Miss Bingley , tired of a 
+ conversation in which she had no share . - - " Louisa , you will not mind my 
+ waking Mr . Hurst . " 
+ 
+ Her sister made not the smallest objection , and the piano - forte was 
+ opened , and Darcy , after a few moments recollection , was not sorry for 
+ it . <end>   183.68349513140228
+<start> <start> This observation would not have prevented her 
+ from trying to talk to the latter , had they not been seated at an 
+ inconvenient distance ; but she was not sorry to be spared the necessity 
+ of saying much . <end>   691.6634996050509
+<start> <start> I am quite well . <end>   16.363870338141737
+<start> <start> Mr . Bingley was 
+ unaffectedly civil in his answer , and forced his younger sister to be 
+ civil also , and say what the occasion required . <end>   454.6653810927854
+<start> <start> Their brother , indeed , was the only one of the party whom she could 
+ regard with any complacency . <end>   299.6542448812114
+<start> <start> Jane was so admired , nothing could be like it . <end>   687.511405038527
+<start> <start> But I dare not 
+ hope it . <end>   155.9130073766328
+<start> <start> Kitty , run down and order the carriage . <end>   293.26095448217905
+<start> <start> She became jealous of his esteem , when she could no 
+ longer hope to be benefited by it . <end>   150.9517320380827
+<start> <start> To Kitty , however , it does not 
+ seem so wholly unexpected . <end>   138.1371632184916
+<start> <start> If your abhorrence of 
+ _me_ should make _my_ assertions valueless , you cannot be prevented 
+ by the same cause from confiding in my cousin ; and that there may 
+ be the possibility of consulting him , I shall endeavour to find 
+ some opportunity of putting this letter in your hands in the course 
+ of the morning . <end>   683.2748210973036
+<start> <start> She was even 
+ sensible of some pleasure , though mixed with regret , on finding how 
+ steadfastly both she and her uncle had been persuaded that affection and 
+ confidence subsisted between Mr . Darcy and herself . <end>   524.3840988189382
+<start> <start> or under what misrepresentation , can you here impose upon others ? " 
+ 
+ " You take an eager interest in that gentleman 's concerns , " said Darcy in 
+ a less tranquil tone , and with a heightened colour . <end>   505.36383924961416
+<start> <start> In the afternoon Lydia was urgent with the rest of the girls to walk to 
+ Meryton and see how every body went on ; but Elizabeth steadily opposed 
+ the scheme . <end>   467.20074834953044
+<start> <start> Gardiner 's 
+ long letter , but now , having _that_ to communicate which she knew would 
+ be most welcome , she was almost ashamed to find , that her uncle and aunt 
+ had already lost three days of happiness , and immediately wrote as 
+ follows : 
+ 
+ " I would have thanked you before , my dear aunt , as I ought to have 
+ done , for your long , kind , satisfactory , detail of particulars ; but 
+ to say the truth , I was too cross to write . <end>   239.93408757719496
+<start> <start> Elizabeth received 
+ them with all the forbearance of civility ; and at the request of the 
+ gentlemen remained at the instrument till her Ladyship 's carriage was 
+ ready to take them all home . <end>   170.8329819226733
+<start> <start> On Saturday he came again . <end>   651.6543477635037
+<start> <start> " My dear Madam , " he replied , " this invitation is particularly 
+ gratifying , because it is what I have been hoping to receive ; and you 
+ may be very certain that I shall avail myself of it as soon as 
+ possible . " 
+ 
+ They were all astonished ; and Mr . Bennet , who could by no means wish for 
+ so speedy a return , immediately said , 
+ 
+ " But is there not danger of Lady Catherine 's disapprobation here , my 
+ good sir ? - - You had better neglect your relations , than run the risk of 
+ offending your patroness . " 
+ 
+ " My dear sir , " replied Mr . Collins , " I am particularly obliged to you 
+ for this friendly caution , and you may depend upon my not taking so 
+ material a step without her ladyship 's concurrence . " 
+ 
+ " You cannot be too much on your guard . <end>   155.995784568871
+<start> <start> He joined them on their entering the town and attended them to their 
+ aunt 's , where his regret and vexation , and the concern of every body was 
+ well talked over . - - To Elizabeth , however , he voluntarily acknowledged 
+ that the necessity of his absence _had_ been self imposed . <end>   667.0218716814724
+<start> <start> Are not you 
+ curious to hear how it was managed ? " 
+ 
+ " No really , " replied Elizabeth ; " I think there cannot be too little said 
+ on the subject . " 
+ 
+ " La ! <end>   85.77495930558253
+<start> <start> And we all know that Wickham has every charm of 
+ person and address that can captivate a woman . " 
+ 
+ " But you see that Jane , " said her aunt , " does not think so ill of 
+ Wickham , as to believe him capable of the attempt . " 
+ 
+ " Of whom does Jane ever think ill ? <end>   227.85654967281027
+<start> <start> And 
+ when we _do_ return , it shall not be like other travellers , without 
+ being able to give one accurate idea of any thing . <end>   377.9386130140519
+<start> <start> By Elizabeth 's instructions she began to comprehend that a 
+ woman may take liberties with her husband , which a brother will not 
+ always allow in a sister more than ten years younger than himself . <end>   484.02786630240047
+<start> <start> I wish you had been there . <end>   37.43550402516972
+<start> <start> yes - - it would be much better to 
+ wait till Jane was well , and by that time most likely Captain Carter 
+ would be at Meryton again . <end>   370.3925424166736
+<start> <start> They both set off , and the conjectures of the remaining three 
+ continued , though with little satisfaction , till the door was thrown 
+ open , and their visitor entered . <end>   802.0979547419553
+<start> <start> It gives me pain 
+ to speak ill of a Darcy . <end>   209.15034898630034
+<start> <start> But my dear Lydia , I don 't 
+ at all like your going such a way off . <end>   352.4631665483838
+<start> <start> He still loves me , and we are 
+ engaged . " 
+ 
+ Jane looked at her doubtingly . <end>   277.60131606747973
+<start> <start> CHAPTER XIV . 
+ 
+ 
+ One morning , about a week after Bingley 's engagement with Jane had been 
+ formed , as he and the females of the family were sitting together in the 
+ dining - room , their attention was suddenly drawn to the window , by the 
+ sound of a carriage ; and they perceived a chaise and four driving up the 
+ lawn . <end>   225.79150919558882
+<start> <start> It does not often happen 
+ that the interference of friends will persuade a young man of 
+ independent fortune to think no more of a girl , whom he was violently in 
+ love with only a few days before . " 
+ 
+ " But that expression of 'violently in love' is so hackneyed , so 
+ doubtful , so indefinite , that it gives me very little idea . <end>   383.46714230055625
+<start> <start> She liked 
+ him too little to care for his approbation . <end>   330.15565129688645
+<start> <start> He was always to have gone on 
+ Saturday , and to Saturday he still meant to stay . <end>   362.64170333608587
+<start> <start> Redistribution is 
+ subject to the trademark license , especially commercial 
+ redistribution . <end>   3079.4875295167617
+<start> <start> Your 
+ portion is unhappily so small that it will in all likelihood undo the 
+ effects of your loveliness and amiable qualifications . <end>   1506.5115542473552
+<start> <start> He has also _brotherly_ pride , 
+ which with _some_ brotherly affection , makes him a very kind and careful 
+ guardian of his sister ; and you will hear him generally cried up as the 
+ most attentive and best of brothers . " 
+ 
+ " What sort of a girl is Miss Darcy ? " 
+ 
+ He shook his head . - - " I wish I could call her amiable . <end>   250.48426289645585
+<start> <start> Every sentence of 
+ kindness was a fresh source of happiness to Jane . <end>   1097.420762362617
+<start> <start> CHAPTER XIV . 
+ 
+ 
+ The two gentlemen left Rosings the next morning ; and Mr . Collins having 
+ been in waiting near the lodges , to make them his parting obeisance , was 
+ able to bring home the pleasing intelligence , of their appearing in very 
+ good health , and in as tolerable spirits as could be expected , after the 
+ melancholy scene so lately gone through at Rosings . <end>   458.32717347629847
+<start> <start> Gardiner abused her stupidity . <end>   1694.8894734950104
+<start> <start> It is on your account that he has been 
+ so frequently invited this week . <end>   313.94935763361957
+<start> <start> In that 
+ county , there was enough to be seen , to occupy the chief of their three 
+ weeks ; and to Mrs . <end>   273.84074282738266
+<start> <start> Soon after 
+ you left me on Saturday , I was fortunate enough to find out in what 
+ part of London they were . <end>   473.3727766120172
+<start> <start> It must be an amusing study . " 
+ 
+ " Yes ; but intricate characters are the _most_ amusing . <end>   185.93059503515357
+<start> <start> He spoke well , but there were feelings besides 
+ those of the heart to be detailed , and he was not more eloquent on the 
+ subject of tenderness than of pride . <end>   470.031294414818
+<start> <start> Mr . Darcy danced 
+ only once with Mrs . <end>   60.2314309510537
+<start> <start> Donations are accepted in a number of other 
+ ways including checks , online payments and credit card donations . <end>   2100.6825523116704
+<start> <start> Had Elizabeth been at leisure 
+ to be idle , she would have remained certain that all employment was 
+ impossible to one so wretched as herself ; but she had her share of 
+ business as well as her aunt , and amongst the rest there were notes to 
+ be written to all their friends in Lambton , with false excuses for their 
+ sudden departure . <end>   759.0643830583659
+<start> <start> and to see dear Wickham too ! <end>   947.8824717337911
+<start> <start> But I must write no more . <end>   79.80516195551333
+<start> <start> The loo table , however , did not appear . <end>   250.09807166764213
+<start> <start> I think every thing has passed off uncommonly well , 
+ I assure you . <end>   412.34639729835607
+<start> <start> Forgive 
+ me ; and if you persist in indifference , do not make _me_ your 
+ confidante . " 
+ 
+ 
+ 
+ 
+ CHAPTER XIII . 
+ 
+ 
+ A few days after this visit , Mr . Bingley called again , and alone . <end>   170.54813478722346
+<start> <start> The horses 
+ were post ; and neither the carriage , nor the livery of the servant who 
+ preceded it , were familiar to them . <end>   835.2886919928189
+<start> <start> The business was therefore soon settled . <end>   446.4464111764832
+<start> <start> Bennet and her daughters apologised most civilly for Lydia 's 
+ interruption , and promised that it should not occur again , if he would 
+ resume his book ; but Mr . Collins , after assuring them that he bore his 
+ young cousin no ill will , and should never resent her behaviour as any 
+ affront , seated himself at another table with Mr . Bennet , and prepared 
+ for backgammon . <end>   633.0382576437329
+<start> <start> Their other aunt also 
+ visited them frequently , and always , as she said , with the design of 
+ cheering and heartening them up , though as she never came without 
+ reporting some fresh instance of Wickham 's extravagance or irregularity , 
+ she seldom went away without leaving them more dispirited than she found 
+ them . <end>   846.392313272931
+<start> <start> Elizabeth tried to be diverted by them ; but all sense 
+ of pleasure was lost in shame . <end>   863.7980845691147
+<start> <start> All this was acknowledged to Mrs . <end>   316.9271690721667
+<start> <start> Have a little 
+ compassion on my nerves . <end>   334.4524047460761
+<start> <start> " What would she have said ? - - how 
+ would she have behaved ? " were questions with which she amused herself . <end>   887.6750115539667
+<start> <start> You must 
+ give me leave to judge for myself , and pay me the compliment of 
+ believing what I say . <end>   94.90726768449515
+<start> <start> A week elapsed before she could see Elizabeth without 
+ scolding her , a month passed away before she could speak to Sir William 
+ or Lady Lucas without being rude , and many months were gone before she 
+ could at all forgive their daughter . <end>   1273.1096510868126
+<start> <start> You do not 
+ know what he really is ; then pray do not pain me by speaking of him in 
+ such terms . " 
+ 
+ " Lizzy , " said her father , " I have given him my consent . <end>   89.40160082588523
+<start> <start> They 
+ are my old friends . <end>   358.8577310418373
+<start> <start> Mr . Bennet , you are wanted immediately ; we are all in an uproar . <end>   291.5365552400548
+<start> <start> Elizabeth , with a triumphant sensation , looked towards his friend . <end>   193.99462668016096
+<start> <start> She longed to 
+ speak , but could think of nothing to say ; and after a short silence Mrs . <end>   55.16501348899303
+<start> <start> He delighted in 
+ going to Pemberley , especially when he was least expected . <end>   257.31715763258916
+<start> <start> Three daughters married ! <end>   3079.487529516766
+<start> <start> Younge , in whose character we were most unhappily deceived ; and by 
+ her connivance and aid , he so far recommended himself to Georgiana , 
+ whose affectionate heart retained a strong impression of his 
+ kindness to her as a child , that she was persuaded to believe 
+ herself in love , and to consent to an elopement . <end>   674.3616997778054
+<start> <start> She seldom listened to any 
+ body for more than half a minute , and never attended to Mary at all . <end>   160.55762250218265
+<start> <start> They were soon gone again , rising from 
+ their seats with an activity which took their brother by surprise , and 
+ hurrying off as if eager to escape from Mrs . <end>   684.1809736023744
+<start> <start> Come , let me see the list of the pitiful fellows 
+ who have been kept aloof by Lydia 's folly . " 
+ 
+ " Indeed you are mistaken . <end>   436.99545545332205
+<start> <start> I shall be glad to have the 
+ library to myself as soon as may be . " 
+ 
+ Not yet , however , in spite of her disappointment in her husband , did 
+ Mrs . <end>   73.04558259744354
+<start> <start> " Oh ! <end>   4.2396923682408225
+<start> <start> No one but Mrs . <end>   16.703842639565472
+<start> <start> She answered with equal 
+ indifference and brevity , and the other said no more . <end>   273.5762104118014
+<start> <start> He was as generous , she 
+ doubted not , as the most generous of his sex . <end>   442.52143179045504
+<start> <start> Gardiner gave her the 
+ particulars also of Miss Bingley 's visit in Gracechurch - street , and 
+ repeated conversations occurring at different times between Jane and 
+ herself , which proved that the former had , from her heart , given up the 
+ acquaintance . <end>   263.3891141736711
+<start> <start> [ Illustration : Morning Dress . <end>   366.2462635661931
+<start> <start> Reynolds could interest her on no other point . <end>   1194.467965646771
+<start> <start> And since this sad 
+ affair has taken place , it is said , that he left Meryton greatly in 
+ debt ; but I hope this may be false . " 
+ 
+ " Oh , Jane , had we been less secret , had we told what we knew of him , 
+ this could not have happened ! " 
+ 
+ " Perhaps it would have been better ; " replied her sister . <end>   231.68725759995007
+<start> <start> Bingley was every 
+ thing that was charming , except the professed lover of her daughter . <end>   145.2266528869568
+<start> <start> But 
+ I have an aunt , too , who must not be longer neglected . " 
+ 
+ From an unwillingness to confess how much her intimacy with Mr . Darcy 
+ had been over - rated , Elizabeth had never yet answered Mrs . <end>   254.0594771207335
+<start> <start> Mr . Darcy ! - - and so it does I vow . <end>   128.58654697058938
+<start> <start> Bennet was 
+ forced to submit to a separation , which , as her husband by no means 
+ entered into her scheme of their all going to Newcastle , was likely to 
+ continue at least a twelvemonth . <end>   272.60443943686937
+<start> <start> But , on second thoughts , 
+ perhaps Lizzy could tell us , what relations he has now living , better 
+ than any other person . " 
+ 
+ Elizabeth was at no loss to understand from whence this deference for 
+ her authority proceeded ; but it was not in her power to give any 
+ information of so satisfactory a nature , as the compliment deserved . <end>   411.98830975942747
+<start> <start> Without a governess you must 
+ have been neglected . " 
+ 
+ " Compared with some families , I believe we were ; but such of us as 
+ wished to learn , never wanted the means . <end>   494.72967788313053
+<start> <start> Email 
+ contact links and up to date contact information can be found at the 
+ Foundation 's web site and official page at www . gutenberg . org / contact 
+ 
+ For additional contact information : 
+ Dr . Gregory B . Newby 
+ Chief Executive and Director 
+ gbnewby <MENTION> . org 
+ 
+ Section <NUM> . <end>   517.2598638471001
+<start> <start> While these 
+ newly - born notions were passing in their heads , the perturbation of 
+ Elizabeth 's feelings was every moment increasing . <end>   1834.4738830897425
+<start> <start> That he was not a good - tempered man , had been her firmest 
+ opinion . <end>   89.98596885471774
+<start> <start> My sister , I am 
+ sure , will not hear of her removal . " 
+ 
+ " You may depend upon it , Madam , " said Miss Bingley , with cold civility , 
+ " that Miss Bennet shall receive every possible attention while she 
+ remains with us . " 
+ 
+ Mrs . <end>   56.60026111285447
+<start> <start> Bennet at conversation , and by so doing , threw a 
+ languor over the whole party , which was very little relieved by the 
+ long speeches of Mr . Collins , who was complimenting Mr . Bingley and his 
+ sisters on the elegance of their entertainment , and the hospitality and 
+ politeness which had marked their behaviour to their guests . <end>   313.58512141452394
+<start> <start> Elizabeth hoped she had 
+ silenced him ; but he soon afterwards said , 
+ 
+ " I was surprised to see Darcy in town last month . <end>   169.33890745172522
+<start> <start> Elizabeth 
+ smiled at the recollection of all that she had heard of its inhabitants . <end>   168.0173242927892
+<start> <start> " You either chuse this method of passing 
+ the evening because you are in each other 's confidence and have secret 
+ affairs to discuss , or because you are conscious that your figures 
+ appear to the greatest advantage in walking ; - - if the first , I should be 
+ completely in your way ; - - and if the second , I can admire you much better 
+ as I sit by the fire . " 
+ 
+ " Oh ! <end>   667.8109398106642
+<start> <start> To this speech Bingley made no answer ; but his sisters gave it their 
+ hearty assent , and indulged their mirth for some time at the expense of 
+ their dear friend 's vulgar relations . <end>   499.5078526574696
+<start> <start> When the card tables were placed , he had an opportunity of obliging her 
+ in return , by sitting down to whist . <end>   786.628747771847
+<start> <start> Among those who are at all his equals in consequence , he is a 
+ very different man from what he is to the less prosperous . <end>   1000.3319801472095
+<start> <start> Oh ! <end>   7.296773763321134
+<start> <start> The little Gardiners , attracted by the sight of a chaise , were standing 
+ on the steps of the house , as they entered the paddock ; and when the 
+ carriage drove up to the door , the joyful surprise that lighted up their 
+ faces , and displayed itself over their whole bodies , in a variety of 
+ capers and frisks , was the first pleasing earnest of their welcome . <end>   549.3986231827807
+<start> <start> though I 
+ thought it would be very good fun if I was . " 
+ 
+ Her father lifted up his eyes . <end>   156.6105094374586
+<start> <start> I have been a disappointed man , and 
+ my spirits will not bear solitude . <end>   389.7361750946504
+<start> <start> There 
+ could not exist in the world _two_ men , over whom Mr . Darcy could have 
+ such boundless influence . <end>   495.67187887793506
+<start> <start> Mr . Bennet 's emotions were much more tranquil on the occasion , and such 
+ as he did experience he pronounced to be of a most agreeable sort ; for 
+ it gratified him , he said , to discover that Charlotte Lucas , whom he had 
+ been used to think tolerably sensible , was as foolish as his wife , and 
+ more foolish than his daughter ! <end>   302.8312802473568
+<start> <start> My aunt 's intelligence had given me 
+ hope , and I was determined at once to know every thing . " 
+ 
+ " Lady Catherine has been of infinite use , which ought to make her happy , 
+ for she loves to be of use . <end>   297.9734053237223

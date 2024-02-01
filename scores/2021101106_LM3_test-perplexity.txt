@@ -1,0 +1,1765 @@
+Avg Perplexity Score on test corpus : 1367.5287480645657
+<start> <start> Ladies and gentlemen , I am most deeply obliged by your kind 
+ solicitations . <end>   1025.6784412863021
+<start> <start> With sadness . <end>   2495.0555209993854
+<start> <start> What object did Bloom add to this collection of objects ? <end>   1548.1670655834585
+<start> <start> The barrow turned into a side lane . <end>   981.7953032287371
+<start> <start> With slit 
+ ribbons of his shirt whipping the air he hops and hobbles round the 
+ table , with trousers down at heels , chased by Ades of Magdalen with the 
+ tailor s shears . <end>   2629.5587040151995
+<start> <start> Rather upsets a man s day , a funeral does . <end>   1023.9687959255068
+<start> <start> Redbank oysters 
+ will shortly be upon us . <end>   2380.5752205692957
+<start> <start> says John Wyse . <end>   8.387988195328383
+<start> <start> His unremitting intellect is the hornmad Iago 
+ ceaselessly willing that the moor in him shall suffer . <end>   4565.704719065178
+<start> <start> Ventriloquise . <end>   5647.66317287804
+<start> <start> Sad music . <end>   494.4564497900378
+<start> <start> The quoits are loose . <end>   582.404368700158
+<start> <start> Remember Limerick and the 
+ broken treatystone . <end>   2200.847475144681
+<start> <start> Inked characters fast fading on the frayed breaking paper . <end>   2575.0745507399583
+<start> <start> he said . <end>   5.917903722524139
+<start> <start> _ I paid my way . <end>   22.559485289901712
+<start> <start> Like pickled pork . <end>   579.7127048053272
+<start> <start> We have certainly . . . <end>   144.86598127896872
+<start> <start> It was at the royal university dinner . <end>   263.90730268784006
+<start> <start> What lay under exposure on the lower , middle and upper shelves of the 
+ kitchen dresser , opened by Bloom ? <end>   1294.8538887994082
+<start> <start> Their full slow eyes belied the words , the gestures eager and 
+ unoffending , but knew the rancours massed about them and knew their 
+ zeal was vain . <end>   2217.3192908597825
+<start> <start> He had a sudden death , poor fellow , he said . <end>   47.79841470198223
+<start> <start> For every newbegotten thou shalt gather thy homer of ripe wheat . <end>   2252.0330283192698
+<start> <start> An 
+ awful lot of makebelieve went on about that sort of thing involving a 
+ lifelong slur with the usual splash page of gutterpress about the same 
+ old matrimonial tangle alleging misconduct with professional golfer or 
+ the newest stage favourite instead of being honest and aboveboard about 
+ the whole business . <end>   1599.1542215487968
+<start> <start> How s that ? <end>   5.882840087468083
+<start> <start> Nine glorias for 
+ shooting a bishop . <end>   2182.571012204957
+<start> <start> Blew up all her skirts and her boa nearly smothered old 
+ Goodwin . <end>   3644.5999075950613
+<start> <start> You have earned it . <end>   243.66132417282984
+<start> <start> And I heard the voice 
+ of that Egyptian highpriest . <end>   410.5565913239897
+<start> <start> He wants my money and my life , though want must be his master , for some 
+ brutish empire of his . <end>   916.2652495540027
+<start> <start> They will walk on it tonight , coming here in the dark . <end>   430.53005035917147
+<start> <start> I heard you were round , said Blazes Boylan . <end>   214.16127424287492
+<start> <start> Lord knows where they 
+ are gone . <end>   208.3849227038375
+<start> <start> Father Conmee thought of that tyrannous incontinence , needed however 
+ for man s race on earth , and of the ways of God which were not our 
+ ways . <end>   432.282361371244
+<start> <start> Iubilantium te virginum . <end>   8.394466124151718
+<start> <start> All she there told him , ruing 
+ death for friend so young , algate sore unwilling God s rightwiseness to 
+ withsay . <end>   2652.4396153206067
+<start> <start> STEPHEN : _ ( Amiably . ) _ Why not ? <end>   52.18181304051714
+<start> <start> Payment at the rate of one guinea per column . <end>   22.500377243430126
+<start> <start> Anyhow inspection , medical 
+ inspection , of all eatables seemed to him more than ever necessary 
+ which possibly accounted for the vogue of Dr Tibble s Vi - Cocoa on 
+ account of the medical analysis involved . <end>   2452.2237788635066
+<start> <start> Cigary gloves long 
+ John had on his desk the other day . <end>   1140.6466335184261
+<start> <start> The request being complied with he clawed them up with a scrape . <end>   1558.0913035499022
+<start> <start> Terrible affair that 
+ _General Slocum_ explosion . <end>   5699.577883102771
+<start> <start> Though they didn t see eye to eye in everything a certain analogy there 
+ somehow was as if both their minds were travelling , so to speak , in the 
+ one train of thought . <end>   628.462629268853
+<start> <start> You can easily 
+ comply with the terms of this agreement by keeping this work in the 
+ same format with its attached full Project Gutenberg - tm License when 
+ you share it without charge with others . <end>   372.392697239383
+<start> <start> An unsatisfactory equation between an exodus and return in time through 
+ reversible space and an exodus and return in space through irreversible 
+ time . <end>   2818.9155524487787
+<start> <start> The Malahide road was quiet . <end>   729.7422730834884
+<start> <start> He was a rich country gentleman , Stephen said , with a coat of arms and 
+ landed estate at Stratford and a house in Ireland yard , a capitalist 
+ shareholder , a bill promoter , a tithefarmer . <end>   1291.1291343939467
+<start> <start> Play cricket . <end>   5765.14286455735
+<start> <start> Flag of 
+ distress . <end>   5647.663172878039
+<start> <start> BLOOM : _ ( In workman s corduroy overalls , black gansy with red floating 
+ tie and apache cap . ) _ Mankind is incorrigible . <end>   679.4121463136914
+<start> <start> Liliata rutilantium . <end>   106.27947283345024
+<start> <start> Cassandra . <end>   5647.66317287804
+<start> <start> Mercy of God the 
+ sun was in his eyes or he d have left him for dead . <end>   768.9288536244026
+<start> <start> You ought to be ducked in the horsepond , you 
+ rotter ! <end>   642.7925517701044
+<start> <start> _The Hidden Life of Christ_ ( black boards ) . <end>   1077.501687134775
+<start> <start> What ? <end>   7.275240556106635
+<start> <start> Does no harm . <end>   168.09199183276237
+<start> <start> She is more taking then . <end>   398.4945143970929
+<start> <start> I heard that from the head warder that was in 
+ Kilmainham when they hanged Joe Brady , the invincible . <end>   1061.4421541076538
+<start> <start> Not to mention another membrane , Father Cowley added . <end>   289.67395810737474
+<start> <start> The Lord has spoken to Malachi . <end>   783.9084993142328
+<start> <start> And the franklin that had drunken said , 
+ Expecting each moment to be her next . <end>   594.2691577540484
+<start> <start> His shadow lay over the rocks as he bent , ending . <end>   2129.4840462891857
+<start> <start> His gaze turned at once but slowly from J . J . O Molloy s towards 
+ Stephen s face and then bent at once to the ground , seeking . <end>   567.6353164256167
+<start> <start> Come ahome , our Bantam . <end>   3647.06803945707
+<start> <start> Buck Mulligan , his pious eyes upturned , prayed : 
+ 
+ Blessed Margaret Mary Anycock ! <end>   789.6551950226267
+<start> <start> Stephen anyhow lent him 
+ one of them . <end>   86.68101785757888
+<start> <start> A deathsman of the soul Robert Greene called him , Stephen said . <end>   453.1259296516292
+<start> <start> Adhuc . <end>   5647.66317287804
+<start> <start> Frogmore memorial mourning . <end>   1003.448365689375
+<start> <start> Give her your blessing for 
+ me . <end>   226.25106597190697
+<start> <start> No born gentleman , no - one with the most 
+ rudimentary promptings of a gentleman would stoop to such particularly 
+ loathsome conduct . <end>   1518.0340316416332
+<start> <start> Last 
+ look at mirror always before she answers the door . <end>   530.7501530542339
+<start> <start> As if it wasn t 
+ broken already . <end>   247.24548643481066
+<start> <start> Must we accept the view of Empedocles of 
+ Trinacria that the right ovary ( the postmenstrual period , assert 
+ others ) is responsible for the birth of males or are the too long 
+ neglected spermatozoa or nemasperms the differentiating factors or is 
+ it , as most embryologists incline to opine , such as Culpepper , 
+ Spallanzani , Blumenbach , Lusk , Hertwig , Leopold and Valenti , a mixture 
+ of both ? <end>   3250.942287719383
+<start> <start> The paly light of evening falls 
+ upon a face infinitely sad and wistful . <end>   3958.7187734153085
+<start> <start> Goodbye now , naughty darling , I 
+ have such a bad headache . <end>   160.97962738177495
+<start> <start> Cap in hand goes through the land . <end>   1038.0958460598558
+<start> <start> _Un demi 
+ sétier ! _ A jet of coffee steam from the burnished caldron . <end>   3837.3247713301485
+<start> <start> Occult pimander of Hermes 
+ Trismegistos . <end>   5647.663172878043
+<start> <start> Feel my royal weight . <end>   340.4558905824254
+<start> <start> Then wotted 
+ he nought of that other land which is called Believe - on - Me , that is the 
+ land of promise which behoves to the king Delightful and shall be for 
+ ever where there is no death and no birth neither wiving nor mothering 
+ at which all shall come as many as believe on it ? <end>   1677.9023424773868
+<start> <start> Hate people all round you . <end>   724.6876044503817
+<start> <start> STEPHEN : _Nothung ! _ 
+ 
+ _ ( He lifts his ashplant high with both hands and smashes the 
+ chandelier . <end>   210.73765832146236
+<start> <start> He approached a bench and seated himself in 
+ its corner , nursing his hat and newspaper . <end>   1003.2970564355004
+<start> <start> You re right , by God . <end>   50.29745638390833
+<start> <start> Married to the greasy nose ! <end>   2086.639951311272
+<start> <start> _Bonsoir la compagnie_ . <end>   5647.663172878048
+<start> <start> Of what did the duumvirate deliberate during their itinerary ? <end>   756.16355872874
+<start> <start> Martin Cunningham thwarted his speech rudely : 
+ 
+ Reuben J and the son were piking it down the quay next the river on 
+ their way to the Isle of Man boat and the young chiseller suddenly got 
+ loose and over the wall with him into the Liffey . <end>   1004.5575037958689
+<start> <start> SHINDY IN WELLKNOWN RESTAURANT 
+ 
+ 
+ Good day , sir , Stephen answered blushing . <end>   158.40103399191665
+<start> <start> And they beheld Him in 
+ the chariot , clothed upon in the glory of the brightness , having 
+ raiment as of the sun , fair as the moon and terrible that for awe they 
+ durst not look upon Him . <end>   839.5526959906467
+<start> <start> His tongue clacked in 
+ compassion . <end>   1157.5183720470116
+<start> <start> _ ( The crowd disperses slowly , muttering , down the lane . ) _ 
+ 
+ CORNY KELLEHER : Leave it to me , sergeant . <end>   77.52248919986236
+<start> <start> In Ohio ! <end>   240.54468148531197
+<start> <start> Father Bob Cowley played . <end>   886.137867697276
+<start> <start> They call it reincarnation . <end>   1745.38262415578
+<start> <start> Test : turns 
+ blue litmus paper red . <end>   2380.5752205692957
+<start> <start> Defrauding widows and orphans . <end>   5647.663172878039
+<start> <start> You re dreaming . <end>   659.1288105720982
+<start> <start> Corny Kelleher sped a silent jet of hayjuice arching from his mouth 
+ while a generous white arm from a window in Eccles street flung forth a 
+ coin . <end>   1064.6093323947061
+<start> <start> Doing his level best to say it . <end>   79.4472408995163
+<start> <start> Stop ! <end>   18.247602249818677
+<start> <start> No . 
+ 
+ Had Bloom s coin returned ? <end>   494.6391760210855
+<start> <start> My lips closed . <end>   525.7232551426735
+<start> <start> He turned his face over a shoulder , rere regardant . <end>   1371.5492220925114
+<start> <start> Opera he d like ? <end>   1338.3118483590006
+<start> <start> Throw them 
+ the bone . <end>   282.08980953806923
+<start> <start> Still always nice to hear . <end>   417.9446763342965
+<start> <start> Lady Bloom accepts no 
+ presents . <end>   5513.084576149122
+<start> <start> A 
+ stout fox , drawn from covert , brush pointed , having buried his 
+ grandmother , runs swift for the open , brighteyed , seeking badger earth , 
+ under the leaves . <end>   2470.886860089359
+<start> <start> The twins scuttle off in the 
+ dark . <end>   390.88605253481177
+<start> <start> Then round the top 
+ in leaded : the house of keys . <end>   516.2629495792631
+<start> <start> That ll do , Ned . <end>   18.81390891115287
+<start> <start> Not yet . <end>   8.157378269109365
+<start> <start> With mother s money order , eight shillings , the banging 
+ door of the post office slammed in your face by the usher . <end>   1591.5889020459338
+<start> <start> To the 
+ old dingdong again . <end>   404.4387887136059
+<start> <start> To Martha I must write . <end>   1014.6305732163307
+<start> <start> Because she never let them in , Mr Deasy said solemnly . <end>   69.68172099142997
+<start> <start> Begone ! <end>   11256.336782969001
+<start> <start> Where ? <end>   11.008707504223116
+<start> <start> Steak and kidney pie . <end>   1889.3893733131554
+<start> <start> He 
+ moved his head uncertainly . <end>   448.48457362644143
+<start> <start> Give a 
+ bleeding whore a chance . <end>   514.5480100883432
+<start> <start> Keep you sitting by 
+ the tap all night . <end>   150.77831591012242
+<start> <start> Two and three in silver and one and seven in 
+ coppers . <end>   1913.3300502995621
+<start> <start> We have grown out of Wilde and paradoxes . <end>   2109.5786218468897
+<start> <start> Go and lose more . <end>   415.35351355330283
+<start> <start> Your head it simply . <end>   6.185748861999747
+<start> <start> Funny my watch stopped at half past four . <end>   465.43672560119853
+<start> <start> Something with a bite 
+ in it . <end>   365.97805552814333
+<start> <start> If I had land under my feet . <end>   311.1794685215921
+<start> <start> Hot little devil all the same . <end>   356.1180900670779
+<start> <start> Mr Power whispered . <end>   9.745536383033654
+<start> <start> Lenehan , rising to tiptoe , fanned his face rapidly with the rustling 
+ tissues . <end>   1449.9192046014512
+<start> <start> With what antagonistic sentiments were his subsequent reflections 
+ affected ? <end>   2653.3640119173306
+<start> <start> In passivity , in economy , in the instinct of tradition , in 
+ unexpectedness . <end>   125.07454804790744
+<start> <start> Crucifix not thick enough ? <end>   5647.663172878039
+<start> <start> says I . 
+ 
+ Libel action , says he , for ten thousand pounds . <end>   43.52695660821725
+<start> <start> Just loll there : 
+ quiet dusk : let everything rip . <end>   1212.4830928256104
+<start> <start> There he is cursing the mate . <end>   544.4896391626409
+<start> <start> To enter or not to enter . <end>   1334.9482258475753
+<start> <start> Here there try there here all try where . <end>   1828.2795497783004
+<start> <start> Explain you then . <end>   1101.4224073215196
+<start> <start> Drop into the D . B . C . probably for his coffee , play chess 
+ there . <end>   362.702873676667
+<start> <start> Which various features of the constellations were in turn considered ? <end>   4979.247441199775
+<start> <start> Her very soul is in her eyes and she would give 
+ worlds to be in the privacy of her own familiar chamber where , giving 
+ way to tears , she could have a good cry and relieve her pentup feelings 
+ though not too much because she knew how to cry nicely before the 
+ mirror . <end>   879.0322239418241
+<start> <start> <NUM> . D . The copyright laws of the place where you are located also govern 
+ what you can do with this work . <end>   176.21807199923126
+<start> <start> Jack , love ! <end>   5741.453034514968
+<start> <start> The young sparks , it is true , were as full of extravagancies as 
+ overgrown children : the words of their tumultuary discussions were 
+ difficultly understood and not often nice : their testiness and 
+ outrageous _mots_ were such that his intellects resiled from : nor were 
+ they scrupulously sensible of the proprieties though their fund of 
+ strong animal spirits spoke in their behalf . <end>   2815.97257675017
+<start> <start> Terence O Ryan heard him and straightway brought him a crystal cup full 
+ of the foamy ebon ale which the noble twin brothers Bungiveagh and 
+ Bungardilaun brew ever in their divine alevats , cunning as the sons of 
+ deathless Leda . <end>   2951.3702976075087
+<start> <start> Instance he s playing now . <end>   104.4042566592677
+<start> <start> ( He stops , points at 
+ Lynch s cap , smiles , laughs . ) _ Which side is your knowledge bump ? <end>   454.49767778141666
+<start> <start> For a woman who was no 
+ better than she should be , Helen , the runaway wife of Menelaus , ten 
+ years the Greeks made war on Troy . <end>   200.58340547337264
+<start> <start> For me ! <end>   115.10366480702318
+<start> <start> The ends of the 
+ world with a Scotch accent . <end>   23.259203930851193
+<start> <start> Blameless dames with parcels of groceries . <end>   5647.663172878043
+<start> <start> _ ( He hesitates amid scents , music , temptations . <end>   512.7514819632436
+<start> <start> Feathered his nest well anyhow . <end>   1643.945940502924
+<start> <start> Begin all right : then 
+ hear chords a bit off : feel lost a bit . <end>   1501.1267811327118
+<start> <start> Must have put it back on the 
+ peg . <end>   346.43817637829557
+<start> <start> The foot that beat the ground in 
+ tripudium , foot I dislove . <end>   2716.499035302883
+<start> <start> What spectacle confronted them when they , first the host , then the 
+ guest , emerged silently , doubly dark , from obscurity by a passage from 
+ the rere of the house into the penumbra of the garden ? <end>   1429.8807571767948
+<start> <start> I am being made a scapegoat of . <end>   232.52619350439232
+<start> <start> What improvements might be subsequently introduced ? <end>   3115.62521688554
+<start> <start> Suck your blood dry , they does . <end>   2162.6910239027634
+<start> <start> Sees me , does she ? <end>   646.878527730912
+<start> <start> BLOOM : Nes . <end>   435.65598836009417
+<start> <start> My ghost will haunt you after 
+ death . <end>   236.57743444890005
+<start> <start> Grease . <end>   5647.66317287804
+<start> <start> Tattoo , the exhibitor explained . <end>   5647.663172878042
+<start> <start> THE LOITERERS : _ ( Guffaw with cleft palates . ) _ O jays ! <end>   527.7193767800009
+<start> <start> I am a servant of two masters , Stephen said , an English and an 
+ Italian . <end>   452.26960286632726
+<start> <start> Horse looking round at 
+ it with his plume skeowways . <end>   1905.6424998026748
+<start> <start> Might have 
+ lost my life too with that mangongwheeltracktrolleyglarejuggernaut only 
+ for presence of mind . <end>   728.315365541162
+<start> <start> We had a midnight lunch too after 
+ all the jollification and when we sallied forth it was blue o clock the 
+ morning after the night before . <end>   1494.2728535545111
+<start> <start> What did you say that for ? <end>   50.971230237286484
+<start> <start> The priest in that Fermanagh will case in the 
+ witnessbox . <end>   1500.9345442157642
+<start> <start> And with the help of the holy mother of God we will again , says the 
+ citizen , clapping his thigh . <end>   566.1056108992412
+<start> <start> Myles Crawford said . <end>   5.6245747386373175
+<start> <start> Science , it cannot be too often 
+ repeated , deals with tangible phenomena . <end>   6427.326203134968
+<start> <start> STEPHEN : Break my spirit , will he ? <end>   40.31493120205748
+<start> <start> Nearly over . <end>   838.2789156040257
+<start> <start> She stands . <end>   1896.7342720205997
+<start> <start> He s at rest , he said , in the middle of his people , old Dan O . <end>   311.79090806683666
+<start> <start> Bad policy however to fault the 
+ husband . <end>   2076.343882464311
+<start> <start> And time , well that s the time the movement takes . <end>   1199.388422731519
+<start> <start> The difficulties of interpretation since the significance of any event 
+ followed its occurrence as variably as the acoustic report followed the 
+ electrical discharge and of counterestimating against an actual loss by 
+ failure to interpret the total sum of possible losses proceeding 
+ originally from a successful interpretation . <end>   5062.762033491217
+<start> <start> Tout le monde en place ! _ 
+ 
+ _ ( The prelude ceases . <end>   114.35287665689809
+<start> <start> says the citizen . <end>   5.272371085352567
+<start> <start> Print anything now . <end>   1003.448365689375
+<start> <start> At their 
+ lunch now . <end>   600.9605825789502
+<start> <start> Still better tell him . <end>   278.6722144272063
+<start> <start> Denis Florence M Carthy s _Poetical Works_ ( copper beechleaf bookmark 
+ at p . <end>   2101.499677594368
+<start> <start> Queenstown harbour , Stephen replied . <end>   1447.4016356479028
+<start> <start> Really he was . <end>   449.1194357139654
+<start> <start> For a plump of pressmen . <end>   1648.9586403983096
+<start> <start> Experienced hand . <end>   705.5142738696119
+<start> <start> Gordon Bennett . <end>   19.13787566784926
+<start> <start> Is it Zinfandel ? <end>   750.4904579868612
+<start> <start> In all his pristine beauty , Mr Power said . <end>   176.77742467414743
+<start> <start> Lord Howard de 
+ Walden s _Zinfandel_ ( M . Cannon ) <NUM> . <end>   393.79707958380425
+<start> <start> Holy ginger , it s kicking and coughing up and down in 
+ her guts already ! <end>   978.3140593630638
+<start> <start> And they all ran down the strand to see over the houses and the church , 
+ helterskelter , Edy with the pushcar with baby Boardman in it and Cissy 
+ holding Tommy and Jacky by the hand so they wouldn t fall running . <end>   713.4780493489599
+<start> <start> In what state of rest or motion ? <end>   731.2600587730494
+<start> <start> Youth . <end>   11256.336782969001
+<start> <start> [ Illustration ] 
+ 
+ How did the son of Rudolph receive this first part ? <end>   106.3142471442331
+<start> <start> BLOOM : My spine s a bit limp . <end>   773.5211043861149
+<start> <start> By easy stages . <end>   3053.076319408637
+<start> <start> Differently , 
+ because of different possible returns to the inhabitants or to the 
+ habitation . <end>   2240.325646703322
+<start> <start> Under an arch of triumph Bloom appears , bareheaded , in a crimson velvet 
+ mantle trimmed with ermine , bearing Saint Edward s staff , the orb and 
+ sceptre with the dove , the curtana . <end>   2977.7443981258643
+<start> <start> THE MOTHER : _ ( A green rill of bile trickling from a side of her 
+ mouth . ) _ You sang that song to me . <end>   62.59065197987321
+<start> <start> No jerks and multiple mucosities all over you . <end>   885.8374369138893
+<start> <start> It s destroyed we are surely ! <end>   91.07505748016617
+<start> <start> God , Kinch , if you and 
+ I could only work together we might do something for the island . <end>   905.8483794873191
+<start> <start> Slife , I ll be round with you . <end>   359.4671446967291
+<start> <start> But 
+ his heart is buried in Rome . <end>   621.109629686682
+<start> <start> That suits your book , eh ? <end>   133.29793595823088
+<start> <start> Where was that ad some Birmingham firm the 
+ luminous crucifix . <end>   1557.465869166278
+<start> <start> Did he remain ? <end>   145.09369258763684
+<start> <start> Have that in your nose in the dark , whiff of stale boose . <end>   863.4609043930233
+<start> <start> Court dresses of all descriptions in castle 
+ chambers dancing . <end>   2749.24253928304
+<start> <start> Here take your crutch and walk . <end>   1379.0691870084888
+<start> <start> Round and round a moth flies , 
+ colliding , escaping . <end>   518.1063064305321
+<start> <start> Big Ben . <end>   110.1106504862174
+<start> <start> It was the men s temperance retreat 
+ conducted by the missioner , the reverend John Hughes S . J . , rosary , 
+ sermon and benediction of the Most Blessed Sacrament . <end>   388.1742744576682
+<start> <start> And past Nichols the undertaker . <end>   2111.34227053762
+<start> <start> Got the run . <end>   175.27045125133543
+<start> <start> Rags and bones at midnight . <end>   583.3307181472812
+<start> <start> The colours were done something lovely . <end>   942.4469546393833
+<start> <start> Where Pat Kinsella had his Harp theatre before Whitbred ran the 
+ Queen s . <end>   1430.3271310387809
+<start> <start> Doing the indignant : a girl of good family like 
+ me , respectable character . <end>   1236.1707951859398
+<start> <start> CISSY CAFFREY : _ ( To the crowd . ) _ No , I was with the privates . <end>   18.89520632384085
+<start> <start> Our young Irish bards , John Eglinton censured , have yet to create a 
+ figure which the world will set beside Saxon Shakespeare s Hamlet 
+ though I admire him , as old Ben did , on this side idolatry . <end>   3701.4819309895543
+<start> <start> Don t be all 
+ night before the polis in plain clothes sees us . <end>   591.455298886618
+<start> <start> Our . <end>   27.99094586801376
+<start> <start> It s a 
+ secret . <end>   41.808959089521835
+<start> <start> coalminers , divers , scavengers etc . , were very much under the 
+ microscope lately . <end>   1248.8990177707537
+<start> <start> Lo , levin leaping 
+ lightens in eyeblink Ireland s westward welkin . <end>   3440.822652446497
+<start> <start> Pull . <end>   6567.077641892073
+<start> <start> Railed off the altar get on to it at any cost . <end>   3919.465247539721
+<start> <start> _Caramba ! _ Have an eggnog or a prairie oyster . <end>   5647.663172878036
+<start> <start> That s a straw_ . <end>   253.65342864122735
+<start> <start> Couldn t he fly a bit higher than that , eh ? <end>   279.1849367009793
+<start> <start> I said . <end>   21.474997314528462
+<start> <start> Si . 
+ 
+ The sighing voice of sorrow sang . <end>   952.8978172780893
+<start> <start> What inchoate corollary statement was consequently suppressed by the 
+ host ? <end>   2128.638195482666
+<start> <start> She looked . <end>   75.85075772197912
+<start> <start> Press the button and the bird will squeak . <end>   2400.260749203375
+<start> <start> Have to let fly . <end>   756.4418362786045
+<start> <start> Out of her oakframe a nymph with 
+ hair unbound , lightly clad in teabrown artcolours , descends from her 
+ grotto and passing under interlacing yews stands over Bloom . ) _ 
+ 
+ THE YEWS : _ ( Their leaves whispering . ) _ Sister . <end>   641.6722578810187
+<start> <start> The twilight hours 
+ advance from long landshadows , dispersed , lagging , languideyed , their 
+ cheeks delicate with cipria and false faint bloom . <end>   3677.5167039176436
+<start> <start> For such favours knights of old laid down their 
+ lives . <end>   1703.4153278276656
+<start> <start> There s hair , Joe , says I . Get a queer old tailend of corned beef off 
+ of that one , what ? <end>   337.3326484793287
+<start> <start> Ben bulky Dollard said , turning from the 
+ punished keyboard . <end>   374.42796113930876
+<start> <start> More sensible to spend the money on 
+ some charity for the living . <end>   2414.442418512612
+<start> <start> All a kind of attempt to talk . <end>   335.68112551123403
+<start> <start> I beg yours , he said . <end>   100.24712584768018
+<start> <start> He s in with a lowdown crowd , Mr Dedalus snarled . <end>   481.9933843543972
+<start> <start> Beauty of music you 
+ must hear twice . <end>   2416.5311717414443
+<start> <start> Call 
+ that innocence ? <end>   1709.5323933422728
+<start> <start> Why in ? <end>   277.1365708839071
+<start> <start> No . She s lame ! <end>   494.997390769113
+<start> <start> He . Glowworm s la - amp is gleaming , love . <end>   1063.9543860896201
+<start> <start> Occasionally he ate without having previously removed his hat . <end>   705.1152296720774
+<start> <start> CHARLES ALBERTA MARSH : Must be virgin . <end>   2162.6910239027634
+<start> <start> An hour ago I was passing there . <end>   520.632790703569
+<start> <start> Still , I feel . <end>   15.80786626203219
+<start> <start> Thus prevailed on to at any rate taste it Stephen lifted the heavy mug 
+ from the brown puddle it clopped out of when taken up by the handle and 
+ took a sip of the offending beverage . <end>   2596.0246273512575
+<start> <start> You must have seen a fair share of the world , the keeper remarked , 
+ leaning on the counter . <end>   303.9294464828691
+<start> <start> He , B , 
+ enjoyed the distinction of being close to Erin s uncrowned king in the 
+ flesh when the thing occurred on the historic _fracas_ when the fallen 
+ leader s , who notoriously stuck to his guns to the last drop even when 
+ clothed in the mantle of adultery , ( leader s ) trusty henchmen to the 
+ number of ten or a dozen or possibly even more than that penetrated 
+ into the printing works of the _Insuppressible_ or no it was _United 
+ Ireland_ ( a by no means by the by appropriate appellative ) and broke up 
+ the typecases with hammers or something like that all on account of 
+ some scurrilous effusions from the facile pens of the O Brienite 
+ scribes at the usual mudslinging occupation reflecting on the erstwhile 
+ tribune s private morals . <end>   1910.9927184906924
+<start> <start> I know the voice . <end>   222.55801790577974
+<start> <start> My heart ! <end>   714.273839906349
+<start> <start> Rows of cast . <end>   271.72843360617935
+<start> <start> Got her it once . <end>   971.9105912131856
+<start> <start> Bloom picks it up and 
+ throws it in the grate . ) _ 
+ 
+ BLOOM : Don t smoke . <end>   154.41254257846228
+<start> <start> Machree , macruiskeen . <end>   5647.663172878048
+<start> <start> Begob he drew his hand and made a swipe and let fly . <end>   1309.8380117294344
+<start> <start> Why , as he reflected , Irishtown strand , a locality he had not 
+ been in for quite a number of years looked different somehow since , as 
+ it happened , he went to reside on the north side . <end>   1006.471635216296
+<start> <start> They like it 
+ because no - one can hear . <end>   134.03691457090625
+<start> <start> Consort not even a king . <end>   602.2254911858078
+<start> <start> says Joe . <end>   5.362066692607006
+<start> <start> The lefthand dead shot . <end>   518.8633055143043
+<start> <start> See ! <end>   30.423166525607876
+<start> <start> Throstle fluted . <end>   5647.663172878045
+<start> <start> paying for the three . . . <end>   784.188644288455
+<start> <start> An instant after , 
+ under its screen , his eyes looked quickly , ghostbright , at his foe and 
+ fell once more upon a working corner . <end>   2534.1761591152285
+<start> <start> He wants 
+ two keys at the top . <end>   340.7072696164737
+<start> <start> MARTHA : _ ( Sobbing behind her veil . ) _ Breach of promise . <end>   96.56295661076736
+<start> <start> The name too . <end>   32.8830142623619
+<start> <start> Or what 
+ they say . <end>   83.63661679419772
+<start> <start> All to see . <end>   120.13625727694617
+<start> <start> Night . <end>   20.404091598598978
+<start> <start> When you have lived as long as 
+ I have . <end>   123.28059042001938
+<start> <start> Silver threads among the grey . <end>   2209.310719156413
+<start> <start> From the 
+ high barbacans of the tower two shafts of light fall on the smokepalled 
+ altarstone . <end>   1289.95863771421
+<start> <start> Because he had forgotten and because he remembered that he had reminded 
+ himself twice not to forget . <end>   516.9713397315796
+<start> <start> Dislike that job . <end>   256.0792950990933
+<start> <start> They never come back . <end>   102.95405920523599
+<start> <start> I d like 
+ that part . <end>   91.3746129479481
+<start> <start> It throbbed , pure , purer , softly 
+ and softlier , its buzzing prongs . <end>   2916.8378056926854
+<start> <start> Opera ? <end>   5647.66317287804
+<start> <start> THE BAWD : _ ( Spits in their trail her jet of venom . ) _ Trinity medicals . <end>   424.48254323751934
+<start> <start> You were not born to be a teacher , I think . <end>   291.44101074104816
+<start> <start> Creation from nothing and miracles and a 
+ personal God . <end>   90.80822343852667
+<start> <start> Still . . . <end>   136.48433689863134
+<start> <start> Of course it s years ago . <end>   43.89046700355366
+<start> <start> He set off again to walk by Stephen s side . <end>   956.3775817413472
+<start> <start> Josssticks burning . <end>   651.4807543772295
+<start> <start> Substituting Bloom for 
+ Stephen Blephen would have passed successively through the preparatory , 
+ junior , middle and senior grades of the intermediate and through the 
+ matriculation , first arts , second arts and arts degree courses of the 
+ royal university . <end>   2132.115357031093
+<start> <start> _ ( Their paintspeckled hats wag . <end>   781.4482144402206
+<start> <start> He stood up . <end>   7.679806869985089
+<start> <start> _À la vôtre_ ! <end>   5647.663172878048
+<start> <start> Machines . <end>   11256.336782969001
+<start> <start> The editor who , 
+ leaning against the mantelshelf , had propped his head on his hand , 
+ suddenly stretched forth an arm amply . <end>   1581.6121336218957
+<start> <start> In <NUM> when Bloom would be <NUM> and Stephen <NUM> 
+ their ages initially in the ratio of <NUM> to <NUM> would be as <NUM> <NUM> / <NUM> to <NUM> 
+ <NUM> / <NUM> , the proportion increasing and the disparity diminishing according 
+ as arbitrary future years were added , for if the proportion existing in 
+ <NUM> had continued immutable , conceiving that to be possible , till then 
+ <NUM> when Stephen was <NUM> Bloom would be <NUM> and in <NUM> when Stephen 
+ would be <NUM> , as Bloom then was , Bloom would be <NUM> while in <NUM> when 
+ Stephen would have attained the maximum postdiluvian age of <NUM> Bloom , 
+ being <NUM> years alive having been born in the year <NUM> , would have 
+ surpassed by <NUM> years the maximum antediluvian age , that of 
+ Methusalah , <NUM> years , while , if Stephen would continue to live until 
+ he would attain that age in the year <NUM> A . D . , Bloom would have been 
+ obliged to have been alive <NUM> , <NUM> years , having been obliged to have 
+ been born in the year <NUM> , <NUM> B . C . 
+ 
+ What events might nullify these calculations ? <end>   692.8851575712937
+<start> <start> The counterbalance of her 
+ proficiency of judgment regarding one person , proved true by 
+ experiment . <end>   493.5515848224271
+<start> <start> Their butteries and larders . <end>   4056.730258720978
+<start> <start> He walked there , reading in the evening , and heard the 
+ cries of the boys lines at their play , young cries in the quiet 
+ evening . <end>   859.6912697858664
+<start> <start> When she leaned back , felt an ache at the butt of 
+ my tongue . <end>   820.6789583064667
+<start> <start> Mr Bloom asked . <end>   5.521966175751442
+<start> <start> A heavy fume gushed in answer . <end>   267.90424597216895
+<start> <start> We walk through 
+ ourselves , meeting robbers , ghosts , giants , old men , young men , wives , 
+ widows , brothers - in - love , but always meeting ourselves . <end>   3172.8220256175955
+<start> <start> Valise I have a particular fancy for . <end>   1328.5771862383915
+<start> <start> Blimey it 
+ makes me kind of bleeding cry , straight , it does , when I sees her cause 
+ I thinks of my old mashtub what s waiting for me down Limehouse way . <end>   2714.3086311530797
+<start> <start> Got a dinge in the side of his hat . <end>   116.61404320351295
+<start> <start> He came out into clearer air and turned back towards Grafton street . <end>   563.804594527409
+<start> <start> Outside the Dublin 
+ Distillers Company s stores an outside car without fare or jarvey 
+ stood , the reins knotted to the wheel . <end>   2128.3687973004758
+<start> <start> Thousands every hour . <end>   1003.448365689375
+<start> <start> Tis the hour , methinks , when the winejug , 
+ metaphorically speaking , is most grateful in Ye ancient hostelry . <end>   2365.4465027557408
+<start> <start> The bloodboltered shambles in act five is a forecast of the 
+ concentration camp sung by Mr Swinburne . <end>   2990.5544472802712
+<start> <start> Nicely planed . <end>   5647.663172878045
+<start> <start> And says Joe , sticking his thumb in his pocket : 
+ 
+ It s the Russians wish to tyrannise . <end>   481.12661772782286
+<start> <start> Pendennis ? <end>   5647.66317287804
+<start> <start> People were so queer . <end>   4987.875205884262
+<start> <start> Well , of course , if we knew all the 
+ things . <end>   70.4209149012534
+<start> <start> Molly , that 
+ hurdygurdy boy . <end>   279.5315033596877
+<start> <start> I will . <end>   9.473512620926648
+<start> <start> His nostrils arched 
+ themselves for prey . <end>   1380.4167311561853
+<start> <start> If you have none see you damn well get it , steal it , rob it ! <end>   860.7963829440257
+<start> <start> Moo . <end>   5647.66317287804
+<start> <start> Mona , my true love . <end>   206.68005767703897
+<start> <start> The ballad of joking Jesus , Stephen answered . <end>   353.273608925603
+<start> <start> Couldn t sink if you tried : so thick with salt . <end>   1411.7465139424573
+<start> <start> The high railings of Prospect rippled past their gaze . <end>   652.2958207458946
+<start> <start> Ned Lambert sidled down from the table . <end>   76.89148291142067
+<start> <start> Old Betty s joints are on the rack . <end>   380.50401083378455
+<start> <start> They re not European , says the citizen . <end>   44.714808362975106
+<start> <start> See it in your face . <end>   7.436941847897558
+<start> <start> Have you cash for 
+ a short time ? <end>   422.97996666256694
+<start> <start> Now , my miss , he said . <end>   36.428967549297205
+<start> <start> Bingbang , bangbang . <end>   5647.663172878048
+<start> <start> Where was Moses when the candle went out ? <end>   987.3712190844036
+<start> <start> The kisses , winging from their bowers , fly about him , 
+ twittering , warbling , cooing . ) _ 
+ 
+ THE KISSES : _ ( Warbling . ) _ Leo ! <end>   354.07909935687303
+<start> <start> They listened . <end>   228.7888598870899
+<start> <start> I hear great accounts of it . <end>   217.09749135677046
+<start> <start> You have eaten all we left . <end>   12.184215003533462
+<start> <start> More than doctor or solicitor . <end>   4550.809465356818
+<start> <start> Circles of ten so that 
+ a fellow couldn t round on more than his own ring . <end>   1632.7435030772397
+<start> <start> Mr Bloom stood far back , his hat in his hand , counting the bared heads . <end>   166.35048207555025
+<start> <start> The unfair sex . <end>   321.8768868254901
+<start> <start> She took back the card , sighing . <end>   174.9379040759683
+<start> <start> RUDOLPH : _ ( With contempt . ) Goim nachez ! _ Nice spectacles for your poor 
+ mother ! <end>   309.13225556402483
+<start> <start> Kneel down before me . <end>   1347.0085231525898
+<start> <start> I m the Tartar to settle your little lot and break you in ! <end>   1786.2594320040612
+<start> <start> Castoff soldier . <end>   5647.663172878045
+<start> <start> Lady in the case . <end>   262.61662698866064
+<start> <start> After them march the guilds and 
+ trades and trainbands with flying colours : coopers , bird fanciers , 
+ millwrights , newspaper canvassers , law scriveners , masseurs , vintners , 
+ trussmakers , chimneysweeps , lard refiners , tabinet and poplin weavers , 
+ farriers , Italian warehousemen , church decorators , bootjack 
+ manufacturers , undertakers , silk mercers , lapidaries , salesmasters , 
+ corkcutters , assessors of fire losses , dyers and cleaners , export 
+ bottlers , fellmongers , ticketwriters , heraldic seal engravers , horse 
+ repository hands , bullion brokers , cricket and archery outfitters , 
+ riddlemakers , egg and potato factors , hosiers and glovers , plumbing 
+ contractors . <end>   4618.137465338504
+<start> <start> Fancy dress balls arranged . <end>   1583.2468200899445
+<start> <start> CUNTY KATE : The brave and the fair . <end>   442.54675465059023
+<start> <start> Poor idiot ! <end>   358.1427295005913
+<start> <start> He kicked open the crazy door of the jakes . <end>   1453.3765155428107
+<start> <start> Paltry funeral : coach and three carriages . <end>   2162.6910239027634
+<start> <start> Well cocks and 
+ lions do the same and stags . <end>   1978.2834795428312
+<start> <start> The seas ruler , he gazed southward over the bay , empty save for the 
+ smokeplume of the mailboat vague on the bright skyline and a sail 
+ tacking by the Muglins . <end>   2321.9172572474945
+<start> <start> In here . <end>   114.97179003056604
+<start> <start> A large and appreciative gathering of friends and acquaintances from 
+ the metropolis and greater Dublin assembled in their thousands to bid 
+ farewell to Nagyaságos uram Lipóti Virag , late of Messrs Alexander 
+ Thom s , printers to His Majesty , on the occasion of his departure for 
+ the distant clime of Százharminczbrojúgulyás - Dugulás ( Meadow of 
+ Murmuring Waters ) . <end>   2053.300663864788
+<start> <start> Meh . <end>   5647.66317287804
+<start> <start> I suppose I did say it . <end>   306.0514617323059
+<start> <start> Possibly perceiving an expression of dubiosity on their faces the 
+ globetrotter went on , adhering to his adventures . <end>   4536.209247052052
+<start> <start> I 
+ suggested to him about a transparent showcart with two smart girls 
+ sitting inside writing letters , copybooks , envelopes , blottingpaper . <end>   2629.6518019744576
+<start> <start> Get back 
+ then by the Poolbeg road to the strand there . <end>   1452.4805240794085
+<start> <start> That ll go in . <end>   87.64528171169644
+<start> <start> Catch aholt . <end>   7267.009698210774
+<start> <start> What tributes his ? <end>   2180.474760026156
+<start> <start> Paysayenn . <end>   5647.66317287804
+<start> <start> Smutty Moll for a mattress jig . <end>   5647.663172878043
+<start> <start> _ ( In strident discord peasants and townsmen of Orange and Green 
+ factions sing_ Kick the Pope _and_ Daily , daily sing to Mary . ) 
+ 
+ PRIVATE CARR : _ ( With ferocious articulation . ) _ I ll do him in , so help 
+ me fucking Christ ! <end>   506.69412637862666
+<start> <start> Look . <end>   2520.1097000583945
+<start> <start> Haven t 
+ seen you for a month of Sundays . <end>   732.290126264775
+<start> <start> It was a nun they say invented 
+ barbed wire . <end>   566.6969789753235
+<start> <start> Ten shillings . <end>   12.682401837446568
+<start> <start> Please tell me what you think of poor me . <end>   181.15452442813177
+<start> <start> Hurrah , there , says Joe . <end>   90.37350701926198
+<start> <start> Whole earnest . <end>   838.2789156040257
+<start> <start> No , says Joe . <end>   5.733191882401656
+<start> <start> What advance on two bob , gentlemen ? <end>   3328.4943946617163
+<start> <start> I am trying to work up influence with the 
+ department . <end>   273.39832842207625
+<start> <start> Get a light snack in Davy Byrne s . <end>   248.37137498277434
+<start> <start> For all things dying , for all things born . <end>   1362.6277395569682
+<start> <start> Paddy Leonard said with scorn . <end>   52.862563090393245
+<start> <start> Never about the runaway wife coming back , however much devoted to the 
+ absentee . <end>   1993.047127199044
+<start> <start> Only one lump of sugar in my tea , if you please . <end>   727.2675999876922
+<start> <start> Show us a minute . <end>   105.64909659522212
+<start> <start> Stephen touched the edges of the book . <end>   268.7002854660693
+<start> <start> Enter that 
+ antechamber of birth where the studious are assembled and note their 
+ faces . <end>   3696.2562037343087
+<start> <start> The 
+ propitious moment . <end>   177.69498897252365
+<start> <start> _Bonjour ! _ The _vieille ogresse_ with the _dents 
+ jaunes_ . <end>   966.8829335640482
+<start> <start> says Joe . <end>   5.362066692607006
+<start> <start> Stop ! <end>   18.247602249818677
+<start> <start> Ben Dollard said . <end>   6.271565570133747
+<start> <start> Stephen s embarrassed hand moved 
+ over the shells heaped in the cold stone mortar : whelks and money 
+ cowries and leopard shells : and this , whorled as an emir s turban , and 
+ this , the scallop of saint James . <end>   2300.2561813116745
+<start> <start> Lenehan in yachtsman s cap and 
+ white shoes officiously detaches a long hair from Blazes Boylan s coat 
+ shoulder . ) _ 
+ 
+ LENEHAN : Ho ! <end>   411.7400445268439
+<start> <start> He ve got the 
+ chink _ad lib_ . <end>   3212.611904953234
+<start> <start> It 
+ glowed as she crouched feeding the fire with broken boots . <end>   1006.4378556329403
+<start> <start> Seaside girls . <end>   662.5772750655251
+<start> <start> So distinct . <end>   2590.876226340228
+<start> <start> The metrical system of the canine original , which 
+ recalls the intricate alliterative and isosyllabic rules of the Welsh 
+ englyn , is infinitely more complicated but we believe our readers will 
+ agree that the spirit has been well caught . <end>   2860.5969050754425
+<start> <start> _Cloche . <end>   35.49369557982899
+<start> <start> To be short this passage was scarce by when Master Dixon of Mary in 
+ Eccles , goodly grinning , asked young Stephen what was the reason why he 
+ had not cided to take friar s vows and he answered him obedience in the 
+ womb , chastity in the tomb but involuntary poverty all his days . <end>   1666.680513193507
+<start> <start> To me it s all a mockery and beastly . <end>   1093.2351253365714
+<start> <start> Ah , yes ! <end>   9.860257310234374
+<start> <start> The sky showed him a flock of 
+ small white clouds going slowly down the wind . <end>   961.1634352519185
+<start> <start> Let me go . <end>   124.86352388406576
+<start> <start> You have but emerged from 
+ primitive conditions : we have a literature , a priesthood , an agelong 
+ history and a polity . _ 
+ 
+ Nile . <end>   1442.7475388746889
+<start> <start> And in a ladychapel another taking housel all to his own 
+ cheek . <end>   332.95829888106647
+<start> <start> Not think . <end>   282.5367816069996
+<start> <start> Is that the eldest boy in front ? <end>   959.0886026895465
+<start> <start> So he was , faith . <end>   10.259395404864444
+<start> <start> What 
+ do they love ? <end>   487.5918673110967
+<start> <start> Pat paid for diner s popcorked bottle : and over tumbler , tray and 
+ popcorked bottle ere he went he whispered , bald and bothered , with miss 
+ Douce . <end>   4191.751435481573
+<start> <start> That ll be all right , he said . <end>   8.499354249115644
+<start> <start> Queens of Dublin society . <end>   1338.3118483590006
+<start> <start> <NUM> Windsor avenue . <end>   628.9442306691537
+<start> <start> Hufa ! <end>   35.49369557982899
+<start> <start> And Madam Bloom , Mr O Madden Burke added . <end>   211.42660806826106
+<start> <start> I called you naughty boy . <end>   15.396767866977855
+<start> <start> Gob , the devil wouldn t stop him till he got hold of the bloody tin 
+ anyhow and out with him and little Alf hanging on to his elbow and he 
+ shouting like a stuck pig , as good as any bloody play in the Queen s 
+ royal theatre : 
+ 
+ Where is he till I murder him ? <end>   438.11809231209554
+<start> <start> Handsome building . <end>   7267.009698210774
+<start> <start> I 
+ own that if the poet must be rejected such a rejection would seem more 
+ in harmony with what shall I say ? our notions of what ought not to have 
+ been . <end>   1428.87158732993
+<start> <start> Instinct . <end>   35.49369557982899
+<start> <start> Just down there in Conway s we were . <end>   442.87195586271537
+<start> <start> Barney Kiernan s I promised to meet them . <end>   275.99924128470764
+<start> <start> Sargent ! <end>   7904.081152194108
+<start> <start> Got her hand crushed by old Tom Wall s son . <end>   1225.212978523876
+<start> <start> Don t you forget that ! <end>   56.805349968444624
+<start> <start> Wish I could . <end>   14.611827639143776
+<start> <start> And the very second ball little Harry Hughes played 
+ He broke the jew s windows all . <end>   114.80282923219296
+<start> <start> I m on two minds not to give that 
+ fellow in charge for obstructing the thoroughfare with his brooms and 
+ ladders . <end>   1542.1084657714825
+<start> <start> He s quite enthusiastic , don t 
+ you know , about Hyde s _Lovesongs of Connacht . _ I couldn t bring him in 
+ to hear the discussion . <end>   251.7129082553185
+<start> <start> BELLA , ZOE , FLORRY , KITTY : Ho ho ! <end>   583.9350126129141
+<start> <start> Mr Dedalus looked after the stumping figure and said mildly : 
+ 
+ The devil break the hasp of your back ! <end>   1304.6574026206824
+<start> <start> A Stuart face of nonesuch Charles , lank locks falling at its sides . <end>   2258.4685452775557
+<start> <start> That 
+ a man s soul after he dies . <end>   416.6633996659637
+<start> <start> All are washed in the 
+ blood of the sun . <end>   34.45500885708324
+<start> <start> Pray for it as you never 
+ prayed before . <end>   661.3249158446288
+<start> <start> Still you have to get rid of it someway . <end>   134.6764425846545
+<start> <start> Drunkards out to shake up their livers . <end>   2721.681124698671
+<start> <start> But where is he ? <end>   184.52512221408213
+<start> <start> _ ( Massed bands blare_ Garryowen _and_ God save the King . ) 
+ 
+ CISSY CAFFREY : They re going to fight . <end>   211.57612373545842
+<start> <start> Cometh forth ! <end>   5647.663172878045
+<start> <start> And then 
+ coming back was the worst thing you ever did because it went without 
+ saying you would feel out of place as things always moved with the 
+ times . <end>   2165.7368081457553
+<start> <start> That s what life is after all . <end>   135.84109901743588
+<start> <start> The Sacred Heart that is : showing it . <end>   749.3106888201329
+<start> <start> Of Ireland , the Dalcassians , of hopes , 
+ conspiracies , of Arthur Griffith now , A E , pimander , good shepherd of 
+ men . <end>   2232.5703889677634
+<start> <start> Where then ? <end>   279.26035397731465
+<start> <start> _ ( He sighs . ) _ Twas ever thus . <end>   344.2247925219077
+<start> <start> He looked behind through the others . <end>   227.54727356462857
+<start> <start> What s your programme today ? <end>   38.31728910052142
+<start> <start> Trams passed one another , ingoing , 
+ outgoing , clanging . <end>   4307.276097161916
+<start> <start> Ah . 
+ 
+ His hand fell to his side again . <end>   719.8079036212002
+<start> <start> He pitched a broad coin down . <end>   953.4463419310439
+<start> <start> Brown 
+ brillantined hair over his collar . <end>   2721.681124698671
+<start> <start> Are you not happy in your home 
+ you poor little naughty boy ? <end>   49.48106639606198
+<start> <start> Sell the monkey ! <end>   250.56293840279534
+<start> <start> Shades of night hovering here with all the dead stretched about . <end>   1600.6917737954168
+<start> <start> Thoth , god of libraries , a birdgod , moonycrowned . <end>   5647.663172878036
+<start> <start> Or we are surprised they have any brains . <end>   1777.1859545801608
+<start> <start> Douce gave full vent to a splendid yell , a full yell of full woman , 
+ delight , joy , indignation . <end>   2012.5215111737566
+<start> <start> Mr Kernan and Ned Lambert followed , Hynes 
+ walking after them . <end>   949.4476592816709
+<start> <start> MRS YELVERTON BARRY : Me too . <end>   9.844286436876072
+<start> <start> Pothunters too . <end>   651.4807543772295
+<start> <start> More tell me , more still ! <end>   4675.318151151542
+<start> <start> Cavan , Cootehill and Belturbet . <end>   5647.663172878042
+<start> <start> Life , love , voyage round your own little world . <end>   811.964107511223
+<start> <start> Kismet . <end>   35.49369557982899
+<start> <start> KITTY : _ ( From the sofa . ) _ Tell us , Florry . <end>   46.74134472811534
+<start> <start> So of course Bob Doran starts doing the bloody fool with him : 
+ 
+ Give us the paw ! <end>   66.65716566249185
+<start> <start> So as neither of them were particularly pressed 
+ for time , as it happened , and the temperature refreshing since it 
+ cleared up after the recent visitation of Jupiter Pluvius , they 
+ dandered along past by where the empty vehicle was waiting without a 
+ fare or a jarvey . <end>   2179.0967172194296
+<start> <start> p . <end>   502.06454050270474
+<start> <start> Wonderful . <end>   4924.183747441976
+<start> <start> Certainly seems to me I don t never see no wusser scared female than 
+ the way you been , Miss Florry , just now as I done seed you . <end>   1435.3085801344798
+<start> <start> Silent , each contemplating the other in both mirrors of the reciprocal 
+ flesh of theirhisnothis fellowfaces . <end>   5246.801596161271
+<start> <start> He smiled , pouring . <end>   24.136033809019384
+<start> <start> Under the patronage of the 
+ late Father Mathew . <end>   1139.8579074234035
+<start> <start> Thrash the mongrel within 
+ an inch of his life . <end>   1199.2416417755505
+<start> <start> Whatever statement you make , says Joe , will be taken down in evidence 
+ against you . <end>   321.30155352165906
+<start> <start> The way of all our old 
+ industries . <end>   1294.810399834407
+<start> <start> _ ( She counts . ) _ Two , three , Mars , 
+ that s courage . <end>   196.13217123293387
+<start> <start> You ll get into trouble . <end>   170.03186350539661
+<start> <start> Again , sir . <end>   50.326669479083286
+<start> <start> _Entr acte_ . <end>   5647.663172878045
+<start> <start> Had a good breakfast . <end>   983.1080578545362
+<start> <start> And would he not 
+ accept to die like the rest and pass away ? <end>   657.7351606117192
+<start> <start> Square it you with the boss and we ll split the 
+ job , see ? <end>   830.8708974219642
+<start> <start> Baraabum . <end>   33.326625859870894
+<start> <start> All 
+ kinds of places are good for ads . <end>   259.0310167429892
+<start> <start> Kitty leans over 
+ Zoe s neck . <end>   333.4880780279779
+<start> <start> Think no more about 
+ that . <end>   225.58752523745238
+<start> <start> Quarter to . <end>   851.7691847881331
+<start> <start> By Mr and Mrs L . M . Bloom . <end>   193.32442619149143
+<start> <start> I fought with 
+ the colours for king and country in the absentminded war under general 
+ Gough in the park and was disabled at Spion Kop and Bloemfontein , was 
+ mentioned in dispatches . <end>   2467.7161578519217
+<start> <start> Tim Kelly , or Kavanagh I mean . <end>   1053.197443590513
+<start> <start> Never . <end>   30.02295792653424
+<start> <start> LINKS WITH BYGONE DAYS OF YORE 
+ 
+ 
+ Grattan and Flood wrote for this very paper , the editor cried in his 
+ face . <end>   468.2239734183936
+<start> <start> To have brought a positive gain to 
+ others . <end>   698.5778763404927
+<start> <start> In an archway a standing woman , bent forward , her 
+ feet apart , pisses cowily . <end>   3224.230589296512
+<start> <start> ZOE : _ ( Quickly . ) _ O , I see . <end>   5.928064487051016
+<start> <start> Work 
+ Hynes and Crawford . <end>   1898.6788158520742
+<start> <start> Prff ! <end>   5647.66317287804
+<start> <start> The blood it is . <end>   143.97486863882338
+<start> <start> Shame all put on before third 
+ person . <end>   1362.6000420800879
+<start> <start> BIDDY THE CLAP : One immediately observes that he is of patrician 
+ lineage . <end>   630.6775178894555
+<start> <start> I hate those buggers . <end>   415.9736678670631
+<start> <start> His gaze brooded on his broadtoed boots , a buck s castoffs , 
+ _nebeneinander_ . <end>   827.958638475085
+<start> <start> On fire , on fire ! <end>   13.223083506500494
+<start> <start> Very . <end>   3047.590794991375
+<start> <start> says the citizen . <end>   5.272371085352567
+<start> <start> Good : he left her 
+ and gained the world of men . <end>   1134.1836312403198
+<start> <start> _Pfuiteufel ! _ You naughtn t to look , missus , so you 
+ naughtn t when a lady s ashowing of her elemental . <end>   2410.1681866465524
+<start> <start> Brutal , why not ? <end>   380.86061768830797
+<start> <start> Still perhaps : once in a way . <end>   75.20123611548188
+<start> <start> _ Non intres in judicium cum servo tuo , Domine . _ 
+ 
+ Makes them feel more important to be prayed over in Latin . <end>   1317.5289615416198
+<start> <start> And that awful drunkard of 
+ a wife of his . <end>   403.905022159625
+<start> <start> Useless . <end>   5295.875510804327
+<start> <start> He rests . <end>   1012.6991910884464
+<start> <start> BLOOM : _ ( Scared . ) _ High School of Poula ? <end>   314.29600366250924
+<start> <start> O please , Mr Policeman , I m lost in the 
+ wood . <end>   543.4281955684567
+<start> <start> Take thou this noble . <end>   4219.030464776746
+<start> <start> O , dear ! <end>   11.423705113516613
+<start> <start> the editor said , holding out a hand . <end>   111.33620724080717
+<start> <start> cried he who had knocked . <end>   701.6761631530475
+<start> <start> My boy ! <end>   290.38841648044536
+<start> <start> STEPHEN : How do I stand you ? <end>   393.90520830160216
+<start> <start> And , begob , I saw his physog do a peep in and then slidder off again . <end>   526.5821262585912
+<start> <start> J . J . getting him off the grand jury list 
+ and the other give him a leg over the stile . <end>   268.31236273486996
+<start> <start> I say it and I say it emphatically , 
+ without wishing for one moment to defeat the ends of justice , accused 
+ was not accessory before the act and prosecutrix has not been tampered 
+ with . <end>   1750.3053058941534
+<start> <start> _Mort aux vaches_ , says Frank then in the 
+ French language that had been indentured to a brandyshipper that has a 
+ winelodge in Bordeaux and he spoke French like a gentleman too . <end>   1758.4217759860842
+<start> <start> She s passed . <end>   115.62515473603708
+<start> <start> I want patience , 
+ said he , with those who , without wit to enliven or learning to 
+ instruct , revile an ennobling profession which , saving the reverence 
+ due to the Deity , is the greatest power for happiness upon the earth . <end>   1377.953259770585
+<start> <start> Unfortunately , I didn t catch the 
+ latter portion . <end>   1276.4814494946509
+<start> <start> In bearded abundant laughter Dollard shook upon the keyboard . <end>   3931.1644549104294
+<start> <start> No sawdust 
+ there . <end>   217.21599577013998
+<start> <start> Mr Bloom stood behind near the 
+ font and , when all had knelt , dropped carefully his unfolded newspaper 
+ from his pocket and knelt his right knee upon it . <end>   988.7053888895889
+<start> <start> He had a good slice of luck , Jack Mooney was telling me , over that 
+ boxingmatch Myler Keogh won again that soldier in the Portobello 
+ barracks . <end>   1286.4586396712464
+<start> <start> The hawklike man . <end>   322.4552241117243
+<start> <start> To keep it up . <end>   5.140314683666183
+<start> <start> FLORRY : Are you out of Maynooth ? <end>   319.0180763346563
+<start> <start> His blued feet 
+ out of turnedup trousers slapped the clammy sand , a dull brick muffler 
+ strangling his unshaven neck . <end>   1802.10171220712
+<start> <start> _Tiens , tiens_ , but it is well 
+ sad , that , my faith , yes . <end>   723.0740809013333
+<start> <start> Look at this long candle . <end>   171.1467423732621
+<start> <start> But Tommy 
+ said he wanted the ball and Edy told him no that baby was playing with 
+ the ball and if he took it there d be wigs on the green but Tommy said 
+ it was his ball and he wanted his ball and he pranced on the ground , if 
+ you please . <end>   684.0874393375462
+<start> <start> Walter squints vainly for a chair . <end>   695.7709664151671
+<start> <start> The kettle is boiling , he said . <end>   76.04466378894156
+<start> <start> As God made them he matched 
+ them . <end>   393.63349520179673
+<start> <start> I felt her pulse . <end>   1834.9745999057332
+<start> <start> Before the huge high door of the Irish house of parliament a flock of 
+ pigeons flew . <end>   845.6981428449304
+<start> <start> The only thing is to walk then you ll feel a different man . <end>   770.0254620650213
+<start> <start> They re great for the cold steel , somebody who was evidently quite in 
+ the dark said for the benefit of them all . <end>   329.9113810579245
+<start> <start> Please , sir . . . <end>   36.10607302672848
+<start> <start> His life 
+ isn t such a bed of roses . <end>   846.5503441603196
+<start> <start> he said in a kind voice . <end>   78.71142664611956
+<start> <start> Am I not right ? <end>   94.33147079064206
+<start> <start> O boys ! <end>   13.90990413255907
+<start> <start> And whereas on the sixteenth day of the month of the oxeyed goddess and 
+ in the third week after the feastday of the Holy and Undivided Trinity , 
+ the daughter of the skies , the virgin moon being then in her first 
+ quarter , it came to pass that those learned judges repaired them to the 
+ halls of law . <end>   1334.1874076876004
+<start> <start> PRIVATE CARR , PRIVATE COMPTON AND CISSY CAFFREY : 
+ 
+ Yet I ve a sort of a 
+ Yorkshire relish for . . . <end>   68.3475378269194
+<start> <start> And lo , there entered one of the clan of the O Molloy s , a comely hero 
+ of white face yet withal somewhat ruddy , his majesty s counsel learned 
+ in the law , and with him the prince and heir of the noble line of 
+ Lambert . <end>   1043.1681634733693
+<start> <start> Might take a trip down there . <end>   311.9278769847817
+<start> <start> Their eyes grew bigger as the lines were repeated . <end>   1204.7852013835366
+<start> <start> The habit of independent purchase increasingly cultivated . <end>   3002.8424331830006
+<start> <start> Howth a while ago amethyst . <end>   6522.780440171278
+<start> <start> For regarding Believe - on - Me they said it was nought else but 
+ notion and they could conceive no thought of it for , first , 
+ Two - in - the - Bush whither she ticed them was the very goodliest grot and 
+ in it were four pillows on which were four tickets with these words 
+ printed on them , Pickaback and Topsyturvy and Shameface and Cheek by 
+ Jowl and , second , for that foul plague Allpox and the monsters they 
+ cared not for them for Preservative had given them a stout shield of 
+ oxengut and , third , that they might take no hurt neither from Offspring 
+ that was that wicked devil by virtue of this same shield which was 
+ named Killchild . <end>   2372.5071253984643
+<start> <start> Had the winner today till I tipped him a dead cert . <end>   1747.0444844485646
+<start> <start> Room whirls back . <end>   1022.2186512789335
+<start> <start> BLOOM : Good night . <end>   11.241050541981231
+<start> <start> Nothing doing . <end>   104.87907598107911
+<start> <start> Other chap telling him 
+ something with his mouth full . <end>   1129.5266994215071
+<start> <start> Sensible of a benignant persistent ache in his footsoles he extended 
+ his foot to one side and observed the creases , protuberances and 
+ salient points caused by foot pressure in the course of walking 
+ repeatedly in several different directions , then , inclined , he disnoded 
+ the laceknots , unhooked and loosened the laces , took off each of his 
+ two boots for the second time , detached the partially moistened right 
+ sock through the fore part of which the nail of his great toe had again 
+ effracted , raised his right foot and , having unhooked a purple elastic 
+ sock suspender , took off his right sock , placed his unclothed right 
+ foot on the margin of the seat of his chair , picked at and gently 
+ lacerated the protruding part of the great toenail , raised the part 
+ lacerated to his nostrils and inhaled the odour of the quick , then , 
+ with satisfaction , threw away the lacerated ungual fragment . <end>   2297.336762785379
+<start> <start> Sayest thou so ? <end>   1003.448365689375
+<start> <start> Like ole 
+ Billyo . <end>   3575.1994740911746
+<start> <start> Where did you 
+ launch it from ? <end>   164.26807937431985
+<start> <start> Two quills project over his ears . ) _ 
+ 
+ VIRAG : _ ( Heels together , bows . ) _ My name is Virag Lipoti , of 
+ Szombathely . <end>   240.79053235806208
+<start> <start> Over against Dame gate Tom Rochford and Nosey Flynn watched the 
+ approach of the cavalcade . <end>   1635.892834353065
+<start> <start> _ ( He recorks himself . ) _ Yes , 
+ by Jingo , sixteen three quarters . <end>   86.46605683958371
+<start> <start> evensong Love on hackney jaunt Blazes blind coddoubled 
+ bicyclers Dilly with snowcake no fancy clothes . <end>   1360.600387162406
+<start> <start> Do you follow me ? <end>   11.530242084711567
+<start> <start> Ay , and done says I . Gob , he ll come home by weeping 
+ cross one of those days , I m thinking . <end>   505.6058959057154
+<start> <start> Like mouthfuls of strawberries and cream . <end>   65.82719687056141
+<start> <start> As said before 
+ he ate with relish the inner organs , nutty gizzards , fried cods roes 
+ while Richie Goulding , Collis , Ward ate steak and kidney , steak then 
+ kidney , bite by bite of pie he ate Bloom ate they ate . <end>   863.3399782112449
+<start> <start> Habsburg . <end>   5647.66317287804
+<start> <start> God speed scut . <end>   1416.0128226287754
+<start> <start> One of those , my lord . <end>   99.31496586466592
+<start> <start> They gazed curiously 
+ an instant and turned quickly towards a Dalkey tram . <end>   624.8256342877903
+<start> <start> Her griddlecakes done to a goldenbrown hue 
+ and queen Ann s pudding of delightful creaminess had won golden 
+ opinions from all because she had a lucky hand also for lighting a 
+ fire , dredge in the fine selfraising flour and always stir in the same 
+ direction , then cream the milk and sugar and whisk well the white of 
+ eggs though she didn t like the eating part when there were any people 
+ that made her shy and often she wondered why you couldn t eat something 
+ poetical like violets or roses and they would have a beautifully 
+ appointed drawingroom with pictures and engravings and the photograph 
+ of grandpapa Giltrap s lovely dog Garryowen that almost talked it was 
+ so human and chintz covers for the chairs and that silver toastrack in 
+ Clery s summer jumble sales like they have in rich houses . <end>   2208.5774105705905
+<start> <start> General Information About Project Gutenberg - tm electronic works 
+ 
+ Professor Michael S . Hart was the originator of the Project 
+ Gutenberg - tm concept of a library of electronic works that could be 
+ freely shared with anyone . <end>   506.84272528782253
+<start> <start> Did he then accept as an article of belief the theory of astrological 
+ influences upon sublunary disasters ? <end>   3482.628609079588
+<start> <start> I have a letter here for the press . <end>   134.68569772225786
+<start> <start> Wanted a dog to pass 
+ the time . <end>   935.8960614797066
+<start> <start> Never on the spot when wanted but in quiet 
+ parts of the city , Pembroke road for example , the guardians of the law 
+ were well in evidence , the obvious reason being they were paid to 
+ protect the upper classes . <end>   1656.8412976287793
+<start> <start> Hurry up , Terry boy , says Alf . <end>   113.59281541126448
+<start> <start> That night she met . . . <end>   168.2377730579353
+<start> <start> Gone to meet father , Maggy said . <end>   284.01514356280006
+<start> <start> His slow feet walked him riverward , reading . <end>   1589.2640947505063
+<start> <start> Like getting 
+ . <end>   904.7864037690789
+<start> <start> The Foundation 's business office is located at <NUM> North <NUM> West , 
+ Salt Lake City , UT <NUM> , ( <NUM> ) <NUM> - <NUM> . <end>   1113.6022184386952
+<start> <start> O , do , sir . <end>   13.879329436590696
+<start> <start> Undercutting . <end>   5647.66317287804
+<start> <start> Ungenitive . <end>   5647.66317287804
+<start> <start> Half a crown , Stephen responded . <end>   674.9980140307407
+<start> <start> Save China s millions . <end>   1181.9636337783331
+<start> <start> Now that s a 
+ coincidence . <end>   43.7994061734446
+<start> <start> a refined accent said in the gloom . <end>   381.48325858872556
+<start> <start> Dogs at each other behind . <end>   595.4805629727413
+<start> <start> Bout ship . <end>   651.4807543772295
+<start> <start> Yes , yes . <end>   5.130978887748269
+<start> <start> He knows your old fellow . <end>   5.4166194940115835
+<start> <start> I wouldn t mind . <end>   70.67689675786092
+<start> <start> So a fellow coming in late 
+ can see what turn is on and what turns are over . <end>   2172.945395913444
+<start> <start> Twixt me and you 
+ Caddareesh . <end>   2358.7226687532375
+<start> <start> Child s head too big : forceps . <end>   6317.27314380283
+<start> <start> On the other hand he had a distinct and painful 
+ recollection they paid his wife , Madam Marion Tweedy who had been 
+ prominently associated with it at one time , a very modest remuneration 
+ indeed for her pianoplaying . <end>   614.3497532301275
+<start> <start> Hear . <end>   5295.875510804327
+<start> <start> Numbers it is . <end>   325.9060960717911
+<start> <start> BLOOM : Father ( pater , dad ) starts thinking . <end>   945.317280868423
+<start> <start> Nightstock in Mat 
+ Dillon s garden where I kissed her shoulder . <end>   927.1799187008004
+<start> <start> Tis a merry rogue . <end>   5117.255616107081
+<start> <start> Same thing watered down . <end>   405.7757856566724
+<start> <start> All dimpled cheeks and curls , 
+ Your head it simply swirls . <end>   231.60565680730954
+<start> <start> Needs ! <end>   5647.66317287804
+<start> <start> No hentrusion in life . <end>   179.1943408694681
+<start> <start> Drunken ranters what 
+ I said about his God made him wince . <end>   2584.7874138567836
+<start> <start> Day , gentlemen . <end>   49.00062147092566
+<start> <start> _ ( To the court . ) _ Why , look at the man s private life ! <end>   45.13919358564106
+<start> <start> Ham and eggs , no . <end>   268.6420870485699
+<start> <start> Like Molly . <end>   328.13218168017056
+<start> <start> Want a cool head . <end>   358.1105986018734
+<start> <start> Padding themselves 
+ out if fat is in fashion . <end>   1174.1155127155796
+<start> <start> CORNY KELLEHER : I ll see to that . <end>   80.99038696623072
+<start> <start> Not even a caw . <end>   1326.2524417874627
+<start> <start> Great voice Richie Goulding said , a flush 
+ struggling in his pale , to Bloom soon old . <end>   819.2259058742766
+<start> <start> What will you pay on 
+ the nail ? <end>   528.7563496987706
+<start> <start> Good man , Simon . <end>   57.30797317460636
+<start> <start> At the Dolphin they halted to allow the ambulance car to gallop past 
+ them for Jervis street . <end>   2191.049344183348
+<start> <start> And now it was an office or something . <end>   85.94031134240963
+<start> <start> Regular square feed 
+ for them . <end>   511.1746197179186
+<start> <start> My 
+ colleen bawn . <end>   65.4063154922734
+<start> <start> Through the 
+ barbacans the shafts of light are moving ever , slowly ever as my feet 
+ are sinking , creeping duskward over the dial floor . <end>   3110.987256380706
+<start> <start> Longfelt want . <end>   681.6601739996216
+<start> <start> Jingle . <end>   20.523570525401
+<start> <start> Here , Simon , I ll accompany you , he said . <end>   89.33039729481911
+<start> <start> By Jesus , says he , I ll brain that bloody jewman for using the holy 
+ name . <end>   307.7464425568662
+<start> <start> There s an example again of simple souls . <end>   763.622005404701
+<start> <start> Eulogy in a country churchyard it ought to be that 
+ poem of whose is it Wordsworth or Thomas Campbell . <end>   2484.4487768363724
+<start> <start> Walls have ears . <end>   182.84693695837012
+<start> <start> The sweets of sin . <end>   6.082494321751997
+<start> <start> Learn anything if taken young . <end>   1753.7205949086224
+<start> <start> Half one , Terry , says John Wyse , and a hands up . <end>   66.30726423923177
+<start> <start> Donnez le petit 
+ bouquet à votre dame ! <end>   5647.663172878049
+<start> <start> Eat . <end>   4636.661967791358
+<start> <start> Pennyweight of powder in a skull . <end>   710.444800330964
+<start> <start> Mean bloody scut . <end>   5647.663172878048
+<start> <start> How goes the time ? <end>   278.97662853884907
+<start> <start> Stopped with Dick Tivy . <end>   5725.713919788572
+<start> <start> Martin Cunningham said shortly . <end>   13.85435205850327
+<start> <start> Wait . <end>   9.197181752885049
+<start> <start> It seems history is to blame . <end>   47.6156684413585
+<start> <start> _ ( He upturns his eyes . ) _ Mercurial Malachi ! <end>   215.08087694278902
+<start> <start> Police ! <end>   368.7645983210824
+<start> <start> And sir Leopold sat with them for he bore fast 
+ friendship to sir Simon and to this his son young Stephen and for that 
+ his languor becalmed him there after longest wanderings insomuch as 
+ they feasted him for that time in the honourablest manner . <end>   1655.5376941995642
+<start> <start> Barber s itch . <end>   5647.663172878048
+<start> <start> Their mudcabins and their shielings by the roadside were laid 
+ low by the batteringram and the _Times_ rubbed its hands and told the 
+ whitelivered Saxons there would soon be as few Irish in Ireland as 
+ redskins in America . <end>   2782.972360555821
+<start> <start> I am sorry 
+ you did not like my last letter . <end>   1200.0188590624475
+<start> <start> Know . <end>   3909.945720552354
+<start> <start> Must be his deathday . <end>   914.4045998234872
+<start> <start> Bolting to get it over . <end>   120.99458869092878
+<start> <start> The absentminded beggar , Stephen ended . <end>   942.4469546393833
+<start> <start> You bad 
+ man ! <end>   211.04486280062585
+<start> <start> It reminds me of Roman history . <end>   410.3352698042869
+<start> <start> New set of microbes . <end>   5468.941496351581
+<start> <start> Cuckoo . <end>   32.56203842684052
+<start> <start> Of course it might . <end>   96.95391002037593
+<start> <start> The influence of gaslight or electric light on the growth of adjoining 
+ paraheliotropic trees . <end>   216.80788285066203
+<start> <start> Ladies find Wonderworker especially useful , a pleasant surprise 
+ when they note delightful result like a cool drink of fresh spring 
+ water on a sultry summer s day . <end>   2779.8272501072624
+<start> <start> Holocaust . <end>   5647.66317287804
+<start> <start> Hold on , said Lenehan , till I . . . <end>   39.969318217967285
+<start> <start> Another newsboy shot past them , yelling as he ran : 
+ 
+ Racing special ! <end>   661.7179821463798
+<start> <start> This was it what all that company that sat there at commons in Manse of 
+ Mothers the most lusted after and if they met with this whore 
+ Bird - in - the - Hand ( which was within all foul plagues , monsters and a 
+ wicked devil ) they would strain the last but they would make at her and 
+ know her . <end>   1218.4317436015538
+<start> <start> Good day , Jack . <end>   19.915621104527286
+<start> <start> Hello . <end>   14.116427801491918
+<start> <start> Molly and Mrs Fleming 
+ making the bed . <end>   53.23580082440372
+<start> <start> Bravo , Simon ! <end>   1227.6783349075802
+<start> <start> Prayer for the suffering souls in the 
+ Ursuline manual and forty days indulgence . <end>   4176.8196670091675
+<start> <start> Alone , what did Bloom hear ? <end>   67.6561146764538
+<start> <start> Washed away . <end>   1110.8153620906855
+<start> <start> A . B . S . 
+ 
+ In confirmation of which statement he extricated from an inside pocket 
+ and handed to his neighbour a not very cleanlooking folded document . <end>   855.6089850159722
+<start> <start> Gas of graves . <end>   269.673484681644
+<start> <start> Come around with the plate 
+ perhaps . <end>   397.4072412262727
+<start> <start> So be off now , says he , and do all my 
+ cousin german the lord Harry tells you and take a farmer s blessing , 
+ and with that he slapped his posteriors very soundly . <end>   1376.4665827432673
+<start> <start> Good , Mr Bloom said . <end>   16.36759807617968
+<start> <start> Gabble of geese . <end>   1003.448365689375
+<start> <start> I think you re getting on very nicely . <end>   234.49782731351752
+<start> <start> No offence , Crofton . <end>   2840.607392233252
+<start> <start> Feel live warm beings near you . <end>   1662.5231677596687
+<start> <start> But their reign 
+ is rover for rever and ever and ev . . . <end>   1365.4927983247433
+<start> <start> Barang ! <end>   35.49369557982899
+<start> <start> The printed matter on it stated : _Choza de Indios . <end>   3516.54844740478
+<start> <start> Quick . <end>   20.856066783482635
+<start> <start> She calls her children home in their dark 
+ language . <end>   781.2549946888682
+<start> <start> It s my ball . <end>   186.35121258772446
+<start> <start> Every fellow for his own , tooth and nail . <end>   2102.9841713590354
+<start> <start> s . <end>   18.474233146732672
+<start> <start> Stephen bent forward and peered at the mirror held out to him , cleft by 
+ a crooked crack . <end>   611.7236900374548
+<start> <start> Better not stick here all night like a limpet . <end>   2524.683477358685
+<start> <start> Ah , curse you ! <end>   213.33307109139977
+<start> <start> _ ( He bites his 
+ thumb . ) _ 
+ 
+ BELLO : Die and be damned to you if you have any sense of decency or 
+ grace about you . <end>   249.58238814035664
+<start> <start> Like that , heavy , sweet , 
+ wild perfume . <end>   199.9608844244128
+<start> <start> Where is that Parsee tower of silence ? <end>   859.6503437878043
+<start> <start> Destitution : the inmate of Old Man s House ( Royal 
+ Hospital ) , Kilmainham , the inmate of Simpson s Hospital for reduced but 
+ respectable men permanently disabled by gout or want of sight . <end>   4525.504735466549
+<start> <start> Christ or 
+ Pilate ? <end>   6090.044544298885
+<start> <start> Bowsing nowt but claretwine . <end>   5647.663172878039
+<start> <start> BLOOM : _ ( Blushes furiously all over from frons to nates , three tears 
+ falling from his left eye . ) _ Spare my past . <end>   465.4885905530344
+<start> <start> The wise father knows his own 
+ child . <end>   131.73089832206537
+<start> <start> Then having to give the breast 
+ year after year all hours of the night . <end>   412.2383497997163
+<start> <start> No question but 
+ her name is puissant who aventried the dear corse of our Agenbuyer , 
+ Healer and Herd , our mighty mother and mother most venerable and 
+ Bernardus saith aptly that She hath an _omnipotentiam deiparae 
+ supplicem_ , that is to wit , an almightiness of petition because she is 
+ the second Eve and she won us , saith Augustine too , whereas that other , 
+ our grandam , which we are linked up with by successive anastomosis of 
+ navelcords sold us all , seed , breed and generation , for a penny pippin . <end>   3009.3576158791125
+<start> <start> A statement explanatory of his absence on the occasion of the interment 
+ of Mrs Mary Dedalus ( born Goulding ) , <NUM> June <NUM> , vigil of the 
+ anniversary of the decease of Rudolph Bloom ( born Virag ) . <end>   370.11742598154376
+<start> <start> Do you consider , by the by , he said , thoughtfully selecting a faded 
+ photo which he laid on the table , that a Spanish type ? <end>   944.1525608431031
+<start> <start> Mr F . Alexander s _Throwaway_ , b . <end>   3692.658347543193
+<start> <start> Just a moment . <end>   7.913454732717806
+<start> <start> Cissy wiped his little mouth with the dribbling bib and wanted him to 
+ sit up properly and say pa pa pa but when she undid the strap she cried 
+ out , holy saint Denis , that he was possing wet and to double the half 
+ blanket the other way under him . <end>   1862.5724714086643
+<start> <start> THE PRISON GATE GIRLS : 
+ 
+ If you see Kay 
+ Tell him he may 
+ See you in tea 
+ Tell him from me . <end>   2099.0424992575063
+<start> <start> Mr Wisdom Hely J . P . My old chief Joe Cuffe . <end>   1716.238349032158
+<start> <start> _ ( Bloom embraces her tightly and bears eight male yellow and white 
+ children . <end>   484.76929758616694
+<start> <start> He shot his bolt , I can tell you ! <end>   317.41397005570326
+<start> <start> He came over to the gunrest and , thrusting a hand into Stephen s upper 
+ pocket , said : 
+ 
+ Lend us a loan of your noserag to wipe my razor . <end>   916.0630543356473
+<start> <start> Incog Haroun 
+ al Raschid he flits behind the silent lechers and hastens on by the 
+ railings with fleet step of a pard strewing the drag behind him , torn 
+ envelopes drenched in aniseed . <end>   2453.011467222032
+<start> <start> He points 
+ an elongated finger at Bloom . ) _ 
+ 
+ THE MAN IN THE MACINTOSH : Don t you believe a word he says . <end>   316.2729942706442
+<start> <start> Dignam . <end>   17.284465545851987
+<start> <start> In 
+ Mooney s _en ville_ and in Mooney s _sur mer . _ He had received the 
+ rhino for the labour of his muse . <end>   1995.1947576902667
+<start> <start> Forward 
+ to the ribbon counter . <end>   1063.1441022078218
+<start> <start> Buck Mulligan said . <end>   4.311219261582355
+<start> <start> Why we left the church of Rome . <end>   18.93360262058405
+<start> <start> But what I am anxious to arrive at is it is one thing for 
+ instance to invent those rays Röntgen did or the telescope like Edison , 
+ though I believe it was before his time Galileo was the man , I mean , 
+ and the same applies to the laws , for example , of a farreaching natural 
+ phenomenon such as electricity but it s a horse of quite another colour 
+ to say you believe in the existence of a supernatural God . <end>   1165.2845475748309
+<start> <start> Would he understand ? <end>   252.46670810773966
+<start> <start> BELLA : Police ! <end>   23.7408005906113
+<start> <start> Avowal . <end>   35.49369557982899
+<start> <start> See him grow up . <end>   420.0106376491139
+<start> <start> Hidden under 
+ wild ferns on Howth below us bay sleeping : sky . <end>   3675.9611988476104
+<start> <start> My dear Kitty told me today that she would dance in a deluge 
+ before ever she would starve in such an ark of salvation for , as she 
+ reminded me ( blushing piquantly and whispering in my ear though there 
+ was none to snap her words but giddy butterflies ) , dame Nature , by the 
+ divine blessing , has implanted it in our hearts and it has become a 
+ household word that _il y a deux choses_ for which the innocence of our 
+ original garb , in other circumstances a breach of the proprieties , is 
+ the fittest , nay , the only garment . <end>   2212.8007708053997
+<start> <start> And at the same instant perhaps a priest round the corner is elevating 
+ it . <end>   374.0744978415677
+<start> <start> I ll say there is much kindness in the jew , he quoted , elegantly . <end>   1962.1793384876837
+<start> <start> Morning mouth bad images . <end>   6681.286405976477
+<start> <start> Symbols too 
+ of beauty and of power . <end>   1285.6943355760297
+<start> <start> Looked shut . <end>   729.5064115355729
+<start> <start> Might remain . <end>   3599.7505094475305
+<start> <start> Milly was a kiddy then . <end>   1370.5180517054434
+<start> <start> Choirboy style . <end>   651.4807543772295
+<start> <start> Come here , Tommy , his sister called imperatively . <end>   809.1028680728305
+<start> <start> But , said he , or it be long too she will bring 
+ forth by God His bounty and have joy of her childing for she hath 
+ waited marvellous long . <end>   1830.0688616663624
+<start> <start> That s too bad , says Bloom . <end>   21.422737731706857
+<start> <start> _Mi trema un poco 
+ il_ . <end>   1918.1615845217743
+<start> <start> He flung back pages of the files and stuck his finger on a point . <end>   1210.9294743149842
+<start> <start> That girl 
+ passing the Stewart institution , head in the air . <end>   538.6214387468765
+<start> <start> If you do not charge anything for 
+ copies of this eBook , complying with the trademark license is very 
+ easy . <end>   368.98427387479796
+<start> <start> s . <end>   18.474233146732672
+<start> <start> Seadeath , mildest of all deaths 
+ known to man . <end>   1418.9529644222505
+<start> <start> He moved to go . <end>   118.15620929271967
+<start> <start> Breen , says Alf . <end>   168.57433139364326
+<start> <start> Have 
+ to stand a drink or two . <end>   599.853565022725
+<start> <start> What time ? <end>   14.701557615451605
+<start> <start> Wonder if Tom Rochford will do anything with that invention of 
+ his ? <end>   732.3347451037129
+<start> <start> Husband rolling in drunk , stink of pub off him like a polecat . <end>   568.8563643577476
+<start> <start> All honeycombed 
+ the ground must be : oblong cells . <end>   2121.148115618923
+<start> <start> Father Conmee began to walk along the North Strand road and was saluted 
+ by Mr William Gallagher who stood in the doorway of his shop . <end>   954.502718561149
+<start> <start> Then a kind of a 
+ tallowy kind of a cheesy . <end>   277.28738352893964
+<start> <start> Then lie back to rest . <end>   323.0065523271951
+<start> <start> Did Stephen participate in his dejection ? <end>   2397.4675769935384
+<start> <start> The man that got away James Stephens . <end>   4.524847285133334
+<start> <start> Sighing Mr Dedalus came through the saloon , a finger soothing an 
+ eyelid . <end>   2003.0858531755161
+<start> <start> Sweet are the sweets . <end>   33.224623912225425
+<start> <start> He was but eleven months and nine days old and , though still a 
+ tiny toddler , was just beginning to lisp his first babyish words . <end>   1429.3625859108665
+<start> <start> in the course of his perambulations round the docks in 
+ the congenial atmosphere of the _Old Ireland_ tavern , come back to Erin 
+ and so on . <end>   485.57356932448255
+<start> <start> Come on , you 
+ dog - gone , bullnecked , beetlebrowed , hogjowled , peanutbrained , 
+ weaseleyed fourflushers , false alarms and excess baggage ! <end>   1861.3116319912947
+<start> <start> Picture of him on the wall with his Smashall Sweeney s 
+ moustaches , the signior Brini from Summerhill , the eyetallyano , papal 
+ Zouave to the Holy Father , has left the quay and gone to Moss street . <end>   2268.9829848109184
+<start> <start> Mr Allfours : The answer is in the negative . <end>   334.5125834297791
+<start> <start> Onehandled adulterer ! <end>   1092.8179222562933
+<start> <start> Why ? <end>   9.657286058959233
+<start> <start> I was a strapping young gossoon at that time , I tell 
+ you . <end>   114.3370131550995
+<start> <start> What rapid but insecure means to opulence might facilitate immediate 
+ purchase ? <end>   4020.2708665901405
+<start> <start> See . <end>   15.689093054523795
+<start> <start> That would do 
+ to : man always feels complimented . <end>   1123.8694089650755
+<start> <start> _Terribilia meditans_ . <end>   5647.663172878045
+<start> <start> YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE , STRICT 
+ LIABILITY , BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE 
+ PROVIDED IN PARAGRAPH <NUM> . F . <NUM> . <end>   1137.3916945026513
+<start> <start> And , faith , he 
+ filled up . <end>   126.0576312242076
+<start> <start> No , twenty . . . <end>   109.12914030182655
+<start> <start> Hurray ! <end>   11256.336782969001
+<start> <start> Will you 
+ be as gods ? <end>   1684.396712826386
+<start> <start> Long cold upper lip . <end>   1065.5805370105404
+<start> <start> His borrowers are no doubt those divers of worship 
+ mentioned by Chettle Falstaff who reported his uprightness of dealing . <end>   3173.679068893308
+<start> <start> Tight . <end>   5295.875510804327
+<start> <start> Puke it out ! <end>   1003.448365689375
+<start> <start> Not 
+ hurt ? <end>   31.33503349908292
+<start> <start> Who s standing ? <end>   660.9877071354258
+<start> <start> His eyes unhungrily saw shelves of tins : sardines , gaudy 
+ lobsters claws . <end>   1778.49088062911
+<start> <start> What have we here ? <end>   304.7639357648348
+<start> <start> says Joe . <end>   5.362066692607006
+<start> <start> Lots must be killed in storms , 
+ telegraph wires . <end>   2689.481779197925
+<start> <start> A cake of new clean lemon 
+ soap arises , diffusing light and perfume . ) _ 
+ 
+ THE SOAP : 
+ 
+ We re a capital couple are Bloom and I . 
+ He brightens the earth . <end>   727.3669534280853
+<start> <start> It is as painful perhaps to be awakened from a vision as to be 
+ born . <end>   986.411141887425
+<start> <start> Bread and butter , four , sugar , spoon , her cream . <end>   1227.2813737747
+<start> <start> Mohammed cut a piece out of his mantle not to wake her . <end>   1450.098839741896
+<start> <start> I ll be there . <end>   7.755137268917023
+<start> <start> Twelve quid , Buck Mulligan said . <end>   94.99161837571243
+<start> <start> He s from beyant Boyne water . <end>   431.1485804631051
+<start> <start> Buck Mulligan sighed tragically and laid his hand on Stephen s arm . <end>   151.24964876586006
+<start> <start> Must eat . <end>   311.1810280566178
+<start> <start> Will lift your glass with us . <end>   270.97177399704395
+<start> <start> Waken the dead . <end>   215.62692699728353
+<start> <start> Sauntering sadly , gold no more , she twisted twined a 
+ hair . <end>   1277.9755722146103
+<start> <start> Nasty bold Jacky ! <end>   1517.7911093530818
+<start> <start> Rudolph Bloom ( deceased ) narrated to his son Leopold Bloom ( aged <NUM> ) a 
+ retrospective arrangement of migrations and settlements in and between 
+ Dublin , London , Florence , Milan , Vienna , Budapest , Szombathely with 
+ statements of satisfaction ( his grandfather having seen Maria Theresia , 
+ empress of Austria , queen of Hungary ) , with commercial advice ( having 
+ taken care of pence , the pounds having taken care of themselves ) . <end>   1162.8675092699777
+<start> <start> So anyhow when I got back they were at it dingdong , John Wyse saying it 
+ was Bloom gave the ideas for Sinn Fein to Griffith to put in his paper 
+ all kinds of jerrymandering , packed juries and swindling the taxes off 
+ of the government and appointing consuls all over the world to walk 
+ about selling Irish industries . <end>   1752.791387718919
+<start> <start> Always off to a fellow when they 
+ are . <end>   419.2936670459608
+<start> <start> What is 
+ home without Plumtree s potted meat ? <end>   114.88117056737713
+<start> <start> Member for 
+ College green . <end>   2209.310719156413
+<start> <start> His hands and face were working 
+ and a tremour went over her . <end>   519.8868131882738
+<start> <start> I have . _ 
+ 
+ Pprrpffrrppffff . <end>   122.14133994925393
+<start> <start> In my 
+ opinion an action might lie . <end>   1069.0998100976983
+<start> <start> The 
+ gardens of Alameda knew her step : the garths of olives knew and bowed . <end>   1780.9980123028809
+<start> <start> There s Jimmy Henry , Mr Power said , just heading for Kavanagh s . <end>   285.5266797037374
+<start> <start> Mr Dedalus said : 
+ 
+ I am come to pay you another visit . <end>   170.45706983820745
+<start> <start> Ah , yes . <end>   6.16265654483987
+<start> <start> Written by Mr Philip 
+ Beaufoy , Playgoers Club , London . <end>   2905.7851241507815
+<start> <start> For through that tube he saw 
+ that he was in the land of Phenomenon where he must for a certain one 
+ day die as he was like the rest too a passing show . <end>   506.58162371605596
+<start> <start> a thing now of the past ! ) and a quiverful of 
+ compliant smiles for this or that halfwon housewife reckoning it out 
+ upon her fingertips or for a budding virgin , shyly acknowledging ( but 
+ the heart ? <end>   2114.7653206307195
+<start> <start> Brighton , 
+ Margate . <end>   5647.663172878039
+<start> <start> My present . <end>   290.38841648044536
+<start> <start> _ ( He horserides 
+ cockhorse , leaping in the , in the saddle . ) _ The lady goes a pace a pace 
+ and the coachman goes a trot a trot and the gentleman goes a gallop a 
+ gallop a gallop a gallop . <end>   1037.3803386949555
+<start> <start> Please tell me what perfume does your wife . <end>   9.910557339160846
+<start> <start> and everyone cried O ! <end>   1235.1441177991696
+<start> <start> Never would Richie forget that night . <end>   213.09597109681008
+<start> <start> Pa is dead . <end>   287.20049054532836
+<start> <start> ZOE : It was a commercial traveller married her and took her away with 
+ him . <end>   248.3768509979677
+<start> <start> Shouldering the lamp he staggers away through the crowd with his 
+ flaring cresset . _ 
+ 
+ _Snakes of river fog creep slowly . <end>   1451.2390627498262
+<start> <start> O Doady , loved one of old , faithful lifemate now , 
+ it may never be again , that faroff time of the roses ! <end>   2784.6133209377003
+<start> <start> Quickly he does it . <end>   129.17124175714545
+<start> <start> Nothing grows in it . <end>   74.58143588445454
+<start> <start> Sit tight . <end>   118.38740668432257
+<start> <start> Lotty Clarke , 
+ flaxenhaired , I saw at her night toilette through illclosed curtains 
+ with poor papa s operaglasses : The wanton ate grass wildly . <end>   3651.5686231353734
+<start> <start> She took no 
+ notice while he read by rote a solfa fable for her , plappering flatly : 
+ 
+ Ah fox met ah stork . <end>   2360.7252080798557
+<start> <start> They turned to the left along Abbey street . <end>   68.8890996849923
+<start> <start> Wonderful liar . <end>   5095.864654314964
+<start> <start> She didn t like it because I sprained my 
+ ankle first day she wore choir picnic at the Sugarloaf . <end>   1608.8421626943111
+<start> <start> In consequence of defective mnemotechnic . <end>   77.29616054282764
+<start> <start> Begob I saw there was trouble coming . <end>   250.7110302336642
+<start> <start> What do we care for his wife or father ? <end>   570.7620078481427
+<start> <start> No , that s noise . <end>   62.901517836855085
+<start> <start> I m not going to throw any more . <end>   28.962794587312853
+<start> <start> LYNCH : Pornosophical philotheology . <end>   999.7725230346759
+<start> <start> _ ( A female tepid effluvium leaks out from her . <end>   364.1806233923687
+<start> <start> She used to look over some nights when Molly 
+ was in the Coffee Palace . <end>   611.2597574993104
+<start> <start> Drops . <end>   5647.66317287804
+<start> <start> He pulled himself erect , 
+ went to it and , spinning it on its axle , viewed its shape and brass 
+ furnishings . <end>   2088.816236534542
+<start> <start> Peter Carey , yes . <end>   83.4700606950316
+<start> <start> _Il est irlandais . <end>   5647.663172878048
+<start> <start> ( O ! <end>   51.299069949894985
+<start> <start> They were both on the way to the boat and he tried 
+ to drown . . . . . <end>   241.71465519483655
+<start> <start> A 4th typewritten letter received by Henry Flower ( let H . F . be L . B . ) 
+ from Martha Clifford ( find M . C . ) . <end>   732.1998662009656
+<start> <start> Naked wheatbellied sin . <end>   1227.6783349075802
+<start> <start> By the way next when is it Tuesday will be the longest day . <end>   949.5006103959169
+<start> <start> I saw . <end>   14.025244579592847
+<start> <start> Light in his eyes . <end>   157.5738282632659
+<start> <start> You find my words dark . <end>   887.3172940043755
+<start> <start> What considerations rendered departure desirable ? <end>   44.7285732485488
+<start> <start> He looked almost a saint and his confessionbox was so quiet 
+ and clean and dark and his hands were just like white wax and if ever 
+ she became a Dominican nun in their white habit perhaps he might come 
+ to the convent for the novena of Saint Dominic . <end>   3141.991613230809
+<start> <start> You what ? <end>   13.49130256409445
+<start> <start> You behold in me , Stephen said with grim displeasure , a horrible 
+ example of free thought . <end>   551.0072671249713
+<start> <start> The letter is not mine . <end>   591.222018348679
+<start> <start> What a lark . <end>   8.740846047191113
+<start> <start> _ ( Virag unscrews his head in a trice and holds it under his arm . ) _ 
+ 
+ VIRAG S HEAD : Quack ! <end>   483.239009487882
+<start> <start> Still to cultivate the 
+ acquaintance of someone of no uncommon calibre who could provide food 
+ for reflection would amply repay any small . <end>   5067.3235519133805
+<start> <start> Anniversary . <end>   5647.66317287804
+<start> <start> He 
+ acts and is acted on . <end>   228.2161736078283
+<start> <start> aren t men ? ) , but , lightward 
+ gliding , mild she smiled on Boylan . <end>   1828.0545091107294
+<start> <start> * * * 
+ 
+ 
+ Two pink faces turned in the flare of the tiny torch . <end>   421.0220411343939
+<start> <start> Where s Dilly ? <end>   727.0221060733917
+<start> <start> No , not alone . <end>   81.09864858997832
+<start> <start> His farewell concerts . <end>   2517.080548661746
+<start> <start> A cored apple , filled with brown sugar , 
+ roasting for her at the hob on a dark autumn evening . <end>   1596.5211363119397
+<start> <start> POST NO BILLS . POST <NUM> 
+ PILLS . Some chap with a dose burning him . <end>   2308.254183733105
+<start> <start> Has he forgotten ? <end>   219.320419689673
+<start> <start> she said . <end>   7.948084621881938
+<start> <start> There s no - one as blind as the fellow 
+ that won t see , if you know what that means . <end>   290.44341293668447
+<start> <start> A 
+ plate crashes : a woman screams : a child wails . <end>   1874.6767989179548
+<start> <start> Such a . . . <end>   37.553342647055366
+<start> <start> _Entrez , mes enfants ! _ Lenehan cried . <end>   178.28765487293703
+<start> <start> They accuse , remarked he audibly . <end>   3346.843686489792
+<start> <start> And still the voices sang in supplication to the Virgin most powerful , 
+ Virgin most merciful . <end>   3930.4179462186253
+<start> <start> Near are lakes . <end>   4443.436633238484
+<start> <start> I saw John Henry Menton casually in the Bodega just now and it will 
+ cost me a fall if I don t . . . <end>   669.2309496212622
+<start> <start> That s music too . <end>   178.31402766534745
+<start> <start> A WHORE : He tore his coat . <end>   517.1477826437916
+<start> <start> If you so condescend 
+ Then please place at the end 
+ The name of yours truly , L . Bloom . <end>   782.2002014723494
+<start> <start> BLOOM : _ ( Weakly . ) _ They challenged me to a sprint . <end>   153.1609756148237
+<start> <start> Lord Salisbury ? <end>   3807.9439805174957
+<start> <start> Darling ! <end>   11256.336782969001
+<start> <start> She longed to go . <end>   235.04609057374023
+<start> <start> Old Kilkenny : saint Canice , Strongbow s castle on the Nore . <end>   4779.809759199338
+<start> <start> We are not in a 
+ beargarden nor at an Oxford rag nor is this a travesty of justice . <end>   741.3162737917582
+<start> <start> Today . <end>   18.66836637957337
+<start> <start> Puking 
+ overboard to feed the herrings . <end>   2586.1744187566883
+<start> <start> We were never 
+ loyal to the successful . <end>   2410.0336586114604
+<start> <start> There ? <end>   33.39327957837814
+<start> <start> On whose soul Sweet Jesus have mercy . <end>   3971.097577096959
+<start> <start> Forgotten any little Spanish she knew . <end>   931.7286534841179
+<start> <start> Farewell . <end>   27.51979130992269
+<start> <start> Girl friends at school , arms round each other s 
+ necks or with ten fingers locked , kissing and whispering secrets about 
+ nothing in the convent garden . <end>   1640.8312243058203
+<start> <start> _Sonnez ! _ 
+ 
+ Bending , she nipped a peak of skirt above her knee . <end>   953.1729667541293
+<start> <start> Whom were you trying to walk like ? <end>   610.6126165007007
+<start> <start> I 
+ pick the fellow in black . <end>   107.85187500238067
+<start> <start> _ ( She clutches again in her robe . ) _ Wait . <end>   47.27144976631501
+<start> <start> Killing simply . <end>   681.6601739996216
+<start> <start> So howandever , as I was saying , the old dog seeing the tin was empty 
+ starts mousing around by Joe and me . <end>   1103.898264721504
+<start> <start> It skills not . <end>   419.39635794206583
+<start> <start> Greeneyed monster . <end>   651.4807543772295
+<start> <start> You know Holohan ? <end>   730.611768549048
+<start> <start> I mean . . . <end>   24.6867781532747
+<start> <start> The spiked and winding cold seahorn . <end>   942.4469546393833
+<start> <start> Can you do them yourself ? <end>   154.9116026450644
+<start> <start> I feel we are . <end>   99.16466750952078
+<start> <start> What dreams would 
+ he have , not seeing ? <end>   3664.351234869601
+<start> <start> He spat blank . <end>   1827.459417447469
+<start> <start> ZOE : _ ( Catches a stray hair deftly and twists it to her coil . ) _ No 
+ bloody fear . <end>   416.7800322119641
+<start> <start> A young man clinging to a spur of rock near him , moved slowly 
+ frogwise his green legs in the deep jelly of the water . <end>   1330.2733999575264
+<start> <start> _ ( The virgins Nurse Callan and Nurse Quigley burst through the 
+ ringkeepers and the ropes and mob him with open arms . ) _ 
+ 
+ THE VIRGINS : _ ( Gushingly . ) _ Big Ben ! <end>   374.06276178858
+<start> <start> says Alf . <end>   6.709629838063749
+<start> <start> Dr Bob Kenny is 
+ attending her . <end>   2141.116961544315
+<start> <start> _Ça se voit aussi à Paris . _ Not 
+ that I . . . <end>   731.2961954749306
+<start> <start> I thought it would . <end>   31.91560779345188
+<start> <start> Full tup . <end>   4401.436757139424
+<start> <start> _ ( He gives up the ghost . <end>   151.4737324631044
+<start> <start> I was happier then . <end>   203.52611136174295
+<start> <start> Scamp ! <end>   5647.66317287804
+<start> <start> _ ( He lifts her , carries her and bumps her down on the sofa . ) _ 
+ 
+ STEPHEN : 
+ 
+ The fox crew , the cocks flew , 
+ The bells in heaven 
+ Were striking eleven . <end>   79.5378260070129
+<start> <start> Her eyes fixed themselves on him , wide in 
+ alarm , yet smiling . <end>   416.0094327841941
+<start> <start> I m the bloody well gigant rolls all them bloody well 
+ boulders , bones for my steppingstones . <end>   2381.9113733293725
+<start> <start> You re the essence of vulgarity , she in gliding said . <end>   873.3903892096046
+<start> <start> Yes , it is . <end>   5.8462815122624505
+<start> <start> I saw that picture somewhere I forget now old master or 
+ faked for money . <end>   983.4272142781996
+<start> <start> Whose admirers ? <end>   6324.064781846566
+<start> <start> Sister Mary Patrick , Maggy said . <end>   205.60751746114664
+<start> <start> She remembered : on the 27th anniversary of his birth she presented to 
+ him a breakfast moustachecup of imitation Crown Derby porcelain ware . <end>   1933.3863261333775
+<start> <start> From the sidemirrors two mourning 
+ Masters Dignam gaped silently . <end>   1134.2668078270779
+<start> <start> BELLA : _ ( Frowns . ) _ Here . <end>   35.020992640682024
+<start> <start> His head vanished but the drone of his descending voice boomed out of 
+ the stairhead : 
+ 
+ And no more turn aside and brood 
+ Upon love s bitter mystery 
+ For Fergus rules the brazen cars . <end>   509.2608894214852
+<start> <start> O jakers , Jenny , says Joe , how short your shirt is ! <end>   953.742704039032
+<start> <start> Last in a drizzle of rain 
+ on a brokenwinded isabelle nag , Cock of the North , the favourite , honey 
+ cap , green jacket , orange sleeves , Garrett Deasy up , gripping the 
+ reins , a hockeystick at the ready . <end>   3292.373871101327
+<start> <start> Plot , one hundred and one . <end>   1918.1615845217743
+<start> <start> Dead he wasn t . <end>   110.18701673229887
+<start> <start> Li Chi Han lovey up kissy Cha Pu Chow . <end>   5647.663172878041
+<start> <start> _ ( They grab at each other s hair , claw at each other and spit . ) _ 
+ 
+ THE RETRIEVER : _ ( Barking . ) _ Wow wow wow . <end>   237.33080523223495
+<start> <start> Sit her horse 
+ like a man . <end>   241.69880945772422
+<start> <start> Jimmy Henry made a grimace and lifted his left foot . <end>   2799.3072433470493
+<start> <start> Jiggedy jingle jaunty jaunty . <end>   1338.3118483590006
+<start> <start> What did Bloom do ? <end>   32.300949779618655
+<start> <start> And as no man knows the ubicity of his tumulus nor 
+ to what processes we shall thereby be ushered nor whether to Tophet or 
+ to Edenville in the like way is all hidden when we would backward see 
+ from what region of remoteness the whatness of our whoness hath fetched 
+ his whenceness . <end>   3599.0555867733888
+<start> <start> _ ( He whispers in the ear of a blushing waitress and 
+ laughs kindly . ) _ Ah , naughty , naughty ! <end>   539.5150356642004
+<start> <start> Walk now . <end>   561.8935881990495
+<start> <start> Esthetes they are . <end>   251.56568297940743
+<start> <start> Parallax . <end>   7904.081152194108
+<start> <start> At four . <end>   11.837081623876172
+<start> <start> I pass on . <end>   261.7195070108222
+<start> <start> Don t give me away . <end>   342.94363687921094
+<start> <start> Polygamy . <end>   5647.66317287804
+<start> <start> So were they all in their blind fancy , Mr Cavil and Mr 
+ Sometimes Godly , Mr Ape Swillale , Mr False Franklin , Mr Dainty Dixon , 
+ Young Boasthard and Mr Cautious Calmer . <end>   4291.019498296988
+<start> <start> Well ? <end>   15.691733836444966
+<start> <start> E . . . eleven , Mr Bloom answered . <end>   237.11615670403697
+<start> <start> ZOE : _ ( Gaily . ) _ O , my dictionary . <end>   14.261693248525344
+<start> <start> Springers . <end>   5647.66317287804
+<start> <start> That brings those rakes of 
+ fellows in : her white . <end>   2076.489987246458
+<start> <start> He will have it that _Hamlet_ is a ghoststory , John Eglinton said for 
+ Mr Best s behoof . <end>   1326.2858716272888
+<start> <start> he asked . <end>   6.222295772964433
+<start> <start> Knows whatever note you play . <end>   1641.1753984827465
+<start> <start> Crusty old topers 
+ in wigs . <end>   5647.663172878043
+<start> <start> BOYLAN : _ ( To Bloom , over his shoulder . ) _ You can apply your eye to the 
+ keyhole and play with yourself while I just go through her a few times . <end>   261.05642751261576
+<start> <start> Stephen of his own accord 
+ stopped for no special reason to look at the heap of barren 
+ cobblestones and by the light emanating from the brazier he could just 
+ make out the darker figure of the corporation watchman inside the gloom 
+ of the sentrybox . <end>   1090.8978604104182
+<start> <start> Thrust syphilis down to hell and with him 
+ those other licensed spirits . <end>   375.8300239387006
+<start> <start> If an individual Project Gutenberg - tm electronic work is 
+ derived from texts not protected by U . S . copyright law ( does not 
+ contain a notice indicating that it is posted with permission of the 
+ copyright holder ) , the work can be copied and distributed to anyone in 
+ the United States without paying any fees or charges . <end>   415.9268399564119
+<start> <start> Stephen , an elbow rested on the jagged granite , leaned his palm against 
+ his brow and gazed at the fraying edge of his shiny black coat - sleeve . <end>   1017.1030357761687
+<start> <start> Mr Stephen , a little 
+ moved but very handsomely told him no such matter and that he had 
+ dispatches from the emperor s chief tailtickler thanking him for the 
+ hospitality , that was sending over Doctor Rinderpest , the bestquoted 
+ cowcatcher in all Muscovy , with a bolus or two of physic to take the 
+ bull by the horns . <end>   988.4451904507381
+<start> <start> Was 
+ he there when the father ? <end>   484.5848340955297
