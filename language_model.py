@@ -1,7 +1,5 @@
-import sys
-import random
-import pickle
-import os
+import sys, random, math
+import pickle, os
 import numpy as np
 from sklearn.linear_model import LinearRegression
 from tokenizer import MyTokenizer
