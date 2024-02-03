@@ -74,6 +74,7 @@ def LM_GoodTuring(train_data, test_data, lm_idx, N=3):
     model.fit(log_r, log_Zr)
 
     a = model.intercept_
+    a = math.exp(a)
     b = model.coef_[0]
 
     final_prob = {}
